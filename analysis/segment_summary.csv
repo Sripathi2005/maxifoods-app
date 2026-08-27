@@ -1,0 +1,5 @@
+segment,customers,avg_recency,avg_frequency,avg_monetary
+At Risk / Churning,575,222.4,2.0,945.5
+Loyal High-Spenders,2,2.5,300.0,146053.1
+New / Occasional,1492,46.5,6.5,3169.3
+Steady Regulars,101,8.8,46.6,22756.4

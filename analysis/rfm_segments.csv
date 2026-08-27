@@ -1,0 +1,2171 @@
+customer_id,recency,frequency,monetary,cluster,segment,customer_name,diet_profile,city
+1,63,1,837.0,1,New / Occasional,Aravind Kumar 101,Flexitarian,Chennai
+2,6,23,13264.9,1,New / Occasional,Priya Swaminathan 102,Flexitarian,Chennai
+3,120,8,4308.25,1,New / Occasional,Karthik Babu 103,Flexitarian,Chennai
+4,41,5,2298.1,1,New / Occasional,Deepa Natarajan 104,Flexitarian,Chennai
+5,361,1,100.0,0,At Risk / Churning,Siddharth Mudaliar 105,Pure Veg,Chennai
+6,8,15,6944.79,1,New / Occasional,Bhavana Kumar 106,Flexitarian,Chennai
+7,71,6,1872.6,1,New / Occasional,Ramesh Swaminathan 107,Flexitarian,Chennai
+8,23,6,2576.0,1,New / Occasional,Lakshmi Babu 108,Flexitarian,Chennai
+9,253,1,220.0,0,At Risk / Churning,Vijay Natarajan 109,Pure Veg,Chennai
+10,5,27,14121.31,3,Steady Regulars,Ananya Mudaliar 110,Flexitarian,Chennai
+11,55,12,4448.14,1,New / Occasional,Suresh Kumar 111,Flexitarian,Chennai
+12,108,4,2078.3,1,New / Occasional,Divya Swaminathan 112,Flexitarian,Chennai
+13,291,1,362.0,0,At Risk / Churning,Ganesh Babu 113,Pure Veg,Chennai
+14,340,1,675.0,0,At Risk / Churning,Meena Natarajan 114,Pure Veg,Chennai
+15,84,3,1324.89,1,New / Occasional,Rajesh Mudaliar 115,Flexitarian,Chennai
+16,294,2,1112.09,0,At Risk / Churning,Kavitha Kumar 116,Flexitarian,Chennai
+17,9,2,1309.5,1,New / Occasional,Venkatesh Swaminathan 117,Pure Veg,Chennai
+18,194,3,1714.0,0,At Risk / Churning,Nandhini Babu 118,Flexitarian,Chennai
+19,57,1,693.0,1,New / Occasional,Santhosh Natarajan 119,Pure Veg,Chennai
+20,19,4,1648.35,1,New / Occasional,Swetha Mudaliar 120,Flexitarian,Chennai
+21,44,2,497.0,1,New / Occasional,Aravind Kumar 121,Pure Veg,Chennai
+22,100,1,357.0,1,New / Occasional,Priya Swaminathan 122,Pure Veg,Chennai
+23,114,1,410.4,1,New / Occasional,Karthik Babu 123,Pure Veg,Chennai
+24,9,5,2919.4,1,New / Occasional,Deepa Natarajan 124,Flexitarian,Chennai
+25,109,6,2550.0,1,New / Occasional,Siddharth Mudaliar 125,Flexitarian,Chennai
+26,4,17,8167.45,1,New / Occasional,Bhavana Kumar 126,Flexitarian,Chennai
+27,7,33,15980.79,3,Steady Regulars,Ramesh Swaminathan 127,Flexitarian,Chennai
+28,21,12,8052.61,1,New / Occasional,Lakshmi Babu 128,Flexitarian,Chennai
+29,8,4,1573.4,1,New / Occasional,Vijay Natarajan 129,Flexitarian,Chennai
+30,14,7,2702.0,1,New / Occasional,Ananya Mudaliar 130,Flexitarian,Chennai
+31,83,1,200.0,1,New / Occasional,Suresh Kumar 131,Flexitarian,Chennai
+32,245,1,459.0,0,At Risk / Churning,Divya Swaminathan 132,Pure Veg,Chennai
+33,18,18,7908.48,1,New / Occasional,Ganesh Babu 133,Flexitarian,Chennai
+34,261,1,220.0,0,At Risk / Churning,Meena Natarajan 134,Pure Veg,Chennai
+35,184,3,1351.07,0,At Risk / Churning,Rajesh Mudaliar 135,Flexitarian,Chennai
+36,125,2,570.0,1,New / Occasional,Kavitha Kumar 136,Pure Veg,Chennai
+37,52,4,1801.7,1,New / Occasional,Venkatesh Swaminathan 137,Flexitarian,Chennai
+38,47,5,1337.0,1,New / Occasional,Nandhini Babu 138,Pure Veg,Chennai
+39,312,1,391.5,0,At Risk / Churning,Santhosh Natarajan 139,Flexitarian,Chennai
+40,6,33,15899.06,3,Steady Regulars,Swetha Mudaliar 140,Flexitarian,Chennai
+41,3,9,4095.6,1,New / Occasional,Aravind Kumar 141,Flexitarian,Chennai
+42,5,17,7811.3,1,New / Occasional,Priya Swaminathan 142,Flexitarian,Chennai
+43,19,9,6747.49,1,New / Occasional,Karthik Babu 143,Flexitarian,Chennai
+44,96,4,1509.47,1,New / Occasional,Deepa Natarajan 144,Flexitarian,Chennai
+45,17,14,7416.22,1,New / Occasional,Siddharth Mudaliar 145,Flexitarian,Chennai
+46,79,2,876.8,1,New / Occasional,Bhavana Kumar 146,Pure Veg,Chennai
+47,241,2,512.54,0,At Risk / Churning,Ramesh Swaminathan 147,Flexitarian,Chennai
+48,77,3,1731.0,1,New / Occasional,Lakshmi Babu 148,Flexitarian,Chennai
+49,38,1,360.0,1,New / Occasional,Vijay Natarajan 149,Pure Veg,Chennai
+50,14,10,6212.28,1,New / Occasional,Ananya Mudaliar 150,Flexitarian,Chennai
+51,39,1,594.0,1,New / Occasional,Suresh Kumar 151,Flexitarian,Chennai
+52,105,2,656.0,1,New / Occasional,Divya Swaminathan 152,Flexitarian,Chennai
+53,23,7,2303.95,1,New / Occasional,Ganesh Babu 153,Flexitarian,Chennai
+54,81,7,2726.45,1,New / Occasional,Meena Natarajan 154,Flexitarian,Chennai
+55,182,2,2286.0,0,At Risk / Churning,Rajesh Mudaliar 155,Pure Veg,Chennai
+56,4,52,28687.41,3,Steady Regulars,Kavitha Kumar 156,Flexitarian,Chennai
+57,72,6,2512.3,1,New / Occasional,Venkatesh Swaminathan 157,Flexitarian,Chennai
+58,66,3,1118.0,1,New / Occasional,Nandhini Babu 158,Flexitarian,Chennai
+59,45,16,7897.59,1,New / Occasional,Santhosh Natarajan 159,Flexitarian,Chennai
+60,31,6,2832.97,1,New / Occasional,Swetha Mudaliar 160,Flexitarian,Chennai
+61,26,7,3254.5,1,New / Occasional,Aravind Kumar 161,Flexitarian,Chennai
+62,21,5,3077.85,1,New / Occasional,Priya Swaminathan 162,Flexitarian,Chennai
+63,198,3,1497.5,0,At Risk / Churning,Karthik Babu 163,Flexitarian,Chennai
+64,279,1,130.0,0,At Risk / Churning,Deepa Natarajan 164,Pure Veg,Chennai
+65,28,6,2935.7,1,New / Occasional,Siddharth Mudaliar 165,Flexitarian,Chennai
+66,167,6,4753.2,0,At Risk / Churning,Bhavana Kumar 166,Flexitarian,Chennai
+67,262,2,608.0,0,At Risk / Churning,Ramesh Swaminathan 167,Flexitarian,Chennai
+68,221,2,438.0,0,At Risk / Churning,Lakshmi Babu 168,Pure Veg,Chennai
+69,72,5,2897.05,1,New / Occasional,Vijay Natarajan 169,Pure Veg,Chennai
+70,171,3,2378.48,0,At Risk / Churning,Ananya Mudaliar 170,Flexitarian,Chennai
+71,47,14,6531.3,1,New / Occasional,Suresh Kumar 171,Flexitarian,Chennai
+72,131,3,2741.65,1,New / Occasional,Divya Swaminathan 172,Pure Veg,Chennai
+73,32,6,1947.4,1,New / Occasional,Ganesh Babu 173,Flexitarian,Chennai
+74,98,6,2838.5,1,New / Occasional,Meena Natarajan 174,Pure Veg,Chennai
+75,71,2,785.8,1,New / Occasional,Rajesh Mudaliar 175,Pure Veg,Chennai
+76,219,2,2014.0,0,At Risk / Churning,Kavitha Kumar 176,Pure Veg,Chennai
+77,298,1,823.5,0,At Risk / Churning,Venkatesh Swaminathan 177,Non-Veg Enthusiast,Chennai
+78,78,2,932.0,1,New / Occasional,Nandhini Babu 178,Flexitarian,Chennai
+79,139,1,191.5,0,At Risk / Churning,Santhosh Natarajan 179,Pure Veg,Chennai
+80,8,6,1580.35,1,New / Occasional,Swetha Mudaliar 180,Flexitarian,Chennai
+81,3,5,1975.15,1,New / Occasional,Aravind Kumar 181,Flexitarian,Chennai
+82,50,5,1470.6,1,New / Occasional,Priya Swaminathan 182,Flexitarian,Chennai
+83,23,13,5924.57,1,New / Occasional,Karthik Babu 183,Flexitarian,Chennai
+84,55,6,3723.3,1,New / Occasional,Deepa Natarajan 184,Flexitarian,Chennai
+85,236,2,513.3,0,At Risk / Churning,Siddharth Mudaliar 185,Pure Veg,Chennai
+86,6,7,2909.85,1,New / Occasional,Bhavana Kumar 186,Flexitarian,Chennai
+87,182,1,450.0,0,At Risk / Churning,Ramesh Swaminathan 187,Pure Veg,Chennai
+88,102,4,1574.8,1,New / Occasional,Lakshmi Babu 188,Flexitarian,Chennai
+89,129,2,1834.83,1,New / Occasional,Vijay Natarajan 189,Flexitarian,Chennai
+90,3,11,4672.68,1,New / Occasional,Ananya Mudaliar 190,Flexitarian,Chennai
+91,26,11,7141.2,1,New / Occasional,Suresh Kumar 191,Flexitarian,Chennai
+92,299,1,290.0,0,At Risk / Churning,Divya Swaminathan 192,Pure Veg,Chennai
+93,45,11,7116.8,1,New / Occasional,Ganesh Babu 193,Flexitarian,Chennai
+94,62,5,2625.07,1,New / Occasional,Meena Natarajan 194,Flexitarian,Chennai
+95,198,2,775.0,0,At Risk / Churning,Rajesh Mudaliar 195,Flexitarian,Chennai
+96,100,9,3641.9,1,New / Occasional,Kavitha Kumar 196,Flexitarian,Chennai
+97,34,5,4181.77,1,New / Occasional,Venkatesh Swaminathan 197,Flexitarian,Chennai
+98,39,11,4644.87,1,New / Occasional,Nandhini Babu 198,Flexitarian,Chennai
+99,31,8,3742.1,1,New / Occasional,Santhosh Natarajan 199,Flexitarian,Chennai
+100,87,1,314.0,1,New / Occasional,Swetha Mudaliar 200,Pure Veg,Chennai
+101,301,3,921.0,0,At Risk / Churning,Aravind Kumar 201,Flexitarian,Chennai
+102,85,2,627.5,1,New / Occasional,Priya Swaminathan 202,Flexitarian,Chennai
+103,327,1,114.0,0,At Risk / Churning,Karthik Babu 203,Pure Veg,Chennai
+104,29,9,3436.24,1,New / Occasional,Deepa Natarajan 204,Flexitarian,Chennai
+105,2,14,5464.93,1,New / Occasional,Siddharth Mudaliar 205,Flexitarian,Chennai
+106,253,1,366.0,0,At Risk / Churning,Bhavana Kumar 206,Flexitarian,Chennai
+107,20,4,1227.4,1,New / Occasional,Ramesh Swaminathan 207,Flexitarian,Chennai
+108,17,2,999.9,1,New / Occasional,Lakshmi Babu 208,Flexitarian,Chennai
+109,113,2,1741.8,1,New / Occasional,Vijay Natarajan 209,Pure Veg,Chennai
+110,237,1,357.0,0,At Risk / Churning,Ananya Mudaliar 210,Pure Veg,Chennai
+111,193,1,225.0,0,At Risk / Churning,Suresh Kumar 211,Non-Veg Enthusiast,Chennai
+112,38,15,7421.6,1,New / Occasional,Divya Swaminathan 212,Flexitarian,Chennai
+113,140,1,1411.0,0,At Risk / Churning,Ganesh Babu 213,Pure Veg,Chennai
+114,195,4,1124.7,0,At Risk / Churning,Meena Natarajan 214,Flexitarian,Chennai
+115,42,4,1618.0,1,New / Occasional,Rajesh Mudaliar 215,Flexitarian,Chennai
+116,128,2,671.0,1,New / Occasional,Kavitha Kumar 216,Pure Veg,Chennai
+117,12,25,12722.61,1,New / Occasional,Venkatesh Swaminathan 217,Flexitarian,Chennai
+118,74,21,8547.3,1,New / Occasional,Nandhini Babu 218,Flexitarian,Chennai
+119,31,4,1794.5,1,New / Occasional,Santhosh Natarajan 219,Flexitarian,Chennai
+120,131,3,1259.3,1,New / Occasional,Swetha Mudaliar 220,Flexitarian,Chennai
+121,269,1,206.48,0,At Risk / Churning,Aravind Kumar 221,Pure Veg,Chennai
+122,13,2,966.6,1,New / Occasional,Priya Swaminathan 222,Flexitarian,Chennai
+123,156,4,1790.05,0,At Risk / Churning,Karthik Babu 223,Flexitarian,Chennai
+124,125,2,951.85,1,New / Occasional,Deepa Natarajan 224,Pure Veg,Chennai
+125,246,1,411.3,0,At Risk / Churning,Siddharth Mudaliar 225,Pure Veg,Chennai
+126,110,10,4097.38,1,New / Occasional,Bhavana Kumar 226,Flexitarian,Chennai
+127,143,1,174.5,0,At Risk / Churning,Ramesh Swaminathan 227,Flexitarian,Chennai
+128,21,4,1891.1,1,New / Occasional,Lakshmi Babu 228,Flexitarian,Chennai
+129,5,39,17310.07,3,Steady Regulars,Vijay Natarajan 229,Flexitarian,Chennai
+130,91,7,3390.82,1,New / Occasional,Ananya Mudaliar 230,Flexitarian,Chennai
+131,36,14,6340.4,1,New / Occasional,Suresh Kumar 231,Flexitarian,Chennai
+132,144,1,191.5,0,At Risk / Churning,Divya Swaminathan 232,Flexitarian,Chennai
+133,10,5,3999.6,1,New / Occasional,Ganesh Babu 233,Pure Veg,Chennai
+134,252,1,380.0,0,At Risk / Churning,Meena Natarajan 234,Flexitarian,Chennai
+135,9,4,1643.4,1,New / Occasional,Rajesh Mudaliar 235,Pure Veg,Chennai
+136,99,4,1757.97,1,New / Occasional,Kavitha Kumar 236,Flexitarian,Chennai
+137,4,6,5073.62,1,New / Occasional,Venkatesh Swaminathan 237,Flexitarian,Chennai
+138,104,1,149.0,1,New / Occasional,Nandhini Babu 238,Pure Veg,Chennai
+139,47,7,2687.26,1,New / Occasional,Santhosh Natarajan 239,Flexitarian,Chennai
+140,199,1,223.0,0,At Risk / Churning,Swetha Mudaliar 240,Pure Veg,Chennai
+141,268,1,1285.2,0,At Risk / Churning,Aravind Kumar 241,Pure Veg,Chennai
+142,32,3,1091.0,1,New / Occasional,Priya Swaminathan 242,Flexitarian,Chennai
+143,251,1,432.0,0,At Risk / Churning,Karthik Babu 243,Flexitarian,Chennai
+144,163,2,990.9,0,At Risk / Churning,Deepa Natarajan 244,Flexitarian,Chennai
+145,78,5,2534.8,1,New / Occasional,Siddharth Mudaliar 245,Flexitarian,Chennai
+146,33,13,6467.16,1,New / Occasional,Bhavana Kumar 246,Flexitarian,Chennai
+147,4,2,501.4,1,New / Occasional,Ramesh Swaminathan 247,Pure Veg,Chennai
+148,30,2,1954.8,1,New / Occasional,Lakshmi Babu 248,Flexitarian,Chennai
+149,3,17,9466.98,1,New / Occasional,Vijay Natarajan 249,Flexitarian,Chennai
+150,5,10,3982.75,1,New / Occasional,Ananya Mudaliar 250,Flexitarian,Chennai
+151,256,2,1533.35,0,At Risk / Churning,Suresh Kumar 251,Flexitarian,Chennai
+152,130,6,3275.2,1,New / Occasional,Divya Swaminathan 252,Flexitarian,Chennai
+153,175,2,214.0,0,At Risk / Churning,Ganesh Babu 253,Pure Veg,Chennai
+154,9,2,1062.0,1,New / Occasional,Meena Natarajan 254,Pure Veg,Chennai
+155,17,9,4202.6,1,New / Occasional,Rajesh Mudaliar 255,Flexitarian,Chennai
+156,67,1,1241.1,1,New / Occasional,Kavitha Kumar 256,Flexitarian,Chennai
+157,145,1,552.5,0,At Risk / Churning,Venkatesh Swaminathan 257,Non-Veg Enthusiast,Chennai
+158,8,24,10549.9,1,New / Occasional,Nandhini Babu 258,Flexitarian,Chennai
+159,9,20,9533.6,1,New / Occasional,Santhosh Natarajan 259,Flexitarian,Chennai
+160,38,7,2987.9,1,New / Occasional,Swetha Mudaliar 260,Flexitarian,Chennai
+161,128,1,367.0,0,At Risk / Churning,Aravind Kumar 261,Pure Veg,Chennai
+162,215,2,739.3,0,At Risk / Churning,Priya Swaminathan 262,Flexitarian,Chennai
+163,96,8,3771.65,1,New / Occasional,Karthik Babu 263,Flexitarian,Chennai
+164,11,17,8798.3,1,New / Occasional,Deepa Natarajan 264,Flexitarian,Chennai
+165,58,6,3956.68,1,New / Occasional,Siddharth Mudaliar 265,Flexitarian,Chennai
+166,181,5,2639.34,0,At Risk / Churning,Bhavana Kumar 266,Flexitarian,Chennai
+167,67,6,3294.6,1,New / Occasional,Ramesh Swaminathan 267,Flexitarian,Chennai
+168,23,13,6675.4,1,New / Occasional,Lakshmi Babu 268,Flexitarian,Chennai
+169,35,3,1503.0,1,New / Occasional,Vijay Natarajan 269,Flexitarian,Chennai
+170,116,1,546.3,1,New / Occasional,Ananya Mudaliar 270,Flexitarian,Chennai
+171,201,3,1190.3,0,At Risk / Churning,Suresh Kumar 271,Flexitarian,Chennai
+172,43,5,2737.05,1,New / Occasional,Divya Swaminathan 272,Flexitarian,Chennai
+173,49,1,350.0,1,New / Occasional,Ganesh Babu 273,Pure Veg,Chennai
+174,6,4,1489.2,1,New / Occasional,Meena Natarajan 274,Flexitarian,Chennai
+175,278,1,418.5,0,At Risk / Churning,Rajesh Mudaliar 275,Pure Veg,Chennai
+176,20,7,2428.3,1,New / Occasional,Kavitha Kumar 276,Flexitarian,Chennai
+177,27,6,3277.81,1,New / Occasional,Venkatesh Swaminathan 277,Flexitarian,Chennai
+178,146,1,776.05,0,At Risk / Churning,Nandhini Babu 278,Flexitarian,Chennai
+179,29,8,4128.11,1,New / Occasional,Santhosh Natarajan 279,Flexitarian,Chennai
+180,59,2,1217.0,1,New / Occasional,Swetha Mudaliar 280,Flexitarian,Chennai
+181,254,1,907.62,0,At Risk / Churning,Aravind Kumar 281,Flexitarian,Chennai
+182,83,7,5341.6,1,New / Occasional,Priya Swaminathan 282,Flexitarian,Chennai
+183,111,5,3818.7,1,New / Occasional,Karthik Babu 283,Flexitarian,Chennai
+184,113,8,4015.8,1,New / Occasional,Deepa Natarajan 284,Flexitarian,Chennai
+185,47,5,2254.15,1,New / Occasional,Siddharth Mudaliar 285,Flexitarian,Chennai
+186,158,3,760.4,0,At Risk / Churning,Bhavana Kumar 286,Flexitarian,Chennai
+187,9,8,4240.6,1,New / Occasional,Ramesh Swaminathan 287,Flexitarian,Chennai
+188,173,3,1458.77,0,At Risk / Churning,Lakshmi Babu 288,Flexitarian,Chennai
+189,97,2,485.75,1,New / Occasional,Vijay Natarajan 289,Pure Veg,Chennai
+190,10,35,16818.05,3,Steady Regulars,Ananya Mudaliar 290,Flexitarian,Chennai
+191,7,4,1018.75,1,New / Occasional,Suresh Kumar 291,Flexitarian,Chennai
+192,29,16,8380.67,1,New / Occasional,Divya Swaminathan 292,Flexitarian,Chennai
+193,76,2,520.0,1,New / Occasional,Ganesh Babu 293,Pure Veg,Chennai
+194,56,4,2727.35,1,New / Occasional,Meena Natarajan 294,Flexitarian,Chennai
+195,55,2,807.6,1,New / Occasional,Rajesh Mudaliar 295,Pure Veg,Chennai
+196,320,2,1332.9,0,At Risk / Churning,Kavitha Kumar 296,Flexitarian,Chennai
+197,56,5,2299.2,1,New / Occasional,Venkatesh Swaminathan 297,Flexitarian,Chennai
+198,214,1,531.0,0,At Risk / Churning,Nandhini Babu 298,Flexitarian,Chennai
+199,13,4,1990.65,1,New / Occasional,Santhosh Natarajan 299,Flexitarian,Chennai
+200,130,2,838.5,0,At Risk / Churning,Swetha Mudaliar 300,Flexitarian,Chennai
+201,215,1,756.0,0,At Risk / Churning,Aravind Kumar 301,Pure Veg,Chennai
+202,61,4,1465.1,1,New / Occasional,Priya Swaminathan 302,Flexitarian,Chennai
+203,101,2,835.15,1,New / Occasional,Karthik Babu 303,Flexitarian,Chennai
+204,20,24,14779.78,3,Steady Regulars,Deepa Natarajan 304,Flexitarian,Chennai
+205,16,21,10463.66,1,New / Occasional,Siddharth Mudaliar 305,Flexitarian,Chennai
+206,58,15,6633.6,1,New / Occasional,Bhavana Kumar 306,Flexitarian,Chennai
+207,284,1,2034.0,0,At Risk / Churning,Ramesh Swaminathan 307,Pure Veg,Chennai
+208,54,12,4649.64,1,New / Occasional,Lakshmi Babu 308,Flexitarian,Chennai
+209,85,3,941.5,1,New / Occasional,Vijay Natarajan 309,Flexitarian,Chennai
+210,4,42,20211.57,3,Steady Regulars,Ananya Mudaliar 310,Flexitarian,Chennai
+211,3,29,14029.42,3,Steady Regulars,Suresh Kumar 311,Flexitarian,Chennai
+212,13,9,5336.6,1,New / Occasional,Divya Swaminathan 312,Flexitarian,Chennai
+213,200,2,1501.0,0,At Risk / Churning,Ganesh Babu 313,Pure Veg,Chennai
+214,246,2,1102.5,0,At Risk / Churning,Meena Natarajan 314,Pure Veg,Chennai
+215,25,9,3749.37,1,New / Occasional,Rajesh Mudaliar 315,Flexitarian,Chennai
+216,24,3,863.0,1,New / Occasional,Kavitha Kumar 316,Pure Veg,Chennai
+217,162,2,766.0,0,At Risk / Churning,Venkatesh Swaminathan 317,Flexitarian,Chennai
+218,148,2,530.65,0,At Risk / Churning,Nandhini Babu 318,Pure Veg,Chennai
+219,2,19,8245.63,1,New / Occasional,Santhosh Natarajan 319,Flexitarian,Chennai
+220,20,5,3397.17,1,New / Occasional,Swetha Mudaliar 320,Flexitarian,Chennai
+221,33,4,2660.15,1,New / Occasional,Aravind Kumar 321,Flexitarian,Chennai
+222,19,5,1938.0,1,New / Occasional,Priya Swaminathan 322,Flexitarian,Chennai
+223,10,60,30261.94,3,Steady Regulars,Karthik Babu 323,Flexitarian,Chennai
+224,11,7,2650.4,1,New / Occasional,Deepa Natarajan 324,Flexitarian,Chennai
+225,19,11,4988.88,1,New / Occasional,Siddharth Mudaliar 325,Flexitarian,Chennai
+226,36,7,3440.7,1,New / Occasional,Bhavana Kumar 326,Flexitarian,Chennai
+227,22,5,2050.0,1,New / Occasional,Ramesh Swaminathan 327,Flexitarian,Chennai
+228,13,4,2441.05,1,New / Occasional,Lakshmi Babu 328,Flexitarian,Chennai
+229,16,2,1354.5,1,New / Occasional,Vijay Natarajan 329,Flexitarian,Chennai
+230,34,3,870.25,1,New / Occasional,Ananya Mudaliar 330,Flexitarian,Chennai
+231,17,7,4152.84,1,New / Occasional,Suresh Kumar 331,Flexitarian,Chennai
+232,30,14,5867.27,1,New / Occasional,Divya Swaminathan 332,Flexitarian,Chennai
+233,36,12,5714.38,1,New / Occasional,Ganesh Babu 333,Flexitarian,Chennai
+234,6,11,5610.37,1,New / Occasional,Meena Natarajan 334,Flexitarian,Chennai
+235,24,6,2248.6,1,New / Occasional,Rajesh Mudaliar 335,Flexitarian,Chennai
+236,149,2,1475.79,0,At Risk / Churning,Kavitha Kumar 336,Pure Veg,Chennai
+237,56,10,4842.06,1,New / Occasional,Venkatesh Swaminathan 337,Flexitarian,Chennai
+238,33,6,3687.2,1,New / Occasional,Nandhini Babu 338,Pure Veg,Chennai
+239,47,6,2195.35,1,New / Occasional,Santhosh Natarajan 339,Flexitarian,Chennai
+240,41,8,4081.39,1,New / Occasional,Swetha Mudaliar 340,Flexitarian,Chennai
+241,3,14,5471.15,1,New / Occasional,Aravind Kumar 341,Flexitarian,Chennai
+242,60,2,325.0,1,New / Occasional,Priya Swaminathan 342,Flexitarian,Chennai
+243,7,3,1191.0,1,New / Occasional,Karthik Babu 343,Pure Veg,Chennai
+244,171,1,1000.8,0,At Risk / Churning,Deepa Natarajan 344,Non-Veg Enthusiast,Chennai
+245,12,3,1066.0,1,New / Occasional,Siddharth Mudaliar 345,Pure Veg,Chennai
+246,153,4,1285.5,0,At Risk / Churning,Bhavana Kumar 346,Flexitarian,Chennai
+247,8,6,2890.2,1,New / Occasional,Ramesh Swaminathan 347,Flexitarian,Chennai
+248,143,1,331.5,0,At Risk / Churning,Lakshmi Babu 348,Flexitarian,Chennai
+249,31,9,2967.3,1,New / Occasional,Vijay Natarajan 349,Flexitarian,Chennai
+250,16,3,1044.9,1,New / Occasional,Ananya Mudaliar 350,Flexitarian,Chennai
+251,228,2,1986.65,0,At Risk / Churning,Suresh Kumar 351,Flexitarian,Chennai
+252,17,2,743.2,1,New / Occasional,Divya Swaminathan 352,Pure Veg,Chennai
+253,125,4,1935.96,1,New / Occasional,Ganesh Babu 353,Pure Veg,Chennai
+254,28,2,750.5,1,New / Occasional,Meena Natarajan 354,Pure Veg,Chennai
+255,54,7,3417.87,1,New / Occasional,Rajesh Mudaliar 355,Flexitarian,Chennai
+256,124,2,395.0,1,New / Occasional,Kavitha Kumar 356,Pure Veg,Chennai
+257,52,7,4342.42,1,New / Occasional,Venkatesh Swaminathan 357,Flexitarian,Chennai
+258,16,4,1320.0,1,New / Occasional,Nandhini Babu 358,Flexitarian,Chennai
+259,3,50,22381.39,3,Steady Regulars,Santhosh Natarajan 359,Flexitarian,Chennai
+260,41,5,2087.69,1,New / Occasional,Swetha Mudaliar 360,Flexitarian,Chennai
+261,16,3,1217.5,1,New / Occasional,Aravind Kumar 361,Flexitarian,Chennai
+262,138,9,2929.23,1,New / Occasional,Priya Swaminathan 362,Flexitarian,Chennai
+263,254,1,351.0,0,At Risk / Churning,Karthik Babu 363,Pure Veg,Chennai
+264,147,3,1187.5,0,At Risk / Churning,Deepa Natarajan 364,Pure Veg,Chennai
+265,192,1,1193.64,0,At Risk / Churning,Siddharth Mudaliar 365,Flexitarian,Chennai
+266,22,4,1936.95,1,New / Occasional,Bhavana Kumar 366,Flexitarian,Chennai
+267,2,31,14434.01,3,Steady Regulars,Ramesh Swaminathan 367,Flexitarian,Chennai
+268,7,11,5881.53,1,New / Occasional,Lakshmi Babu 368,Flexitarian,Chennai
+269,62,2,590.0,1,New / Occasional,Vijay Natarajan 369,Flexitarian,Chennai
+270,123,1,512.1,1,New / Occasional,Ananya Mudaliar 370,Pure Veg,Chennai
+271,6,2,645.0,1,New / Occasional,Suresh Kumar 371,Flexitarian,Chennai
+272,228,1,516.6,0,At Risk / Churning,Divya Swaminathan 372,Flexitarian,Chennai
+273,364,1,139.0,0,At Risk / Churning,Ganesh Babu 373,Pure Veg,Chennai
+274,180,2,408.0,0,At Risk / Churning,Meena Natarajan 374,Flexitarian,Chennai
+275,277,1,75.9,0,At Risk / Churning,Rajesh Mudaliar 375,Pure Veg,Chennai
+276,185,3,737.97,0,At Risk / Churning,Kavitha Kumar 376,Flexitarian,Chennai
+277,174,1,145.0,0,At Risk / Churning,Venkatesh Swaminathan 377,Pure Veg,Chennai
+278,3,29,13700.34,3,Steady Regulars,Nandhini Babu 378,Flexitarian,Chennai
+279,107,8,3146.9,1,New / Occasional,Santhosh Natarajan 379,Flexitarian,Chennai
+280,189,2,711.0,0,At Risk / Churning,Swetha Mudaliar 380,Pure Veg,Chennai
+281,34,3,1111.0,1,New / Occasional,Aravind Kumar 381,Flexitarian,Chennai
+282,7,2,2331.0,1,New / Occasional,Priya Swaminathan 382,Flexitarian,Chennai
+283,108,3,2104.9,1,New / Occasional,Karthik Babu 383,Flexitarian,Chennai
+284,55,1,413.1,1,New / Occasional,Deepa Natarajan 384,Flexitarian,Chennai
+285,33,7,3042.3,1,New / Occasional,Siddharth Mudaliar 385,Flexitarian,Chennai
+286,226,1,393.3,0,At Risk / Churning,Bhavana Kumar 386,Flexitarian,Chennai
+287,50,1,550.8,1,New / Occasional,Ramesh Swaminathan 387,Pure Veg,Chennai
+288,80,1,314.0,1,New / Occasional,Lakshmi Babu 388,Flexitarian,Chennai
+289,22,11,4502.89,1,New / Occasional,Vijay Natarajan 389,Flexitarian,Chennai
+290,1,5,3048.3,1,New / Occasional,Ananya Mudaliar 390,Flexitarian,Chennai
+291,100,5,3994.02,1,New / Occasional,Suresh Kumar 391,Flexitarian,Chennai
+292,12,4,1655.6,1,New / Occasional,Divya Swaminathan 392,Flexitarian,Chennai
+293,83,2,637.4,1,New / Occasional,Ganesh Babu 393,Flexitarian,Chennai
+294,3,6,3004.1,1,New / Occasional,Meena Natarajan 394,Flexitarian,Chennai
+295,286,1,459.0,0,At Risk / Churning,Rajesh Mudaliar 395,Flexitarian,Chennai
+296,84,4,3779.3,1,New / Occasional,Kavitha Kumar 396,Pure Veg,Chennai
+297,5,5,2304.4,1,New / Occasional,Venkatesh Swaminathan 397,Flexitarian,Chennai
+298,295,2,1308.0,0,At Risk / Churning,Nandhini Babu 398,Pure Veg,Chennai
+299,56,2,1030.2,1,New / Occasional,Santhosh Natarajan 399,Pure Veg,Chennai
+300,283,2,1945.0,0,At Risk / Churning,Swetha Mudaliar 400,Pure Veg,Chennai
+301,232,2,723.8,0,At Risk / Churning,Aravind Kumar 401,Pure Veg,Chennai
+302,105,9,4586.15,1,New / Occasional,Priya Swaminathan 402,Flexitarian,Chennai
+303,164,3,779.23,0,At Risk / Churning,Karthik Babu 403,Flexitarian,Chennai
+304,275,1,305.15,0,At Risk / Churning,Deepa Natarajan 404,Pure Veg,Chennai
+305,22,5,1913.6,1,New / Occasional,Siddharth Mudaliar 405,Flexitarian,Chennai
+306,171,2,1041.7,0,At Risk / Churning,Bhavana Kumar 406,Flexitarian,Chennai
+307,57,5,3520.7,1,New / Occasional,Ramesh Swaminathan 407,Flexitarian,Chennai
+308,21,17,7399.25,1,New / Occasional,Lakshmi Babu 408,Flexitarian,Chennai
+309,14,3,672.05,1,New / Occasional,Vijay Natarajan 409,Pure Veg,Chennai
+310,253,1,400.0,0,At Risk / Churning,Ananya Mudaliar 410,Non-Veg Enthusiast,Chennai
+311,45,6,2490.35,1,New / Occasional,Suresh Kumar 411,Flexitarian,Chennai
+312,200,4,2390.0,0,At Risk / Churning,Divya Swaminathan 412,Pure Veg,Chennai
+313,20,3,1033.64,1,New / Occasional,Ganesh Babu 413,Flexitarian,Chennai
+314,10,16,8036.66,1,New / Occasional,Meena Natarajan 414,Flexitarian,Chennai
+315,301,2,1161.0,0,At Risk / Churning,Rajesh Mudaliar 415,Flexitarian,Chennai
+316,26,26,13823.6,3,Steady Regulars,Kavitha Kumar 416,Flexitarian,Chennai
+317,80,10,5895.6,1,New / Occasional,Venkatesh Swaminathan 417,Flexitarian,Chennai
+318,50,1,443.7,1,New / Occasional,Nandhini Babu 418,Pure Veg,Chennai
+319,134,2,708.6,0,At Risk / Churning,Santhosh Natarajan 419,Flexitarian,Chennai
+320,43,4,1228.4,1,New / Occasional,Swetha Mudaliar 420,Flexitarian,Chennai
+321,15,1,774.0,1,New / Occasional,Aravind Kumar 421,Pure Veg,Chennai
+322,71,12,5671.41,1,New / Occasional,Priya Swaminathan 422,Flexitarian,Chennai
+323,18,9,3331.4,1,New / Occasional,Karthik Babu 423,Flexitarian,Chennai
+324,66,2,931.8,1,New / Occasional,Deepa Natarajan 424,Flexitarian,Chennai
+325,111,4,1786.75,1,New / Occasional,Siddharth Mudaliar 425,Pure Veg,Chennai
+326,15,1,403.2,1,New / Occasional,Bhavana Kumar 426,Flexitarian,Chennai
+327,5,8,4427.6,1,New / Occasional,Ramesh Swaminathan 427,Flexitarian,Chennai
+328,82,5,2419.39,1,New / Occasional,Lakshmi Babu 428,Flexitarian,Chennai
+329,11,18,8177.4,1,New / Occasional,Vijay Natarajan 429,Flexitarian,Chennai
+330,95,5,1940.65,1,New / Occasional,Ananya Mudaliar 430,Flexitarian,Chennai
+331,3,5,2196.25,1,New / Occasional,Suresh Kumar 431,Pure Veg,Chennai
+332,13,36,15587.52,3,Steady Regulars,Divya Swaminathan 432,Flexitarian,Chennai
+333,33,5,3587.9,1,New / Occasional,Ganesh Babu 433,Flexitarian,Chennai
+334,6,5,2306.0,1,New / Occasional,Meena Natarajan 434,Flexitarian,Chennai
+335,17,7,4156.38,1,New / Occasional,Rajesh Mudaliar 435,Pure Veg,Chennai
+336,94,5,1177.41,1,New / Occasional,Kavitha Kumar 436,Flexitarian,Chennai
+337,5,20,10910.21,1,New / Occasional,Venkatesh Swaminathan 437,Flexitarian,Chennai
+338,30,10,4916.9,1,New / Occasional,Nandhini Babu 438,Flexitarian,Chennai
+339,288,4,1894.9,0,At Risk / Churning,Santhosh Natarajan 439,Flexitarian,Chennai
+340,104,6,3358.9,1,New / Occasional,Swetha Mudaliar 440,Flexitarian,Chennai
+341,2,6,2740.9,1,New / Occasional,Aravind Kumar 441,Flexitarian,Chennai
+342,8,13,5604.16,1,New / Occasional,Priya Swaminathan 442,Flexitarian,Chennai
+343,79,2,443.0,1,New / Occasional,Karthik Babu 443,Pure Veg,Chennai
+344,93,11,4812.85,1,New / Occasional,Deepa Natarajan 444,Flexitarian,Chennai
+345,75,4,1835.1,1,New / Occasional,Siddharth Mudaliar 445,Flexitarian,Chennai
+346,48,6,1973.92,1,New / Occasional,Bhavana Kumar 446,Flexitarian,Chennai
+347,325,1,1188.0,0,At Risk / Churning,Ramesh Swaminathan 447,Pure Veg,Chennai
+348,23,15,7391.82,1,New / Occasional,Lakshmi Babu 448,Flexitarian,Chennai
+349,69,2,339.0,1,New / Occasional,Vijay Natarajan 449,Flexitarian,Chennai
+350,3,20,10148.15,1,New / Occasional,Ananya Mudaliar 450,Flexitarian,Chennai
+351,2,23,12116.75,1,New / Occasional,Suresh Kumar 451,Flexitarian,Chennai
+352,17,4,2571.4,1,New / Occasional,Divya Swaminathan 452,Flexitarian,Chennai
+353,9,3,860.0,1,New / Occasional,Ganesh Babu 453,Flexitarian,Chennai
+354,240,1,967.5,0,At Risk / Churning,Meena Natarajan 454,Non-Veg Enthusiast,Chennai
+355,108,1,828.0,1,New / Occasional,Rajesh Mudaliar 455,Pure Veg,Chennai
+356,131,3,839.75,0,At Risk / Churning,Kavitha Kumar 456,Flexitarian,Chennai
+357,134,6,4131.7,1,New / Occasional,Venkatesh Swaminathan 457,Flexitarian,Chennai
+358,11,10,4908.39,1,New / Occasional,Nandhini Babu 458,Flexitarian,Chennai
+359,30,4,2610.0,1,New / Occasional,Santhosh Natarajan 459,Flexitarian,Chennai
+360,95,1,531.25,1,New / Occasional,Swetha Mudaliar 460,Flexitarian,Chennai
+361,114,3,1476.5,1,New / Occasional,Aravind Kumar 461,Flexitarian,Chennai
+362,13,3,2414.7,1,New / Occasional,Priya Swaminathan 462,Non-Veg Enthusiast,Chennai
+363,9,2,594.0,1,New / Occasional,Karthik Babu 463,Pure Veg,Chennai
+364,168,2,1557.9,0,At Risk / Churning,Deepa Natarajan 464,Pure Veg,Chennai
+365,37,7,2770.2,1,New / Occasional,Siddharth Mudaliar 465,Flexitarian,Chennai
+366,273,1,476.0,0,At Risk / Churning,Bhavana Kumar 466,Pure Veg,Chennai
+367,31,6,2252.7,1,New / Occasional,Ramesh Swaminathan 467,Flexitarian,Chennai
+368,125,4,1802.2,1,New / Occasional,Lakshmi Babu 468,Flexitarian,Chennai
+369,96,2,676.5,1,New / Occasional,Vijay Natarajan 469,Flexitarian,Chennai
+370,271,3,771.84,0,At Risk / Churning,Ananya Mudaliar 470,Flexitarian,Chennai
+371,125,4,1724.15,1,New / Occasional,Suresh Kumar 471,Flexitarian,Chennai
+372,82,4,1712.7,1,New / Occasional,Divya Swaminathan 472,Flexitarian,Chennai
+373,6,2,689.25,1,New / Occasional,Ganesh Babu 473,Flexitarian,Chennai
+374,315,2,1517.0,0,At Risk / Churning,Meena Natarajan 474,Pure Veg,Chennai
+375,24,60,30687.13,3,Steady Regulars,Rajesh Mudaliar 475,Flexitarian,Chennai
+376,14,7,4038.25,1,New / Occasional,Kavitha Kumar 476,Flexitarian,Chennai
+377,18,10,4141.9,1,New / Occasional,Venkatesh Swaminathan 477,Flexitarian,Chennai
+378,36,4,1366.0,1,New / Occasional,Nandhini Babu 478,Flexitarian,Chennai
+379,15,20,13267.7,1,New / Occasional,Santhosh Natarajan 479,Flexitarian,Chennai
+380,12,53,27948.43,3,Steady Regulars,Swetha Mudaliar 480,Flexitarian,Chennai
+381,105,4,3061.2,1,New / Occasional,Aravind Kumar 481,Flexitarian,Chennai
+382,39,2,552.0,1,New / Occasional,Priya Swaminathan 482,Flexitarian,Chennai
+383,253,1,720.0,0,At Risk / Churning,Karthik Babu 483,Flexitarian,Chennai
+384,35,6,2689.2,1,New / Occasional,Deepa Natarajan 484,Flexitarian,Chennai
+385,45,3,1633.9,1,New / Occasional,Siddharth Mudaliar 485,Flexitarian,Chennai
+386,303,1,270.0,0,At Risk / Churning,Bhavana Kumar 486,Pure Veg,Chennai
+387,27,14,6682.4,1,New / Occasional,Ramesh Swaminathan 487,Flexitarian,Chennai
+388,128,5,2188.6,1,New / Occasional,Lakshmi Babu 488,Flexitarian,Chennai
+389,345,1,242.0,0,At Risk / Churning,Vijay Natarajan 489,Pure Veg,Chennai
+390,19,2,1077.7,1,New / Occasional,Ananya Mudaliar 490,Flexitarian,Chennai
+391,200,1,408.6,0,At Risk / Churning,Suresh Kumar 491,Pure Veg,Chennai
+392,148,4,1863.3,0,At Risk / Churning,Divya Swaminathan 492,Flexitarian,Chennai
+393,84,9,3944.8,1,New / Occasional,Ganesh Babu 493,Flexitarian,Chennai
+394,167,4,1616.4,0,At Risk / Churning,Meena Natarajan 494,Pure Veg,Chennai
+395,48,17,5640.3,1,New / Occasional,Rajesh Mudaliar 495,Flexitarian,Chennai
+396,205,2,1602.0,0,At Risk / Churning,Kavitha Kumar 496,Flexitarian,Chennai
+397,22,12,5635.6,1,New / Occasional,Venkatesh Swaminathan 497,Flexitarian,Chennai
+398,322,1,400.0,0,At Risk / Churning,Nandhini Babu 498,Pure Veg,Chennai
+399,8,32,17061.41,3,Steady Regulars,Santhosh Natarajan 499,Flexitarian,Chennai
+400,16,26,11292.18,1,New / Occasional,Swetha Mudaliar 500,Flexitarian,Chennai
+401,3,15,6153.92,1,New / Occasional,Aravind Kumar 501,Flexitarian,Chennai
+402,131,6,2607.4,1,New / Occasional,Priya Swaminathan 502,Flexitarian,Chennai
+403,9,64,28363.18,3,Steady Regulars,Karthik Babu 503,Flexitarian,Chennai
+404,284,1,400.0,0,At Risk / Churning,Deepa Natarajan 504,Flexitarian,Chennai
+405,57,1,288.0,1,New / Occasional,Siddharth Mudaliar 505,Pure Veg,Chennai
+406,16,29,15475.36,3,Steady Regulars,Bhavana Kumar 506,Flexitarian,Chennai
+407,90,1,834.3,1,New / Occasional,Ramesh Swaminathan 507,Pure Veg,Chennai
+408,206,2,1504.8,0,At Risk / Churning,Lakshmi Babu 508,Flexitarian,Chennai
+409,7,6,2539.9,1,New / Occasional,Vijay Natarajan 509,Flexitarian,Chennai
+410,54,3,1159.9,1,New / Occasional,Ananya Mudaliar 510,Flexitarian,Chennai
+411,13,8,3410.9,1,New / Occasional,Suresh Kumar 511,Flexitarian,Chennai
+412,48,4,1893.7,1,New / Occasional,Divya Swaminathan 512,Flexitarian,Chennai
+413,34,15,6828.55,1,New / Occasional,Ganesh Babu 513,Flexitarian,Chennai
+414,161,1,77.0,0,At Risk / Churning,Meena Natarajan 514,Pure Veg,Chennai
+415,167,3,1824.3,0,At Risk / Churning,Rajesh Mudaliar 515,Flexitarian,Chennai
+416,6,20,11883.31,1,New / Occasional,Kavitha Kumar 516,Flexitarian,Chennai
+417,28,12,4083.95,1,New / Occasional,Venkatesh Swaminathan 517,Flexitarian,Chennai
+418,7,4,1637.2,1,New / Occasional,Nandhini Babu 518,Flexitarian,Chennai
+419,70,7,3343.93,1,New / Occasional,Santhosh Natarajan 519,Flexitarian,Chennai
+420,219,1,1077.3,0,At Risk / Churning,Swetha Mudaliar 520,Flexitarian,Chennai
+421,204,1,139.0,0,At Risk / Churning,Aravind Kumar 521,Non-Veg Enthusiast,Chennai
+422,8,2,648.0,1,New / Occasional,Priya Swaminathan 522,Pure Veg,Chennai
+423,28,6,2876.0,1,New / Occasional,Karthik Babu 523,Flexitarian,Chennai
+424,25,1,542.7,1,New / Occasional,Deepa Natarajan 524,Flexitarian,Chennai
+425,10,26,13971.3,3,Steady Regulars,Siddharth Mudaliar 525,Flexitarian,Chennai
+426,6,41,22007.96,3,Steady Regulars,Bhavana Kumar 526,Flexitarian,Chennai
+427,112,4,2036.0,1,New / Occasional,Ramesh Swaminathan 527,Flexitarian,Chennai
+428,282,1,432.0,0,At Risk / Churning,Lakshmi Babu 528,Pure Veg,Chennai
+429,82,4,1490.24,1,New / Occasional,Vijay Natarajan 529,Flexitarian,Chennai
+430,13,8,3399.2,1,New / Occasional,Ananya Mudaliar 530,Flexitarian,Chennai
+431,18,4,1550.1,1,New / Occasional,Suresh Kumar 531,Flexitarian,Chennai
+432,270,1,731.0,0,At Risk / Churning,Divya Swaminathan 532,Flexitarian,Chennai
+433,145,10,6134.58,1,New / Occasional,Ganesh Babu 533,Flexitarian,Chennai
+434,21,11,6270.85,1,New / Occasional,Meena Natarajan 534,Flexitarian,Chennai
+435,19,26,13702.35,3,Steady Regulars,Rajesh Mudaliar 535,Flexitarian,Chennai
+436,10,6,2493.7,1,New / Occasional,Kavitha Kumar 536,Flexitarian,Chennai
+437,32,6,1986.85,1,New / Occasional,Venkatesh Swaminathan 537,Pure Veg,Chennai
+438,80,2,1535.4,1,New / Occasional,Nandhini Babu 538,Pure Veg,Chennai
+439,23,17,7564.6,1,New / Occasional,Santhosh Natarajan 539,Flexitarian,Chennai
+440,71,11,5918.94,1,New / Occasional,Swetha Mudaliar 540,Flexitarian,Chennai
+441,310,2,1971.0,0,At Risk / Churning,Aravind Kumar 541,Pure Veg,Chennai
+442,32,8,3190.25,1,New / Occasional,Priya Swaminathan 542,Flexitarian,Chennai
+443,2,45,26946.49,3,Steady Regulars,Karthik Babu 543,Flexitarian,Chennai
+444,121,1,400.0,1,New / Occasional,Deepa Natarajan 544,Pure Veg,Chennai
+445,32,2,1796.4,1,New / Occasional,Siddharth Mudaliar 545,Pure Veg,Chennai
+446,105,1,280.0,1,New / Occasional,Bhavana Kumar 546,Pure Veg,Chennai
+447,45,23,11242.92,1,New / Occasional,Ramesh Swaminathan 547,Flexitarian,Chennai
+448,63,12,5076.85,1,New / Occasional,Lakshmi Babu 548,Flexitarian,Chennai
+449,55,7,2444.1,1,New / Occasional,Vijay Natarajan 549,Flexitarian,Chennai
+450,319,2,1331.95,0,At Risk / Churning,Ananya Mudaliar 550,Flexitarian,Chennai
+451,100,2,827.4,1,New / Occasional,Suresh Kumar 551,Flexitarian,Chennai
+452,6,16,7493.31,1,New / Occasional,Divya Swaminathan 552,Flexitarian,Chennai
+453,9,10,4096.0,1,New / Occasional,Ganesh Babu 553,Flexitarian,Chennai
+454,2,346,163446.8,2,Loyal High-Spenders,Meena Natarajan 554,Flexitarian,Chennai
+455,3,94,44370.24,3,Steady Regulars,Rajesh Mudaliar 555,Flexitarian,Chennai
+456,30,4,1599.9,1,New / Occasional,Kavitha Kumar 556,Flexitarian,Chennai
+457,17,6,2433.9,1,New / Occasional,Venkatesh Swaminathan 557,Flexitarian,Chennai
+458,13,22,11076.37,1,New / Occasional,Nandhini Babu 558,Flexitarian,Chennai
+459,40,8,3550.34,1,New / Occasional,Santhosh Natarajan 559,Flexitarian,Chennai
+460,130,3,1546.4,1,New / Occasional,Swetha Mudaliar 560,Flexitarian,Chennai
+461,14,2,1340.49,1,New / Occasional,Aravind Kumar 561,Flexitarian,Chennai
+462,38,20,11642.74,1,New / Occasional,Priya Swaminathan 562,Flexitarian,Chennai
+463,99,3,1094.05,1,New / Occasional,Karthik Babu 563,Pure Veg,Chennai
+464,73,4,1813.2,1,New / Occasional,Deepa Natarajan 564,Flexitarian,Chennai
+465,58,7,2703.3,1,New / Occasional,Siddharth Mudaliar 565,Flexitarian,Chennai
+466,40,3,993.7,1,New / Occasional,Bhavana Kumar 566,Flexitarian,Chennai
+467,14,1,765.0,1,New / Occasional,Ramesh Swaminathan 567,Pure Veg,Chennai
+468,38,4,1902.9,1,New / Occasional,Lakshmi Babu 568,Flexitarian,Chennai
+469,164,1,721.8,0,At Risk / Churning,Vijay Natarajan 569,Flexitarian,Chennai
+470,171,7,2992.3,0,At Risk / Churning,Ananya Mudaliar 570,Flexitarian,Chennai
+471,209,2,835.0,0,At Risk / Churning,Suresh Kumar 571,Flexitarian,Chennai
+472,28,8,3677.5,1,New / Occasional,Divya Swaminathan 572,Flexitarian,Chennai
+473,3,3,1272.3,1,New / Occasional,Ganesh Babu 573,Pure Veg,Chennai
+474,70,3,943.0,1,New / Occasional,Meena Natarajan 574,Flexitarian,Chennai
+475,39,9,4312.0,1,New / Occasional,Rajesh Mudaliar 575,Flexitarian,Chennai
+476,24,3,1450.8,1,New / Occasional,Kavitha Kumar 576,Flexitarian,Chennai
+477,61,1,524.7,1,New / Occasional,Venkatesh Swaminathan 577,Pure Veg,Chennai
+478,30,3,1497.05,1,New / Occasional,Nandhini Babu 578,Flexitarian,Chennai
+479,48,2,1422.9,1,New / Occasional,Santhosh Natarajan 579,Flexitarian,Chennai
+480,14,3,849.5,1,New / Occasional,Swetha Mudaliar 580,Pure Veg,Chennai
+481,114,3,885.75,1,New / Occasional,Aravind Kumar 581,Pure Veg,Chennai
+482,305,1,388.8,0,At Risk / Churning,Priya Swaminathan 582,Pure Veg,Chennai
+483,346,1,320.0,0,At Risk / Churning,Karthik Babu 583,Flexitarian,Chennai
+484,64,1,400.0,1,New / Occasional,Deepa Natarajan 584,Pure Veg,Chennai
+485,11,13,8147.54,1,New / Occasional,Siddharth Mudaliar 585,Flexitarian,Chennai
+486,10,7,3499.3,1,New / Occasional,Bhavana Kumar 586,Flexitarian,Chennai
+487,44,8,3036.04,1,New / Occasional,Ramesh Swaminathan 587,Flexitarian,Chennai
+488,34,5,2073.52,1,New / Occasional,Lakshmi Babu 588,Pure Veg,Chennai
+489,112,4,2122.8,1,New / Occasional,Vijay Natarajan 589,Flexitarian,Chennai
+490,12,14,6021.3,1,New / Occasional,Ananya Mudaliar 590,Flexitarian,Chennai
+491,51,20,10638.35,1,New / Occasional,Suresh Kumar 591,Flexitarian,Chennai
+492,65,2,460.0,1,New / Occasional,Divya Swaminathan 592,Pure Veg,Chennai
+493,45,14,7925.93,1,New / Occasional,Ganesh Babu 593,Flexitarian,Chennai
+494,201,1,621.0,0,At Risk / Churning,Meena Natarajan 594,Pure Veg,Chennai
+495,221,2,553.0,0,At Risk / Churning,Rajesh Mudaliar 595,Pure Veg,Chennai
+496,21,1,549.9,1,New / Occasional,Kavitha Kumar 596,Flexitarian,Chennai
+497,12,34,15997.6,3,Steady Regulars,Venkatesh Swaminathan 597,Flexitarian,Chennai
+498,85,2,1279.0,1,New / Occasional,Nandhini Babu 598,Flexitarian,Chennai
+499,20,9,3115.3,1,New / Occasional,Santhosh Natarajan 599,Flexitarian,Chennai
+500,214,2,765.9,0,At Risk / Churning,Swetha Mudaliar 600,Flexitarian,Chennai
+501,162,1,290.0,0,At Risk / Churning,Aravind Kumar 601,Pure Veg,Chennai
+502,5,2,1093.0,1,New / Occasional,Priya Swaminathan 602,Pure Veg,Chennai
+503,334,1,313.0,0,At Risk / Churning,Karthik Babu 603,Flexitarian,Chennai
+504,106,2,999.0,1,New / Occasional,Deepa Natarajan 604,Pure Veg,Chennai
+505,8,4,1346.2,1,New / Occasional,Siddharth Mudaliar 605,Flexitarian,Chennai
+506,300,1,570.12,0,At Risk / Churning,Bhavana Kumar 606,Flexitarian,Chennai
+507,122,1,563.4,1,New / Occasional,Ramesh Swaminathan 607,Flexitarian,Chennai
+508,2,21,8090.4,1,New / Occasional,Lakshmi Babu 608,Flexitarian,Chennai
+509,91,4,2151.12,1,New / Occasional,Vijay Natarajan 609,Flexitarian,Chennai
+510,35,6,2847.0,1,New / Occasional,Ananya Mudaliar 610,Flexitarian,Chennai
+511,110,1,386.1,1,New / Occasional,Suresh Kumar 611,Flexitarian,Chennai
+512,27,3,1371.5,1,New / Occasional,Divya Swaminathan 612,Flexitarian,Chennai
+513,346,1,683.1,0,At Risk / Churning,Ganesh Babu 613,Flexitarian,Chennai
+514,222,2,1089.0,0,At Risk / Churning,Meena Natarajan 614,Flexitarian,Chennai
+515,339,1,400.0,0,At Risk / Churning,Rajesh Mudaliar 615,Pure Veg,Chennai
+516,265,3,612.0,0,At Risk / Churning,Kavitha Kumar 616,Flexitarian,Chennai
+517,136,2,1116.75,0,At Risk / Churning,Venkatesh Swaminathan 617,Flexitarian,Chennai
+518,57,4,1606.5,1,New / Occasional,Nandhini Babu 618,Flexitarian,Chennai
+519,60,3,1925.8,1,New / Occasional,Santhosh Natarajan 619,Flexitarian,Chennai
+520,49,8,2846.41,1,New / Occasional,Swetha Mudaliar 620,Flexitarian,Chennai
+521,25,1,414.0,1,New / Occasional,Aravind Kumar 621,Flexitarian,Chennai
+522,61,6,2156.1,1,New / Occasional,Priya Swaminathan 622,Flexitarian,Chennai
+523,175,3,1405.65,0,At Risk / Churning,Karthik Babu 623,Flexitarian,Chennai
+524,39,1,96.0,1,New / Occasional,Deepa Natarajan 624,Pure Veg,Chennai
+525,19,14,8138.39,1,New / Occasional,Siddharth Mudaliar 625,Flexitarian,Chennai
+526,8,20,11179.08,1,New / Occasional,Bhavana Kumar 626,Flexitarian,Chennai
+527,98,2,702.35,1,New / Occasional,Ramesh Swaminathan 627,Flexitarian,Chennai
+528,35,12,4070.3,1,New / Occasional,Lakshmi Babu 628,Flexitarian,Chennai
+529,298,1,637.62,0,At Risk / Churning,Vijay Natarajan 629,Non-Veg Enthusiast,Chennai
+530,299,1,400.5,0,At Risk / Churning,Ananya Mudaliar 630,Flexitarian,Chennai
+531,16,1,969.27,1,New / Occasional,Suresh Kumar 631,Flexitarian,Chennai
+532,5,7,2498.64,1,New / Occasional,Divya Swaminathan 632,Flexitarian,Chennai
+533,39,3,937.0,1,New / Occasional,Ganesh Babu 633,Flexitarian,Chennai
+534,338,1,451.8,0,At Risk / Churning,Meena Natarajan 634,Pure Veg,Chennai
+535,14,8,3232.49,1,New / Occasional,Rajesh Mudaliar 635,Flexitarian,Chennai
+536,171,1,414.0,0,At Risk / Churning,Kavitha Kumar 636,Flexitarian,Chennai
+537,236,2,960.0,0,At Risk / Churning,Venkatesh Swaminathan 637,Flexitarian,Chennai
+538,7,9,3758.85,1,New / Occasional,Nandhini Babu 638,Flexitarian,Chennai
+539,4,11,7107.35,1,New / Occasional,Santhosh Natarajan 639,Flexitarian,Chennai
+540,111,5,3948.4,1,New / Occasional,Swetha Mudaliar 640,Flexitarian,Chennai
+541,73,4,1237.4,1,New / Occasional,Aravind Kumar 641,Flexitarian,Chennai
+542,154,2,925.9,0,At Risk / Churning,Priya Swaminathan 642,Pure Veg,Chennai
+543,40,5,2156.95,1,New / Occasional,Karthik Babu 643,Flexitarian,Chennai
+544,287,1,384.3,0,At Risk / Churning,Deepa Natarajan 644,Pure Veg,Chennai
+545,23,2,1359.0,1,New / Occasional,Siddharth Mudaliar 645,Flexitarian,Chennai
+546,42,1,643.5,1,New / Occasional,Bhavana Kumar 646,Pure Veg,Chennai
+547,9,2,628.9,1,New / Occasional,Ramesh Swaminathan 647,Pure Veg,Chennai
+548,101,1,496.4,1,New / Occasional,Lakshmi Babu 648,Non-Veg Enthusiast,Chennai
+549,117,1,325.0,1,New / Occasional,Vijay Natarajan 649,Pure Veg,Chennai
+550,76,3,1723.6,1,New / Occasional,Ananya Mudaliar 650,Flexitarian,Chennai
+551,6,12,5588.39,1,New / Occasional,Suresh Kumar 651,Flexitarian,Chennai
+552,112,4,2235.38,1,New / Occasional,Divya Swaminathan 652,Flexitarian,Chennai
+553,5,6,2748.55,1,New / Occasional,Ganesh Babu 653,Flexitarian,Chennai
+554,58,8,4055.4,1,New / Occasional,Meena Natarajan 654,Flexitarian,Chennai
+555,180,4,2048.8,0,At Risk / Churning,Rajesh Mudaliar 655,Flexitarian,Chennai
+556,113,1,265.0,1,New / Occasional,Kavitha Kumar 656,Pure Veg,Chennai
+557,22,4,1328.5,1,New / Occasional,Venkatesh Swaminathan 657,Flexitarian,Chennai
+558,246,4,2116.3,0,At Risk / Churning,Nandhini Babu 658,Flexitarian,Chennai
+559,41,2,604.15,1,New / Occasional,Santhosh Natarajan 659,Pure Veg,Chennai
+560,189,2,1399.5,0,At Risk / Churning,Swetha Mudaliar 660,Pure Veg,Chennai
+561,49,1,280.0,1,New / Occasional,Aravind Kumar 661,Pure Veg,Chennai
+562,295,2,1174.0,0,At Risk / Churning,Priya Swaminathan 662,Pure Veg,Chennai
+563,87,2,987.4,1,New / Occasional,Karthik Babu 663,Pure Veg,Chennai
+564,183,1,499.5,0,At Risk / Churning,Deepa Natarajan 664,Flexitarian,Chennai
+565,88,2,917.1,1,New / Occasional,Siddharth Mudaliar 665,Flexitarian,Chennai
+566,5,46,21177.53,3,Steady Regulars,Bhavana Kumar 666,Flexitarian,Chennai
+567,208,2,777.67,0,At Risk / Churning,Ramesh Swaminathan 667,Flexitarian,Chennai
+568,39,2,692.7,1,New / Occasional,Lakshmi Babu 668,Pure Veg,Chennai
+569,164,1,423.0,0,At Risk / Churning,Vijay Natarajan 669,Pure Veg,Chennai
+570,79,1,742.5,1,New / Occasional,Ananya Mudaliar 670,Pure Veg,Chennai
+571,271,1,263.5,0,At Risk / Churning,Suresh Kumar 671,Pure Veg,Chennai
+572,82,3,2313.9,1,New / Occasional,Divya Swaminathan 672,Pure Veg,Chennai
+573,206,2,760.5,0,At Risk / Churning,Ganesh Babu 673,Flexitarian,Chennai
+574,74,13,7276.83,1,New / Occasional,Meena Natarajan 674,Flexitarian,Chennai
+575,107,4,1867.0,1,New / Occasional,Rajesh Mudaliar 675,Flexitarian,Chennai
+576,55,3,1068.53,1,New / Occasional,Kavitha Kumar 676,Flexitarian,Chennai
+577,2,54,26267.31,3,Steady Regulars,Venkatesh Swaminathan 677,Flexitarian,Chennai
+578,65,1,864.0,1,New / Occasional,Nandhini Babu 678,Pure Veg,Chennai
+579,298,1,589.5,0,At Risk / Churning,Santhosh Natarajan 679,Pure Veg,Chennai
+580,16,17,8864.58,1,New / Occasional,Swetha Mudaliar 680,Flexitarian,Chennai
+581,12,11,5595.2,1,New / Occasional,Aravind Kumar 681,Flexitarian,Chennai
+582,23,12,5265.99,1,New / Occasional,Priya Swaminathan 682,Flexitarian,Chennai
+583,75,3,1707.0,1,New / Occasional,Karthik Babu 683,Flexitarian,Chennai
+584,20,2,689.0,1,New / Occasional,Deepa Natarajan 684,Flexitarian,Chennai
+585,20,7,3199.62,1,New / Occasional,Siddharth Mudaliar 685,Flexitarian,Chennai
+586,20,17,11251.28,1,New / Occasional,Bhavana Kumar 686,Flexitarian,Chennai
+587,20,2,1616.95,1,New / Occasional,Ramesh Swaminathan 687,Flexitarian,Chennai
+588,83,4,1433.0,1,New / Occasional,Lakshmi Babu 688,Flexitarian,Chennai
+589,54,1,382.5,1,New / Occasional,Vijay Natarajan 689,Pure Veg,Chennai
+590,7,12,5025.2,1,New / Occasional,Ananya Mudaliar 690,Flexitarian,Chennai
+591,294,3,1838.7,0,At Risk / Churning,Suresh Kumar 691,Flexitarian,Chennai
+592,28,5,1748.7,1,New / Occasional,Divya Swaminathan 692,Flexitarian,Chennai
+593,192,3,1305.0,0,At Risk / Churning,Ganesh Babu 693,Flexitarian,Chennai
+594,236,2,519.0,0,At Risk / Churning,Meena Natarajan 694,Flexitarian,Chennai
+595,155,1,1037.0,0,At Risk / Churning,Rajesh Mudaliar 695,Pure Veg,Chennai
+596,285,1,323.0,0,At Risk / Churning,Kavitha Kumar 696,Flexitarian,Chennai
+597,154,3,1261.65,0,At Risk / Churning,Venkatesh Swaminathan 697,Pure Veg,Chennai
+598,110,5,2243.8,1,New / Occasional,Nandhini Babu 698,Flexitarian,Chennai
+599,332,1,815.4,0,At Risk / Churning,Santhosh Natarajan 699,Flexitarian,Chennai
+600,23,2,790.2,1,New / Occasional,Swetha Mudaliar 700,Pure Veg,Chennai
+601,57,1,499.5,1,New / Occasional,Aravind Kumar 701,Pure Veg,Chennai
+602,339,1,845.1,0,At Risk / Churning,Priya Swaminathan 702,Flexitarian,Chennai
+603,9,48,23969.21,3,Steady Regulars,Karthik Babu 703,Flexitarian,Chennai
+604,24,10,5072.68,1,New / Occasional,Deepa Natarajan 704,Flexitarian,Chennai
+605,52,4,1898.5,1,New / Occasional,Siddharth Mudaliar 705,Flexitarian,Chennai
+606,119,6,1564.95,1,New / Occasional,Bhavana Kumar 706,Flexitarian,Chennai
+607,2,4,3320.56,1,New / Occasional,Ramesh Swaminathan 707,Flexitarian,Chennai
+608,10,4,2648.0,1,New / Occasional,Lakshmi Babu 708,Flexitarian,Chennai
+609,107,3,1353.55,1,New / Occasional,Vijay Natarajan 709,Flexitarian,Chennai
+610,31,6,3420.75,1,New / Occasional,Ananya Mudaliar 710,Flexitarian,Chennai
+611,74,3,1300.8,1,New / Occasional,Suresh Kumar 711,Flexitarian,Chennai
+612,24,19,9360.68,1,New / Occasional,Divya Swaminathan 712,Flexitarian,Chennai
+613,7,12,7355.27,1,New / Occasional,Ganesh Babu 713,Flexitarian,Chennai
+614,15,26,13820.89,3,Steady Regulars,Meena Natarajan 714,Flexitarian,Chennai
+615,11,4,1692.0,1,New / Occasional,Rajesh Mudaliar 715,Flexitarian,Chennai
+616,61,6,3148.35,1,New / Occasional,Kavitha Kumar 716,Flexitarian,Chennai
+617,16,24,12361.06,1,New / Occasional,Venkatesh Swaminathan 717,Flexitarian,Chennai
+618,92,2,1797.7,1,New / Occasional,Nandhini Babu 718,Flexitarian,Chennai
+619,145,1,520.2,0,At Risk / Churning,Santhosh Natarajan 719,Pure Veg,Chennai
+620,12,7,3710.6,1,New / Occasional,Swetha Mudaliar 720,Flexitarian,Chennai
+621,36,2,848.15,1,New / Occasional,Aravind Kumar 721,Flexitarian,Chennai
+622,4,14,4763.89,1,New / Occasional,Priya Swaminathan 722,Flexitarian,Chennai
+623,5,2,947.0,1,New / Occasional,Karthik Babu 723,Flexitarian,Chennai
+624,6,4,3264.0,1,New / Occasional,Deepa Natarajan 724,Pure Veg,Chennai
+625,150,1,799.0,0,At Risk / Churning,Siddharth Mudaliar 725,Non-Veg Enthusiast,Chennai
+626,52,2,232.0,1,New / Occasional,Bhavana Kumar 726,Pure Veg,Chennai
+627,196,1,365.0,0,At Risk / Churning,Ramesh Swaminathan 727,Pure Veg,Chennai
+628,3,7,3611.1,1,New / Occasional,Lakshmi Babu 728,Flexitarian,Chennai
+629,37,10,5133.1,1,New / Occasional,Vijay Natarajan 729,Flexitarian,Chennai
+630,131,2,570.81,0,At Risk / Churning,Ananya Mudaliar 730,Flexitarian,Chennai
+631,232,2,570.0,0,At Risk / Churning,Suresh Kumar 731,Flexitarian,Chennai
+632,30,6,3240.22,1,New / Occasional,Divya Swaminathan 732,Flexitarian,Chennai
+633,139,4,1710.2,0,At Risk / Churning,Ganesh Babu 733,Flexitarian,Chennai
+634,187,3,744.85,0,At Risk / Churning,Meena Natarajan 734,Flexitarian,Chennai
+635,29,3,2007.0,1,New / Occasional,Rajesh Mudaliar 735,Pure Veg,Chennai
+636,196,3,963.0,0,At Risk / Churning,Kavitha Kumar 736,Pure Veg,Chennai
+637,2,8,4682.07,1,New / Occasional,Venkatesh Swaminathan 737,Flexitarian,Chennai
+638,18,11,6243.11,1,New / Occasional,Nandhini Babu 738,Flexitarian,Chennai
+639,159,2,613.3,0,At Risk / Churning,Santhosh Natarajan 739,Flexitarian,Chennai
+640,14,14,5520.26,1,New / Occasional,Swetha Mudaliar 740,Flexitarian,Chennai
+641,75,4,1720.4,1,New / Occasional,Aravind Kumar 741,Flexitarian,Chennai
+642,43,4,1420.24,1,New / Occasional,Priya Swaminathan 742,Flexitarian,Chennai
+643,26,13,5234.9,1,New / Occasional,Karthik Babu 743,Flexitarian,Chennai
+644,97,5,1419.41,1,New / Occasional,Deepa Natarajan 744,Flexitarian,Chennai
+645,171,1,270.0,0,At Risk / Churning,Siddharth Mudaliar 745,Pure Veg,Chennai
+646,21,22,12437.77,1,New / Occasional,Bhavana Kumar 746,Flexitarian,Chennai
+647,9,12,5195.34,1,New / Occasional,Ramesh Swaminathan 747,Flexitarian,Chennai
+648,222,2,690.6,0,At Risk / Churning,Lakshmi Babu 748,Flexitarian,Chennai
+649,3,7,2780.11,1,New / Occasional,Vijay Natarajan 749,Flexitarian,Chennai
+650,30,5,1890.85,1,New / Occasional,Ananya Mudaliar 750,Flexitarian,Chennai
+651,22,5,2012.0,1,New / Occasional,Suresh Kumar 751,Flexitarian,Chennai
+652,3,14,7706.44,1,New / Occasional,Divya Swaminathan 752,Flexitarian,Chennai
+653,6,8,3286.45,1,New / Occasional,Ganesh Babu 753,Flexitarian,Chennai
+654,179,1,702.0,0,At Risk / Churning,Meena Natarajan 754,Flexitarian,Chennai
+655,4,3,1327.5,1,New / Occasional,Rajesh Mudaliar 755,Flexitarian,Chennai
+656,86,3,1385.05,1,New / Occasional,Kavitha Kumar 756,Flexitarian,Chennai
+657,326,1,378.9,0,At Risk / Churning,Venkatesh Swaminathan 757,Pure Veg,Chennai
+658,103,4,1770.0,1,New / Occasional,Nandhini Babu 758,Pure Veg,Chennai
+659,30,7,2686.95,1,New / Occasional,Santhosh Natarajan 759,Flexitarian,Chennai
+660,6,11,4863.1,1,New / Occasional,Swetha Mudaliar 760,Flexitarian,Chennai
+661,112,4,2480.2,1,New / Occasional,Aravind Kumar 761,Pure Veg,Chennai
+662,12,10,5870.55,1,New / Occasional,Priya Swaminathan 762,Flexitarian,Chennai
+663,271,1,261.2,0,At Risk / Churning,Karthik Babu 763,Pure Veg,Chennai
+664,95,9,3637.4,1,New / Occasional,Deepa Natarajan 764,Flexitarian,Chennai
+665,189,1,368.1,0,At Risk / Churning,Siddharth Mudaliar 765,Pure Veg,Chennai
+666,141,1,244.2,0,At Risk / Churning,Bhavana Kumar 766,Pure Veg,Chennai
+667,22,5,2026.5,1,New / Occasional,Ramesh Swaminathan 767,Flexitarian,Chennai
+668,184,1,364.5,0,At Risk / Churning,Lakshmi Babu 768,Pure Veg,Chennai
+669,52,3,1441.0,1,New / Occasional,Vijay Natarajan 769,Flexitarian,Chennai
+670,155,6,4254.46,0,At Risk / Churning,Ananya Mudaliar 770,Flexitarian,Chennai
+671,92,4,1715.75,1,New / Occasional,Suresh Kumar 771,Flexitarian,Chennai
+672,136,3,1513.45,0,At Risk / Churning,Divya Swaminathan 772,Non-Veg Enthusiast,Chennai
+673,55,3,880.0,1,New / Occasional,Ganesh Babu 773,Flexitarian,Chennai
+674,238,2,813.3,0,At Risk / Churning,Meena Natarajan 774,Flexitarian,Chennai
+675,230,1,400.0,0,At Risk / Churning,Rajesh Mudaliar 775,Pure Veg,Chennai
+676,33,12,8244.08,1,New / Occasional,Kavitha Kumar 776,Flexitarian,Chennai
+677,6,7,3848.3,1,New / Occasional,Venkatesh Swaminathan 777,Flexitarian,Chennai
+678,77,2,897.1,1,New / Occasional,Nandhini Babu 778,Flexitarian,Chennai
+679,42,3,1390.65,1,New / Occasional,Santhosh Natarajan 779,Flexitarian,Chennai
+680,30,19,9579.42,1,New / Occasional,Swetha Mudaliar 780,Flexitarian,Chennai
+681,38,2,548.5,1,New / Occasional,Aravind Kumar 781,Pure Veg,Chennai
+682,360,1,330.0,0,At Risk / Churning,Priya Swaminathan 782,Pure Veg,Chennai
+683,24,4,1845.1,1,New / Occasional,Karthik Babu 783,Flexitarian,Chennai
+684,29,2,723.0,1,New / Occasional,Deepa Natarajan 784,Flexitarian,Chennai
+685,20,7,3192.83,1,New / Occasional,Siddharth Mudaliar 785,Flexitarian,Chennai
+686,13,18,8478.2,1,New / Occasional,Bhavana Kumar 786,Flexitarian,Chennai
+687,46,9,5469.81,1,New / Occasional,Ramesh Swaminathan 787,Flexitarian,Chennai
+688,60,2,1362.6,1,New / Occasional,Lakshmi Babu 788,Flexitarian,Chennai
+689,3,22,9822.69,1,New / Occasional,Vijay Natarajan 789,Flexitarian,Chennai
+690,132,7,2199.4,1,New / Occasional,Ananya Mudaliar 790,Flexitarian,Chennai
+691,44,7,4103.15,1,New / Occasional,Suresh Kumar 791,Flexitarian,Chennai
+692,44,2,771.0,1,New / Occasional,Divya Swaminathan 792,Flexitarian,Chennai
+693,6,2,913.5,1,New / Occasional,Ganesh Babu 793,Flexitarian,Chennai
+694,63,2,1183.5,1,New / Occasional,Meena Natarajan 794,Flexitarian,Chennai
+695,11,25,12098.09,1,New / Occasional,Rajesh Mudaliar 795,Flexitarian,Chennai
+696,5,10,4090.52,1,New / Occasional,Kavitha Kumar 796,Flexitarian,Chennai
+697,76,2,699.02,1,New / Occasional,Venkatesh Swaminathan 797,Pure Veg,Chennai
+698,266,1,513.0,0,At Risk / Churning,Nandhini Babu 798,Pure Veg,Chennai
+699,19,47,21808.83,3,Steady Regulars,Santhosh Natarajan 799,Flexitarian,Chennai
+700,4,14,6185.25,1,New / Occasional,Swetha Mudaliar 800,Flexitarian,Chennai
+701,74,2,692.4,1,New / Occasional,Aravind Kumar 801,Flexitarian,Chennai
+702,2,14,5618.04,1,New / Occasional,Priya Swaminathan 802,Flexitarian,Chennai
+703,78,7,4442.83,1,New / Occasional,Karthik Babu 803,Flexitarian,Chennai
+704,288,1,200.0,0,At Risk / Churning,Deepa Natarajan 804,Pure Veg,Chennai
+705,11,5,2638.32,1,New / Occasional,Siddharth Mudaliar 805,Flexitarian,Chennai
+706,166,1,371.0,0,At Risk / Churning,Bhavana Kumar 806,Pure Veg,Chennai
+707,227,1,318.0,0,At Risk / Churning,Ramesh Swaminathan 807,Pure Veg,Chennai
+708,16,9,3061.32,1,New / Occasional,Lakshmi Babu 808,Flexitarian,Chennai
+709,119,1,666.0,1,New / Occasional,Vijay Natarajan 809,Pure Veg,Chennai
+710,211,1,295.0,0,At Risk / Churning,Ananya Mudaliar 810,Flexitarian,Chennai
+711,341,3,1070.0,0,At Risk / Churning,Suresh Kumar 811,Flexitarian,Chennai
+712,107,18,7823.6,1,New / Occasional,Divya Swaminathan 812,Flexitarian,Chennai
+713,173,2,637.0,0,At Risk / Churning,Ganesh Babu 813,Flexitarian,Chennai
+714,256,1,423.0,0,At Risk / Churning,Meena Natarajan 814,Pure Veg,Chennai
+715,43,7,2818.3,1,New / Occasional,Rajesh Mudaliar 815,Flexitarian,Chennai
+716,79,2,1377.0,1,New / Occasional,Kavitha Kumar 816,Pure Veg,Chennai
+717,137,1,183.0,0,At Risk / Churning,Venkatesh Swaminathan 817,Pure Veg,Chennai
+718,86,2,1714.5,1,New / Occasional,Nandhini Babu 818,Pure Veg,Chennai
+719,176,1,594.0,0,At Risk / Churning,Santhosh Natarajan 819,Pure Veg,Chennai
+720,55,4,1172.7,1,New / Occasional,Swetha Mudaliar 820,Flexitarian,Chennai
+721,54,2,489.0,1,New / Occasional,Aravind Kumar 821,Flexitarian,Chennai
+722,79,8,2561.1,1,New / Occasional,Priya Swaminathan 822,Flexitarian,Chennai
+723,39,22,11983.75,1,New / Occasional,Karthik Babu 823,Flexitarian,Chennai
+724,315,2,1548.9,0,At Risk / Churning,Deepa Natarajan 824,Flexitarian,Chennai
+725,163,2,791.3,0,At Risk / Churning,Siddharth Mudaliar 825,Pure Veg,Chennai
+726,143,6,2269.35,0,At Risk / Churning,Bhavana Kumar 826,Flexitarian,Chennai
+727,55,1,1044.0,1,New / Occasional,Ramesh Swaminathan 827,Pure Veg,Chennai
+728,130,6,3756.4,1,New / Occasional,Lakshmi Babu 828,Flexitarian,Chennai
+729,37,2,844.1,1,New / Occasional,Vijay Natarajan 829,Flexitarian,Chennai
+730,12,29,12730.15,3,Steady Regulars,Ananya Mudaliar 830,Flexitarian,Chennai
+731,102,2,783.0,1,New / Occasional,Suresh Kumar 831,Flexitarian,Chennai
+732,222,1,223.0,0,At Risk / Churning,Divya Swaminathan 832,Flexitarian,Chennai
+733,8,105,50066.26,3,Steady Regulars,Ganesh Babu 833,Flexitarian,Chennai
+734,129,5,3254.25,1,New / Occasional,Meena Natarajan 834,Flexitarian,Chennai
+735,105,1,882.0,1,New / Occasional,Rajesh Mudaliar 835,Pure Veg,Chennai
+736,188,2,816.3,0,At Risk / Churning,Kavitha Kumar 836,Flexitarian,Chennai
+737,81,6,3039.8,1,New / Occasional,Venkatesh Swaminathan 837,Pure Veg,Chennai
+738,219,2,536.0,0,At Risk / Churning,Nandhini Babu 838,Pure Veg,Chennai
+739,21,13,5254.39,1,New / Occasional,Santhosh Natarajan 839,Flexitarian,Chennai
+740,120,4,3075.0,1,New / Occasional,Swetha Mudaliar 840,Flexitarian,Chennai
+741,244,1,517.5,0,At Risk / Churning,Aravind Kumar 841,Flexitarian,Chennai
+742,269,2,1284.65,0,At Risk / Churning,Priya Swaminathan 842,Pure Veg,Chennai
+743,62,3,1386.65,1,New / Occasional,Karthik Babu 843,Flexitarian,Chennai
+744,205,1,829.8,0,At Risk / Churning,Deepa Natarajan 844,Flexitarian,Chennai
+745,49,7,2730.1,1,New / Occasional,Siddharth Mudaliar 845,Flexitarian,Chennai
+746,5,4,2745.9,1,New / Occasional,Bhavana Kumar 846,Flexitarian,Chennai
+747,12,2,1661.0,1,New / Occasional,Ramesh Swaminathan 847,Pure Veg,Chennai
+748,59,5,3780.9,1,New / Occasional,Lakshmi Babu 848,Flexitarian,Chennai
+749,7,2,846.0,1,New / Occasional,Vijay Natarajan 849,Flexitarian,Chennai
+750,112,2,502.3,1,New / Occasional,Ananya Mudaliar 850,Pure Veg,Chennai
+751,15,2,647.0,1,New / Occasional,Suresh Kumar 851,Flexitarian,Chennai
+752,4,15,6780.8,1,New / Occasional,Divya Swaminathan 852,Flexitarian,Chennai
+753,17,16,7490.81,1,New / Occasional,Ganesh Babu 853,Flexitarian,Chennai
+754,244,1,384.3,0,At Risk / Churning,Meena Natarajan 854,Pure Veg,Chennai
+755,134,3,2078.15,0,At Risk / Churning,Rajesh Mudaliar 855,Flexitarian,Chennai
+756,220,2,1629.9,0,At Risk / Churning,Kavitha Kumar 856,Pure Veg,Chennai
+757,53,2,604.0,1,New / Occasional,Venkatesh Swaminathan 857,Flexitarian,Chennai
+758,4,4,2643.3,1,New / Occasional,Nandhini Babu 858,Flexitarian,Chennai
+759,17,3,1765.5,1,New / Occasional,Santhosh Natarajan 859,Pure Veg,Chennai
+760,163,3,715.0,0,At Risk / Churning,Swetha Mudaliar 860,Flexitarian,Chennai
+761,343,1,210.0,0,At Risk / Churning,Aravind Kumar 861,Pure Veg,Chennai
+762,124,5,3384.18,1,New / Occasional,Priya Swaminathan 862,Flexitarian,Chennai
+763,22,4,2394.0,1,New / Occasional,Karthik Babu 863,Flexitarian,Chennai
+764,181,6,3698.6,0,At Risk / Churning,Deepa Natarajan 864,Flexitarian,Chennai
+765,36,6,3969.8,1,New / Occasional,Siddharth Mudaliar 865,Flexitarian,Chennai
+766,95,1,714.0,1,New / Occasional,Bhavana Kumar 866,Pure Veg,Chennai
+767,43,2,1262.01,1,New / Occasional,Ramesh Swaminathan 867,Flexitarian,Chennai
+768,107,4,3057.3,1,New / Occasional,Lakshmi Babu 868,Flexitarian,Chennai
+769,75,4,1664.0,1,New / Occasional,Vijay Natarajan 869,Flexitarian,Chennai
+770,26,17,8319.1,1,New / Occasional,Ananya Mudaliar 870,Flexitarian,Chennai
+771,8,16,9654.67,1,New / Occasional,Suresh Kumar 871,Flexitarian,Chennai
+772,16,2,760.0,1,New / Occasional,Divya Swaminathan 872,Flexitarian,Chennai
+773,21,6,1972.5,1,New / Occasional,Ganesh Babu 873,Flexitarian,Chennai
+774,137,4,1376.05,0,At Risk / Churning,Meena Natarajan 874,Flexitarian,Chennai
+775,35,17,7774.9,1,New / Occasional,Rajesh Mudaliar 875,Flexitarian,Chennai
+776,315,1,432.0,0,At Risk / Churning,Kavitha Kumar 876,Pure Veg,Chennai
+777,312,1,1445.34,0,At Risk / Churning,Venkatesh Swaminathan 877,Flexitarian,Chennai
+778,243,1,661.5,0,At Risk / Churning,Nandhini Babu 878,Pure Veg,Chennai
+779,26,1,484.2,1,New / Occasional,Santhosh Natarajan 879,Flexitarian,Chennai
+780,129,4,2120.0,1,New / Occasional,Swetha Mudaliar 880,Flexitarian,Chennai
+781,71,4,1374.6,1,New / Occasional,Aravind Kumar 881,Flexitarian,Chennai
+782,16,14,6124.96,1,New / Occasional,Priya Swaminathan 882,Flexitarian,Chennai
+783,184,6,1699.2,0,At Risk / Churning,Karthik Babu 883,Pure Veg,Chennai
+784,36,4,1504.5,1,New / Occasional,Deepa Natarajan 884,Flexitarian,Chennai
+785,172,6,1732.1,0,At Risk / Churning,Siddharth Mudaliar 885,Flexitarian,Chennai
+786,30,5,2977.2,1,New / Occasional,Bhavana Kumar 886,Flexitarian,Chennai
+787,135,5,2791.5,1,New / Occasional,Ramesh Swaminathan 887,Flexitarian,Chennai
+788,121,3,934.1,1,New / Occasional,Lakshmi Babu 888,Pure Veg,Chennai
+789,66,4,1939.1,1,New / Occasional,Vijay Natarajan 889,Flexitarian,Chennai
+790,60,1,237.0,1,New / Occasional,Ananya Mudaliar 890,Pure Veg,Chennai
+791,85,14,6948.1,1,New / Occasional,Suresh Kumar 891,Flexitarian,Chennai
+792,8,8,3186.65,1,New / Occasional,Divya Swaminathan 892,Flexitarian,Chennai
+793,12,11,6210.02,1,New / Occasional,Ganesh Babu 893,Flexitarian,Chennai
+794,6,17,10264.27,1,New / Occasional,Meena Natarajan 894,Flexitarian,Chennai
+795,73,5,2343.0,1,New / Occasional,Rajesh Mudaliar 895,Flexitarian,Chennai
+796,81,4,3319.15,1,New / Occasional,Kavitha Kumar 896,Flexitarian,Chennai
+797,58,1,396.0,1,New / Occasional,Venkatesh Swaminathan 897,Pure Veg,Chennai
+798,86,5,2558.36,1,New / Occasional,Nandhini Babu 898,Flexitarian,Chennai
+799,97,4,2238.35,1,New / Occasional,Santhosh Natarajan 899,Pure Veg,Chennai
+800,133,4,1790.65,1,New / Occasional,Swetha Mudaliar 900,Pure Veg,Chennai
+801,23,11,6593.5,1,New / Occasional,Aravind Kumar 901,Flexitarian,Chennai
+802,14,38,20850.72,3,Steady Regulars,Priya Swaminathan 902,Flexitarian,Chennai
+803,42,3,2341.4,1,New / Occasional,Karthik Babu 903,Pure Veg,Chennai
+804,10,3,1233.0,1,New / Occasional,Deepa Natarajan 904,Pure Veg,Chennai
+805,24,20,9874.64,1,New / Occasional,Siddharth Mudaliar 905,Flexitarian,Chennai
+806,200,2,583.32,0,At Risk / Churning,Bhavana Kumar 906,Flexitarian,Chennai
+807,11,3,1410.9,1,New / Occasional,Ramesh Swaminathan 907,Flexitarian,Chennai
+808,140,2,577.85,0,At Risk / Churning,Lakshmi Babu 908,Pure Veg,Chennai
+809,27,2,1176.5,1,New / Occasional,Vijay Natarajan 909,Flexitarian,Chennai
+810,50,5,3227.65,1,New / Occasional,Ananya Mudaliar 910,Flexitarian,Chennai
+811,80,9,4810.0,1,New / Occasional,Suresh Kumar 911,Flexitarian,Chennai
+812,124,2,1230.9,1,New / Occasional,Divya Swaminathan 912,Pure Veg,Chennai
+813,32,10,4171.9,1,New / Occasional,Ganesh Babu 913,Flexitarian,Chennai
+814,7,13,5630.55,1,New / Occasional,Meena Natarajan 914,Flexitarian,Chennai
+815,33,5,1647.5,1,New / Occasional,Rajesh Mudaliar 915,Flexitarian,Chennai
+816,74,4,1706.44,1,New / Occasional,Kavitha Kumar 916,Flexitarian,Chennai
+817,10,6,2989.85,1,New / Occasional,Venkatesh Swaminathan 917,Flexitarian,Chennai
+818,23,14,7602.03,1,New / Occasional,Nandhini Babu 918,Flexitarian,Chennai
+819,43,3,595.0,1,New / Occasional,Santhosh Natarajan 919,Pure Veg,Chennai
+820,80,1,482.4,1,New / Occasional,Swetha Mudaliar 920,Non-Veg Enthusiast,Chennai
+821,135,4,1937.14,0,At Risk / Churning,Aravind Kumar 921,Flexitarian,Chennai
+822,51,5,3508.2,1,New / Occasional,Priya Swaminathan 922,Pure Veg,Chennai
+823,108,3,1478.7,1,New / Occasional,Karthik Babu 923,Pure Veg,Chennai
+824,175,3,995.5,0,At Risk / Churning,Deepa Natarajan 924,Pure Veg,Chennai
+825,145,4,1435.7,0,At Risk / Churning,Siddharth Mudaliar 925,Flexitarian,Chennai
+826,30,5,2120.5,1,New / Occasional,Bhavana Kumar 926,Flexitarian,Chennai
+827,85,10,5082.44,1,New / Occasional,Ramesh Swaminathan 927,Flexitarian,Chennai
+828,69,3,1665.85,1,New / Occasional,Lakshmi Babu 928,Flexitarian,Chennai
+829,3,3,1097.0,1,New / Occasional,Vijay Natarajan 929,Pure Veg,Chennai
+830,89,1,397.0,1,New / Occasional,Ananya Mudaliar 930,Pure Veg,Chennai
+831,5,5,2173.9,1,New / Occasional,Suresh Kumar 931,Flexitarian,Chennai
+832,17,17,8772.26,1,New / Occasional,Divya Swaminathan 932,Flexitarian,Chennai
+833,31,8,3482.5,1,New / Occasional,Ganesh Babu 933,Flexitarian,Chennai
+834,11,2,802.0,1,New / Occasional,Meena Natarajan 934,Flexitarian,Chennai
+835,56,2,681.0,1,New / Occasional,Rajesh Mudaliar 935,Flexitarian,Chennai
+836,63,5,4881.36,1,New / Occasional,Kavitha Kumar 936,Flexitarian,Chennai
+837,55,3,1077.15,1,New / Occasional,Venkatesh Swaminathan 937,Flexitarian,Chennai
+838,6,6,3094.1,1,New / Occasional,Nandhini Babu 938,Flexitarian,Chennai
+839,15,2,1008.5,1,New / Occasional,Santhosh Natarajan 939,Pure Veg,Chennai
+840,64,9,5878.79,1,New / Occasional,Swetha Mudaliar 940,Flexitarian,Chennai
+841,16,2,566.0,1,New / Occasional,Aravind Kumar 941,Pure Veg,Chennai
+842,7,7,2929.8,1,New / Occasional,Priya Swaminathan 942,Flexitarian,Chennai
+843,277,1,57.88,0,At Risk / Churning,Karthik Babu 943,Pure Veg,Chennai
+844,30,2,1637.1,1,New / Occasional,Deepa Natarajan 944,Pure Veg,Chennai
+845,163,2,670.0,0,At Risk / Churning,Siddharth Mudaliar 945,Flexitarian,Chennai
+846,234,1,846.0,0,At Risk / Churning,Bhavana Kumar 946,Pure Veg,Chennai
+847,31,11,4407.04,1,New / Occasional,Ramesh Swaminathan 947,Flexitarian,Chennai
+848,19,11,4551.7,1,New / Occasional,Lakshmi Babu 948,Flexitarian,Chennai
+849,160,4,2969.67,0,At Risk / Churning,Vijay Natarajan 949,Flexitarian,Chennai
+850,136,2,740.25,0,At Risk / Churning,Ananya Mudaliar 950,Pure Veg,Chennai
+851,209,3,890.0,0,At Risk / Churning,Suresh Kumar 951,Pure Veg,Chennai
+852,22,3,1829.2,1,New / Occasional,Divya Swaminathan 952,Flexitarian,Chennai
+853,179,1,399.0,0,At Risk / Churning,Ganesh Babu 953,Pure Veg,Chennai
+854,6,16,8106.3,1,New / Occasional,Meena Natarajan 954,Flexitarian,Chennai
+855,282,1,258.0,0,At Risk / Churning,Rajesh Mudaliar 955,Flexitarian,Chennai
+856,16,19,9589.77,1,New / Occasional,Kavitha Kumar 956,Flexitarian,Chennai
+857,200,4,1157.1,0,At Risk / Churning,Venkatesh Swaminathan 957,Flexitarian,Chennai
+858,204,1,215.0,0,At Risk / Churning,Nandhini Babu 958,Pure Veg,Chennai
+859,8,3,1380.2,1,New / Occasional,Santhosh Natarajan 959,Flexitarian,Chennai
+860,27,13,7591.3,1,New / Occasional,Swetha Mudaliar 960,Flexitarian,Chennai
+861,11,10,5066.82,1,New / Occasional,Aravind Kumar 961,Flexitarian,Chennai
+862,45,8,3084.4,1,New / Occasional,Priya Swaminathan 962,Flexitarian,Chennai
+863,92,4,1974.25,1,New / Occasional,Karthik Babu 963,Flexitarian,Chennai
+864,11,5,2175.7,1,New / Occasional,Deepa Natarajan 964,Flexitarian,Chennai
+865,50,10,4166.9,1,New / Occasional,Siddharth Mudaliar 965,Flexitarian,Chennai
+866,225,3,1532.7,0,At Risk / Churning,Bhavana Kumar 966,Flexitarian,Chennai
+867,66,3,1498.62,1,New / Occasional,Ramesh Swaminathan 967,Flexitarian,Chennai
+868,335,1,258.0,0,At Risk / Churning,Lakshmi Babu 968,Pure Veg,Chennai
+869,6,58,23722.92,3,Steady Regulars,Vijay Natarajan 969,Flexitarian,Chennai
+870,16,19,7876.44,1,New / Occasional,Ananya Mudaliar 970,Flexitarian,Chennai
+871,85,7,3474.7,1,New / Occasional,Suresh Kumar 971,Pure Veg,Chennai
+872,34,14,6374.53,1,New / Occasional,Divya Swaminathan 972,Flexitarian,Chennai
+873,275,1,499.8,0,At Risk / Churning,Ganesh Babu 973,Non-Veg Enthusiast,Chennai
+874,25,4,1528.4,1,New / Occasional,Meena Natarajan 974,Flexitarian,Chennai
+875,26,10,4147.1,1,New / Occasional,Rajesh Mudaliar 975,Flexitarian,Chennai
+876,76,9,3875.1,1,New / Occasional,Kavitha Kumar 976,Flexitarian,Chennai
+877,51,18,7435.3,1,New / Occasional,Venkatesh Swaminathan 977,Flexitarian,Chennai
+878,5,28,13812.73,3,Steady Regulars,Nandhini Babu 978,Flexitarian,Chennai
+879,74,19,9035.96,1,New / Occasional,Santhosh Natarajan 979,Flexitarian,Chennai
+880,16,5,3185.1,1,New / Occasional,Swetha Mudaliar 980,Flexitarian,Chennai
+881,4,12,6648.3,1,New / Occasional,Aravind Kumar 981,Flexitarian,Chennai
+882,152,10,5949.0,0,At Risk / Churning,Priya Swaminathan 982,Flexitarian,Chennai
+883,249,1,531.0,0,At Risk / Churning,Karthik Babu 983,Flexitarian,Chennai
+884,80,5,2696.6,1,New / Occasional,Deepa Natarajan 984,Flexitarian,Chennai
+885,230,3,1039.3,0,At Risk / Churning,Siddharth Mudaliar 985,Pure Veg,Chennai
+886,192,1,578.06,0,At Risk / Churning,Bhavana Kumar 986,Flexitarian,Chennai
+887,68,4,1786.05,1,New / Occasional,Ramesh Swaminathan 987,Flexitarian,Chennai
+888,94,3,1494.64,1,New / Occasional,Lakshmi Babu 988,Flexitarian,Chennai
+889,121,3,775.0,1,New / Occasional,Vijay Natarajan 989,Flexitarian,Chennai
+890,65,3,1532.7,1,New / Occasional,Ananya Mudaliar 990,Flexitarian,Chennai
+891,18,9,5201.75,1,New / Occasional,Suresh Kumar 991,Flexitarian,Chennai
+892,34,2,722.0,1,New / Occasional,Divya Swaminathan 992,Pure Veg,Chennai
+893,181,5,2328.3,0,At Risk / Churning,Ganesh Babu 993,Flexitarian,Chennai
+894,23,13,5555.25,1,New / Occasional,Meena Natarajan 994,Flexitarian,Chennai
+895,138,3,1130.07,0,At Risk / Churning,Rajesh Mudaliar 995,Pure Veg,Chennai
+896,10,9,2551.15,1,New / Occasional,Kavitha Kumar 996,Flexitarian,Chennai
+897,213,1,275.0,0,At Risk / Churning,Venkatesh Swaminathan 997,Pure Veg,Chennai
+898,88,11,5474.4,1,New / Occasional,Nandhini Babu 998,Flexitarian,Chennai
+899,114,1,626.4,1,New / Occasional,Santhosh Natarajan 999,Flexitarian,Chennai
+900,3,17,11520.31,1,New / Occasional,Swetha Mudaliar 1000,Flexitarian,Chennai
+901,16,11,6176.74,1,New / Occasional,Aravind Kumar 1001,Flexitarian,Chennai
+902,2,131,59421.18,3,Steady Regulars,Priya Swaminathan 1002,Flexitarian,Chennai
+903,139,3,1531.0,0,At Risk / Churning,Karthik Babu 1003,Flexitarian,Chennai
+904,34,10,5096.0,1,New / Occasional,Deepa Natarajan 1004,Flexitarian,Chennai
+905,6,3,1536.5,1,New / Occasional,Siddharth Mudaliar 1005,Flexitarian,Chennai
+906,5,3,915.5,1,New / Occasional,Bhavana Kumar 1006,Flexitarian,Chennai
+907,19,2,1128.4,1,New / Occasional,Ramesh Swaminathan 1007,Flexitarian,Chennai
+908,16,17,8575.82,1,New / Occasional,Lakshmi Babu 1008,Flexitarian,Chennai
+909,17,41,20707.24,3,Steady Regulars,Vijay Natarajan 1009,Flexitarian,Chennai
+910,346,1,435.6,0,At Risk / Churning,Ananya Mudaliar 1010,Pure Veg,Chennai
+911,128,5,2158.82,1,New / Occasional,Suresh Kumar 1011,Flexitarian,Chennai
+912,22,5,2738.7,1,New / Occasional,Divya Swaminathan 1012,Flexitarian,Chennai
+913,14,6,2039.0,1,New / Occasional,Ganesh Babu 1013,Flexitarian,Chennai
+914,306,1,360.0,0,At Risk / Churning,Meena Natarajan 1014,Pure Veg,Chennai
+915,81,1,957.6,1,New / Occasional,Rajesh Mudaliar 1015,Flexitarian,Chennai
+916,79,2,874.39,1,New / Occasional,Kavitha Kumar 1016,Flexitarian,Chennai
+917,4,51,25561.07,3,Steady Regulars,Venkatesh Swaminathan 1017,Flexitarian,Chennai
+918,6,3,2448.3,1,New / Occasional,Nandhini Babu 1018,Flexitarian,Chennai
+919,111,6,2679.4,1,New / Occasional,Santhosh Natarajan 1019,Flexitarian,Chennai
+920,8,4,1409.0,1,New / Occasional,Swetha Mudaliar 1020,Flexitarian,Chennai
+921,3,20,11654.27,1,New / Occasional,Aravind Kumar 1021,Flexitarian,Chennai
+922,98,4,2016.44,1,New / Occasional,Priya Swaminathan 1022,Flexitarian,Chennai
+923,272,1,838.1,0,At Risk / Churning,Karthik Babu 1023,Pure Veg,Chennai
+924,143,3,1399.0,0,At Risk / Churning,Deepa Natarajan 1024,Pure Veg,Chennai
+925,27,19,8593.65,1,New / Occasional,Siddharth Mudaliar 1025,Flexitarian,Chennai
+926,7,24,11402.49,1,New / Occasional,Bhavana Kumar 1026,Flexitarian,Chennai
+927,67,1,445.5,1,New / Occasional,Ramesh Swaminathan 1027,Flexitarian,Chennai
+928,55,3,982.5,1,New / Occasional,Lakshmi Babu 1028,Flexitarian,Chennai
+929,245,2,1031.4,0,At Risk / Churning,Vijay Natarajan 1029,Pure Veg,Chennai
+930,12,59,28806.01,3,Steady Regulars,Ananya Mudaliar 1030,Flexitarian,Chennai
+931,203,2,800.64,0,At Risk / Churning,Suresh Kumar 1031,Flexitarian,Chennai
+932,72,14,6000.43,1,New / Occasional,Divya Swaminathan 1032,Flexitarian,Chennai
+933,68,3,1155.28,1,New / Occasional,Ganesh Babu 1033,Flexitarian,Chennai
+934,65,5,2511.11,1,New / Occasional,Meena Natarajan 1034,Flexitarian,Chennai
+935,141,4,1222.27,0,At Risk / Churning,Rajesh Mudaliar 1035,Flexitarian,Chennai
+936,220,1,260.0,0,At Risk / Churning,Kavitha Kumar 1036,Flexitarian,Chennai
+937,257,2,521.5,0,At Risk / Churning,Venkatesh Swaminathan 1037,Non-Veg Enthusiast,Chennai
+938,11,12,5851.4,1,New / Occasional,Nandhini Babu 1038,Flexitarian,Chennai
+939,267,1,1006.2,0,At Risk / Churning,Santhosh Natarajan 1039,Pure Veg,Chennai
+940,31,24,10414.4,1,New / Occasional,Swetha Mudaliar 1040,Flexitarian,Chennai
+941,18,17,8721.52,1,New / Occasional,Aravind Kumar 1041,Flexitarian,Chennai
+942,56,10,5884.5,1,New / Occasional,Priya Swaminathan 1042,Flexitarian,Chennai
+943,2,86,38864.54,3,Steady Regulars,Karthik Babu 1043,Flexitarian,Chennai
+944,253,1,260.0,0,At Risk / Churning,Deepa Natarajan 1044,Non-Veg Enthusiast,Chennai
+945,22,3,1138.6,1,New / Occasional,Siddharth Mudaliar 1045,Flexitarian,Chennai
+946,12,5,2085.5,1,New / Occasional,Bhavana Kumar 1046,Flexitarian,Chennai
+947,17,4,2543.65,1,New / Occasional,Ramesh Swaminathan 1047,Flexitarian,Chennai
+948,147,1,268.0,0,At Risk / Churning,Lakshmi Babu 1048,Pure Veg,Chennai
+949,38,9,3383.1,1,New / Occasional,Vijay Natarajan 1049,Flexitarian,Chennai
+950,6,2,1080.0,1,New / Occasional,Ananya Mudaliar 1050,Pure Veg,Chennai
+951,11,1,576.0,1,New / Occasional,Suresh Kumar 1051,Pure Veg,Chennai
+952,133,2,669.15,0,At Risk / Churning,Divya Swaminathan 1052,Pure Veg,Chennai
+953,74,4,1678.9,1,New / Occasional,Ganesh Babu 1053,Flexitarian,Chennai
+954,84,5,2062.6,1,New / Occasional,Meena Natarajan 1054,Flexitarian,Chennai
+955,3,11,5279.45,1,New / Occasional,Rajesh Mudaliar 1055,Flexitarian,Chennai
+956,147,2,1143.0,0,At Risk / Churning,Kavitha Kumar 1056,Pure Veg,Chennai
+957,7,18,11915.7,1,New / Occasional,Venkatesh Swaminathan 1057,Flexitarian,Chennai
+958,49,18,8021.87,1,New / Occasional,Nandhini Babu 1058,Flexitarian,Chennai
+959,28,15,6000.52,1,New / Occasional,Santhosh Natarajan 1059,Flexitarian,Chennai
+960,43,11,4943.61,1,New / Occasional,Swetha Mudaliar 1060,Flexitarian,Chennai
+961,32,3,1362.5,1,New / Occasional,Aravind Kumar 1061,Flexitarian,Chennai
+962,70,3,980.2,1,New / Occasional,Priya Swaminathan 1062,Flexitarian,Chennai
+963,11,1,418.5,1,New / Occasional,Karthik Babu 1063,Pure Veg,Chennai
+964,179,1,168.0,0,At Risk / Churning,Deepa Natarajan 1064,Pure Veg,Chennai
+965,272,1,491.3,0,At Risk / Churning,Siddharth Mudaliar 1065,Flexitarian,Chennai
+966,130,2,519.5,0,At Risk / Churning,Bhavana Kumar 1066,Flexitarian,Chennai
+967,55,4,2069.4,1,New / Occasional,Ramesh Swaminathan 1067,Flexitarian,Chennai
+968,16,5,2464.17,1,New / Occasional,Lakshmi Babu 1068,Flexitarian,Chennai
+969,271,1,527.0,0,At Risk / Churning,Vijay Natarajan 1069,Pure Veg,Chennai
+970,363,1,369.9,0,At Risk / Churning,Ananya Mudaliar 1070,Flexitarian,Chennai
+971,60,7,3182.7,1,New / Occasional,Suresh Kumar 1071,Flexitarian,Chennai
+972,7,5,2349.3,1,New / Occasional,Divya Swaminathan 1072,Flexitarian,Chennai
+973,254,1,468.0,0,At Risk / Churning,Ganesh Babu 1073,Pure Veg,Chennai
+974,15,2,1031.5,1,New / Occasional,Meena Natarajan 1074,Pure Veg,Chennai
+975,125,5,2683.3,1,New / Occasional,Rajesh Mudaliar 1075,Flexitarian,Chennai
+976,40,8,3843.72,1,New / Occasional,Kavitha Kumar 1076,Flexitarian,Chennai
+977,61,3,847.35,1,New / Occasional,Venkatesh Swaminathan 1077,Non-Veg Enthusiast,Chennai
+978,99,3,1511.25,1,New / Occasional,Nandhini Babu 1078,Pure Veg,Chennai
+979,53,5,2916.0,1,New / Occasional,Santhosh Natarajan 1079,Flexitarian,Chennai
+980,297,1,290.0,0,At Risk / Churning,Swetha Mudaliar 1080,Flexitarian,Chennai
+981,22,12,6609.25,1,New / Occasional,Aravind Kumar 1081,Flexitarian,Chennai
+982,47,7,4412.8,1,New / Occasional,Priya Swaminathan 1082,Flexitarian,Chennai
+983,9,6,4081.7,1,New / Occasional,Karthik Babu 1083,Flexitarian,Chennai
+984,42,6,2657.0,1,New / Occasional,Deepa Natarajan 1084,Flexitarian,Chennai
+985,16,8,4348.63,1,New / Occasional,Siddharth Mudaliar 1085,Flexitarian,Chennai
+986,11,4,3218.4,1,New / Occasional,Bhavana Kumar 1086,Flexitarian,Chennai
+987,29,13,6791.71,1,New / Occasional,Ramesh Swaminathan 1087,Flexitarian,Chennai
+988,6,11,5569.24,1,New / Occasional,Lakshmi Babu 1088,Flexitarian,Chennai
+989,33,6,3330.5,1,New / Occasional,Vijay Natarajan 1089,Flexitarian,Chennai
+990,59,4,1822.9,1,New / Occasional,Ananya Mudaliar 1090,Flexitarian,Chennai
+991,67,6,3880.96,1,New / Occasional,Suresh Kumar 1091,Flexitarian,Chennai
+992,147,1,898.62,0,At Risk / Churning,Divya Swaminathan 1092,Non-Veg Enthusiast,Chennai
+993,228,6,3768.8,0,At Risk / Churning,Ganesh Babu 1093,Flexitarian,Chennai
+994,58,9,2754.0,1,New / Occasional,Meena Natarajan 1094,Flexitarian,Chennai
+995,57,9,4512.25,1,New / Occasional,Rajesh Mudaliar 1095,Flexitarian,Chennai
+996,134,1,1292.0,0,At Risk / Churning,Kavitha Kumar 1096,Pure Veg,Chennai
+997,126,6,2741.75,1,New / Occasional,Venkatesh Swaminathan 1097,Flexitarian,Chennai
+998,24,11,5199.85,1,New / Occasional,Nandhini Babu 1098,Flexitarian,Chennai
+999,45,8,2522.63,1,New / Occasional,Santhosh Natarajan 1099,Flexitarian,Chennai
+1000,11,9,3734.51,1,New / Occasional,Swetha Mudaliar 1100,Flexitarian,Chennai
+1001,153,2,1319.05,0,At Risk / Churning,Aravind Kumar 1101,Flexitarian,Chennai
+1002,154,4,1650.0,0,At Risk / Churning,Priya Swaminathan 1102,Flexitarian,Chennai
+1003,3,45,22295.63,3,Steady Regulars,Karthik Babu 1103,Flexitarian,Chennai
+1004,12,4,2153.6,1,New / Occasional,Deepa Natarajan 1104,Flexitarian,Chennai
+1005,79,3,1183.6,1,New / Occasional,Siddharth Mudaliar 1105,Pure Veg,Chennai
+1006,31,4,2639.65,1,New / Occasional,Bhavana Kumar 1106,Flexitarian,Chennai
+1007,174,3,607.63,0,At Risk / Churning,Ramesh Swaminathan 1107,Pure Veg,Chennai
+1008,39,5,3598.2,1,New / Occasional,Lakshmi Babu 1108,Flexitarian,Chennai
+1009,75,2,1285.2,1,New / Occasional,Vijay Natarajan 1109,Flexitarian,Chennai
+1010,45,4,1394.0,1,New / Occasional,Ananya Mudaliar 1110,Flexitarian,Chennai
+1011,11,4,1160.5,1,New / Occasional,Suresh Kumar 1111,Flexitarian,Chennai
+1012,17,29,14956.44,3,Steady Regulars,Divya Swaminathan 1112,Flexitarian,Chennai
+1013,100,2,654.85,1,New / Occasional,Ganesh Babu 1113,Pure Veg,Chennai
+1014,204,3,925.0,0,At Risk / Churning,Meena Natarajan 1114,Pure Veg,Chennai
+1015,16,22,9203.47,1,New / Occasional,Rajesh Mudaliar 1115,Flexitarian,Chennai
+1016,80,2,1624.5,1,New / Occasional,Kavitha Kumar 1116,Flexitarian,Chennai
+1017,2,25,13537.87,3,Steady Regulars,Venkatesh Swaminathan 1117,Flexitarian,Chennai
+1018,28,10,4537.7,1,New / Occasional,Nandhini Babu 1118,Flexitarian,Chennai
+1019,238,1,330.0,0,At Risk / Churning,Santhosh Natarajan 1119,Pure Veg,Chennai
+1020,186,2,505.2,0,At Risk / Churning,Swetha Mudaliar 1120,Pure Veg,Chennai
+1021,68,4,1215.35,1,New / Occasional,Aravind Kumar 1121,Flexitarian,Chennai
+1022,116,3,1697.5,1,New / Occasional,Priya Swaminathan 1122,Flexitarian,Chennai
+1023,110,2,652.3,1,New / Occasional,Karthik Babu 1123,Flexitarian,Chennai
+1024,58,1,426.6,1,New / Occasional,Deepa Natarajan 1124,Pure Veg,Chennai
+1025,17,14,6673.3,1,New / Occasional,Siddharth Mudaliar 1125,Flexitarian,Chennai
+1026,3,52,28369.37,3,Steady Regulars,Bhavana Kumar 1126,Flexitarian,Chennai
+1027,7,31,14743.55,3,Steady Regulars,Ramesh Swaminathan 1127,Flexitarian,Chennai
+1028,6,8,3720.45,1,New / Occasional,Lakshmi Babu 1128,Flexitarian,Chennai
+1029,263,1,405.0,0,At Risk / Churning,Vijay Natarajan 1129,Non-Veg Enthusiast,Chennai
+1030,58,8,4421.96,1,New / Occasional,Ananya Mudaliar 1130,Flexitarian,Chennai
+1031,97,1,442.0,1,New / Occasional,Suresh Kumar 1131,Flexitarian,Chennai
+1032,198,2,751.0,0,At Risk / Churning,Divya Swaminathan 1132,Flexitarian,Chennai
+1033,27,2,1003.5,1,New / Occasional,Ganesh Babu 1133,Flexitarian,Chennai
+1034,248,3,1408.5,0,At Risk / Churning,Meena Natarajan 1134,Pure Veg,Chennai
+1035,19,8,3634.5,1,New / Occasional,Rajesh Mudaliar 1135,Flexitarian,Chennai
+1036,5,6,2652.5,1,New / Occasional,Kavitha Kumar 1136,Flexitarian,Chennai
+1037,106,2,758.8,1,New / Occasional,Venkatesh Swaminathan 1137,Flexitarian,Chennai
+1038,265,1,613.8,0,At Risk / Churning,Nandhini Babu 1138,Pure Veg,Chennai
+1039,8,84,38578.15,3,Steady Regulars,Santhosh Natarajan 1139,Flexitarian,Chennai
+1040,104,3,1436.4,1,New / Occasional,Swetha Mudaliar 1140,Flexitarian,Chennai
+1041,76,4,1530.25,1,New / Occasional,Aravind Kumar 1141,Flexitarian,Chennai
+1042,247,2,871.0,0,At Risk / Churning,Priya Swaminathan 1142,Pure Veg,Chennai
+1043,5,8,3148.3,1,New / Occasional,Karthik Babu 1143,Flexitarian,Chennai
+1044,242,4,1736.0,0,At Risk / Churning,Deepa Natarajan 1144,Flexitarian,Chennai
+1045,42,3,2445.65,1,New / Occasional,Siddharth Mudaliar 1145,Flexitarian,Chennai
+1046,32,4,1707.9,1,New / Occasional,Bhavana Kumar 1146,Flexitarian,Chennai
+1047,21,5,2323.65,1,New / Occasional,Ramesh Swaminathan 1147,Flexitarian,Chennai
+1048,4,29,15004.5,3,Steady Regulars,Lakshmi Babu 1148,Flexitarian,Chennai
+1049,245,1,393.0,0,At Risk / Churning,Vijay Natarajan 1149,Pure Veg,Chennai
+1050,5,23,12576.79,1,New / Occasional,Ananya Mudaliar 1150,Flexitarian,Chennai
+1051,15,4,1626.85,1,New / Occasional,Suresh Kumar 1151,Non-Veg Enthusiast,Chennai
+1052,126,2,1053.9,1,New / Occasional,Divya Swaminathan 1152,Flexitarian,Chennai
+1053,92,2,1122.85,1,New / Occasional,Ganesh Babu 1153,Flexitarian,Chennai
+1054,90,4,2055.67,1,New / Occasional,Meena Natarajan 1154,Flexitarian,Chennai
+1055,15,47,22788.07,3,Steady Regulars,Rajesh Mudaliar 1155,Flexitarian,Chennai
+1056,163,2,1250.1,0,At Risk / Churning,Kavitha Kumar 1156,Flexitarian,Chennai
+1057,63,15,6456.95,1,New / Occasional,Venkatesh Swaminathan 1157,Flexitarian,Chennai
+1058,147,2,1339.0,0,At Risk / Churning,Nandhini Babu 1158,Pure Veg,Chennai
+1059,303,1,423.0,0,At Risk / Churning,Santhosh Natarajan 1159,Pure Veg,Chennai
+1060,71,1,290.0,1,New / Occasional,Swetha Mudaliar 1160,Pure Veg,Chennai
+1061,84,5,2797.8,1,New / Occasional,Aravind Kumar 1161,Flexitarian,Chennai
+1062,172,5,1263.0,0,At Risk / Churning,Priya Swaminathan 1162,Pure Veg,Chennai
+1063,25,14,6909.95,1,New / Occasional,Karthik Babu 1163,Flexitarian,Chennai
+1064,243,1,159.0,0,At Risk / Churning,Deepa Natarajan 1164,Pure Veg,Chennai
+1065,8,26,13483.23,3,Steady Regulars,Siddharth Mudaliar 1165,Flexitarian,Chennai
+1066,73,2,891.0,1,New / Occasional,Bhavana Kumar 1166,Pure Veg,Chennai
+1067,18,19,7033.29,1,New / Occasional,Ramesh Swaminathan 1167,Flexitarian,Chennai
+1068,11,8,3144.65,1,New / Occasional,Lakshmi Babu 1168,Flexitarian,Chennai
+1069,6,5,3173.4,1,New / Occasional,Vijay Natarajan 1169,Flexitarian,Chennai
+1070,24,11,5511.7,1,New / Occasional,Ananya Mudaliar 1170,Flexitarian,Chennai
+1071,42,6,2323.0,1,New / Occasional,Suresh Kumar 1171,Pure Veg,Chennai
+1072,147,5,1461.25,0,At Risk / Churning,Divya Swaminathan 1172,Flexitarian,Chennai
+1073,290,1,793.8,0,At Risk / Churning,Ganesh Babu 1173,Flexitarian,Chennai
+1074,238,1,361.0,0,At Risk / Churning,Meena Natarajan 1174,Pure Veg,Chennai
+1075,8,10,4959.75,1,New / Occasional,Rajesh Mudaliar 1175,Flexitarian,Chennai
+1076,262,1,720.0,0,At Risk / Churning,Kavitha Kumar 1176,Flexitarian,Chennai
+1077,34,10,6104.6,1,New / Occasional,Venkatesh Swaminathan 1177,Flexitarian,Chennai
+1078,356,1,314.0,0,At Risk / Churning,Nandhini Babu 1178,Pure Veg,Chennai
+1079,6,4,2154.6,1,New / Occasional,Santhosh Natarajan 1179,Flexitarian,Chennai
+1080,60,5,2452.55,1,New / Occasional,Swetha Mudaliar 1180,Flexitarian,Chennai
+1081,50,3,1113.5,1,New / Occasional,Aravind Kumar 1181,Flexitarian,Chennai
+1082,121,2,1137.0,1,New / Occasional,Priya Swaminathan 1182,Flexitarian,Chennai
+1083,66,5,2114.05,1,New / Occasional,Karthik Babu 1183,Flexitarian,Chennai
+1084,321,1,1755.0,0,At Risk / Churning,Deepa Natarajan 1184,Pure Veg,Chennai
+1085,9,6,1936.4,1,New / Occasional,Siddharth Mudaliar 1185,Flexitarian,Chennai
+1086,140,2,1320.67,0,At Risk / Churning,Bhavana Kumar 1186,Flexitarian,Chennai
+1087,118,6,1934.7,1,New / Occasional,Ramesh Swaminathan 1187,Flexitarian,Chennai
+1088,263,1,398.0,0,At Risk / Churning,Lakshmi Babu 1188,Flexitarian,Chennai
+1089,130,3,2084.8,1,New / Occasional,Vijay Natarajan 1189,Flexitarian,Chennai
+1090,38,1,349.0,1,New / Occasional,Ananya Mudaliar 1190,Flexitarian,Chennai
+1091,127,1,320.0,1,New / Occasional,Suresh Kumar 1191,Pure Veg,Chennai
+1092,136,4,2714.0,0,At Risk / Churning,Divya Swaminathan 1192,Flexitarian,Chennai
+1093,27,5,3167.85,1,New / Occasional,Ganesh Babu 1193,Flexitarian,Chennai
+1094,109,2,1028.35,1,New / Occasional,Meena Natarajan 1194,Flexitarian,Chennai
+1095,271,1,510.85,0,At Risk / Churning,Rajesh Mudaliar 1195,Flexitarian,Chennai
+1096,208,5,1924.0,0,At Risk / Churning,Kavitha Kumar 1196,Flexitarian,Chennai
+1097,78,9,5169.35,1,New / Occasional,Venkatesh Swaminathan 1197,Flexitarian,Chennai
+1098,12,10,4736.6,1,New / Occasional,Nandhini Babu 1198,Flexitarian,Chennai
+1099,77,3,2041.24,1,New / Occasional,Santhosh Natarajan 1199,Flexitarian,Chennai
+1100,33,3,1310.1,1,New / Occasional,Swetha Mudaliar 1200,Flexitarian,Chennai
+1101,64,2,1511.0,1,New / Occasional,Aravind Kumar 1201,Pure Veg,Chennai
+1102,8,56,26462.25,3,Steady Regulars,Priya Swaminathan 1202,Flexitarian,Chennai
+1103,32,7,2900.25,1,New / Occasional,Karthik Babu 1203,Flexitarian,Chennai
+1104,47,6,3251.4,1,New / Occasional,Deepa Natarajan 1204,Flexitarian,Chennai
+1105,132,6,2750.51,1,New / Occasional,Siddharth Mudaliar 1205,Flexitarian,Chennai
+1106,50,4,1505.7,1,New / Occasional,Bhavana Kumar 1206,Flexitarian,Chennai
+1107,26,8,4435.07,1,New / Occasional,Ramesh Swaminathan 1207,Flexitarian,Chennai
+1108,115,2,1284.5,1,New / Occasional,Lakshmi Babu 1208,Pure Veg,Chennai
+1109,77,5,2275.95,1,New / Occasional,Vijay Natarajan 1209,Flexitarian,Chennai
+1110,86,1,340.0,1,New / Occasional,Ananya Mudaliar 1210,Flexitarian,Chennai
+1111,21,1,325.0,1,New / Occasional,Suresh Kumar 1211,Flexitarian,Chennai
+1112,2,1,315.0,1,New / Occasional,Divya Swaminathan 1212,Pure Veg,Chennai
+1113,124,3,1143.5,1,New / Occasional,Ganesh Babu 1213,Pure Veg,Chennai
+1114,65,4,1535.37,1,New / Occasional,Meena Natarajan 1214,Flexitarian,Chennai
+1115,41,7,2783.78,1,New / Occasional,Rajesh Mudaliar 1215,Flexitarian,Chennai
+1116,120,1,290.0,1,New / Occasional,Kavitha Kumar 1216,Flexitarian,Chennai
+1117,242,2,857.0,0,At Risk / Churning,Venkatesh Swaminathan 1217,Non-Veg Enthusiast,Chennai
+1118,40,2,635.54,1,New / Occasional,Nandhini Babu 1218,Pure Veg,Chennai
+1119,45,4,2502.3,1,New / Occasional,Santhosh Natarajan 1219,Flexitarian,Chennai
+1120,36,6,3460.2,1,New / Occasional,Swetha Mudaliar 1220,Flexitarian,Chennai
+1121,24,23,11395.91,1,New / Occasional,Aravind Kumar 1221,Flexitarian,Chennai
+1122,207,2,850.5,0,At Risk / Churning,Priya Swaminathan 1222,Flexitarian,Chennai
+1123,115,5,2752.3,1,New / Occasional,Karthik Babu 1223,Flexitarian,Chennai
+1124,2,7,2829.2,1,New / Occasional,Deepa Natarajan 1224,Flexitarian,Chennai
+1125,24,12,5572.7,1,New / Occasional,Siddharth Mudaliar 1225,Flexitarian,Chennai
+1126,8,2,899.1,1,New / Occasional,Bhavana Kumar 1226,Flexitarian,Chennai
+1127,44,6,2439.4,1,New / Occasional,Ramesh Swaminathan 1227,Flexitarian,Chennai
+1128,73,6,3868.0,1,New / Occasional,Lakshmi Babu 1228,Flexitarian,Chennai
+1129,4,11,5602.5,1,New / Occasional,Vijay Natarajan 1229,Flexitarian,Chennai
+1130,165,1,385.0,0,At Risk / Churning,Ananya Mudaliar 1230,Pure Veg,Chennai
+1131,38,8,5592.51,1,New / Occasional,Suresh Kumar 1231,Flexitarian,Chennai
+1132,190,2,849.0,0,At Risk / Churning,Divya Swaminathan 1232,Flexitarian,Chennai
+1133,3,10,5635.91,1,New / Occasional,Ganesh Babu 1233,Flexitarian,Chennai
+1134,176,2,465.0,0,At Risk / Churning,Meena Natarajan 1234,Pure Veg,Chennai
+1135,17,7,3310.9,1,New / Occasional,Rajesh Mudaliar 1235,Flexitarian,Chennai
+1136,84,1,421.2,1,New / Occasional,Kavitha Kumar 1236,Flexitarian,Chennai
+1137,3,8,4731.91,1,New / Occasional,Venkatesh Swaminathan 1237,Flexitarian,Chennai
+1138,19,2,1188.9,1,New / Occasional,Nandhini Babu 1238,Pure Veg,Chennai
+1139,110,2,367.45,1,New / Occasional,Santhosh Natarajan 1239,Pure Veg,Chennai
+1140,29,14,7399.12,1,New / Occasional,Swetha Mudaliar 1240,Flexitarian,Chennai
+1141,71,1,393.0,1,New / Occasional,Aravind Kumar 1241,Pure Veg,Chennai
+1142,13,38,17458.83,3,Steady Regulars,Priya Swaminathan 1242,Flexitarian,Chennai
+1143,98,2,1061.5,1,New / Occasional,Karthik Babu 1243,Pure Veg,Chennai
+1144,20,10,5337.94,1,New / Occasional,Deepa Natarajan 1244,Flexitarian,Chennai
+1145,51,6,3067.76,1,New / Occasional,Siddharth Mudaliar 1245,Flexitarian,Chennai
+1146,171,3,2766.2,0,At Risk / Churning,Bhavana Kumar 1246,Flexitarian,Chennai
+1147,52,4,2301.3,1,New / Occasional,Ramesh Swaminathan 1247,Flexitarian,Chennai
+1148,2,9,3384.0,1,New / Occasional,Lakshmi Babu 1248,Flexitarian,Chennai
+1149,2,112,54192.75,3,Steady Regulars,Vijay Natarajan 1249,Flexitarian,Chennai
+1150,11,35,16957.25,3,Steady Regulars,Ananya Mudaliar 1250,Flexitarian,Chennai
+1151,86,1,427.5,1,New / Occasional,Suresh Kumar 1251,Flexitarian,Chennai
+1152,330,1,170.0,0,At Risk / Churning,Divya Swaminathan 1252,Pure Veg,Chennai
+1153,329,2,598.6,0,At Risk / Churning,Ganesh Babu 1253,Flexitarian,Chennai
+1154,41,1,315.0,1,New / Occasional,Meena Natarajan 1254,Non-Veg Enthusiast,Chennai
+1155,225,1,1260.9,0,At Risk / Churning,Rajesh Mudaliar 1255,Flexitarian,Chennai
+1156,38,3,1024.75,1,New / Occasional,Kavitha Kumar 1256,Flexitarian,Chennai
+1157,14,10,4775.4,1,New / Occasional,Venkatesh Swaminathan 1257,Flexitarian,Chennai
+1158,28,5,1820.65,1,New / Occasional,Nandhini Babu 1258,Flexitarian,Chennai
+1159,10,6,2573.1,1,New / Occasional,Santhosh Natarajan 1259,Flexitarian,Chennai
+1160,15,7,2074.05,1,New / Occasional,Swetha Mudaliar 1260,Flexitarian,Chennai
+1161,124,2,2070.0,1,New / Occasional,Aravind Kumar 1261,Flexitarian,Chennai
+1162,39,1,1106.32,1,New / Occasional,Priya Swaminathan 1262,Flexitarian,Chennai
+1163,14,38,16007.35,3,Steady Regulars,Karthik Babu 1263,Flexitarian,Chennai
+1164,17,11,6697.7,1,New / Occasional,Deepa Natarajan 1264,Flexitarian,Chennai
+1165,70,7,3103.8,1,New / Occasional,Siddharth Mudaliar 1265,Flexitarian,Chennai
+1166,39,7,2465.59,1,New / Occasional,Bhavana Kumar 1266,Flexitarian,Chennai
+1167,19,9,3419.7,1,New / Occasional,Ramesh Swaminathan 1267,Flexitarian,Chennai
+1168,296,2,723.6,0,At Risk / Churning,Lakshmi Babu 1268,Flexitarian,Chennai
+1169,17,12,6929.02,1,New / Occasional,Vijay Natarajan 1269,Flexitarian,Chennai
+1170,27,18,9213.09,1,New / Occasional,Ananya Mudaliar 1270,Flexitarian,Chennai
+1171,24,2,1593.0,1,New / Occasional,Suresh Kumar 1271,Flexitarian,Chennai
+1172,22,3,885.5,1,New / Occasional,Divya Swaminathan 1272,Pure Veg,Chennai
+1173,70,5,3261.3,1,New / Occasional,Ganesh Babu 1273,Flexitarian,Chennai
+1174,3,13,6622.36,1,New / Occasional,Meena Natarajan 1274,Flexitarian,Chennai
+1175,63,1,563.4,1,New / Occasional,Rajesh Mudaliar 1275,Pure Veg,Chennai
+1176,186,1,380.7,0,At Risk / Churning,Kavitha Kumar 1276,Pure Veg,Chennai
+1177,35,5,2622.9,1,New / Occasional,Venkatesh Swaminathan 1277,Flexitarian,Chennai
+1178,15,9,4185.75,1,New / Occasional,Nandhini Babu 1278,Flexitarian,Chennai
+1179,29,3,1175.0,1,New / Occasional,Santhosh Natarajan 1279,Flexitarian,Chennai
+1180,80,7,2815.25,1,New / Occasional,Swetha Mudaliar 1280,Flexitarian,Chennai
+1181,17,12,5767.85,1,New / Occasional,Aravind Kumar 1281,Flexitarian,Chennai
+1182,62,3,984.65,1,New / Occasional,Priya Swaminathan 1282,Pure Veg,Chennai
+1183,274,1,532.1,0,At Risk / Churning,Karthik Babu 1283,Pure Veg,Chennai
+1184,4,38,18825.71,3,Steady Regulars,Deepa Natarajan 1284,Flexitarian,Chennai
+1185,56,1,104.0,1,New / Occasional,Siddharth Mudaliar 1285,Pure Veg,Chennai
+1186,11,9,4304.1,1,New / Occasional,Bhavana Kumar 1286,Flexitarian,Chennai
+1187,164,2,652.0,0,At Risk / Churning,Ramesh Swaminathan 1287,Pure Veg,Chennai
+1188,265,2,554.0,0,At Risk / Churning,Lakshmi Babu 1288,Flexitarian,Chennai
+1189,64,10,5984.9,1,New / Occasional,Vijay Natarajan 1289,Flexitarian,Chennai
+1190,196,2,1159.0,0,At Risk / Churning,Ananya Mudaliar 1290,Non-Veg Enthusiast,Chennai
+1191,40,5,2374.32,1,New / Occasional,Suresh Kumar 1291,Flexitarian,Chennai
+1192,22,3,1833.3,1,New / Occasional,Divya Swaminathan 1292,Flexitarian,Chennai
+1193,58,2,1602.0,1,New / Occasional,Ganesh Babu 1293,Pure Veg,Chennai
+1194,109,1,230.0,1,New / Occasional,Meena Natarajan 1294,Pure Veg,Chennai
+1195,26,6,2601.0,1,New / Occasional,Rajesh Mudaliar 1295,Pure Veg,Chennai
+1196,15,22,9850.78,1,New / Occasional,Kavitha Kumar 1296,Flexitarian,Chennai
+1197,354,1,1080.0,0,At Risk / Churning,Venkatesh Swaminathan 1297,Pure Veg,Chennai
+1198,49,6,2525.14,1,New / Occasional,Nandhini Babu 1298,Pure Veg,Chennai
+1199,34,6,2455.45,1,New / Occasional,Santhosh Natarajan 1299,Pure Veg,Chennai
+1200,2,7,3507.45,1,New / Occasional,Swetha Mudaliar 1300,Flexitarian,Chennai
+1201,9,3,1164.0,1,New / Occasional,Aravind Kumar 1301,Flexitarian,Chennai
+1202,12,41,15407.57,3,Steady Regulars,Priya Swaminathan 1302,Flexitarian,Chennai
+1203,135,3,1708.12,0,At Risk / Churning,Karthik Babu 1303,Flexitarian,Chennai
+1204,24,2,714.0,1,New / Occasional,Deepa Natarajan 1304,Pure Veg,Chennai
+1205,93,2,1691.75,1,New / Occasional,Siddharth Mudaliar 1305,Flexitarian,Chennai
+1206,7,11,6824.52,1,New / Occasional,Bhavana Kumar 1306,Flexitarian,Chennai
+1207,64,5,1786.0,1,New / Occasional,Ramesh Swaminathan 1307,Flexitarian,Chennai
+1208,213,1,387.0,0,At Risk / Churning,Lakshmi Babu 1308,Pure Veg,Chennai
+1209,159,3,1612.5,0,At Risk / Churning,Vijay Natarajan 1309,Pure Veg,Chennai
+1210,10,6,3528.9,1,New / Occasional,Ananya Mudaliar 1310,Flexitarian,Chennai
+1211,229,1,513.0,0,At Risk / Churning,Suresh Kumar 1311,Flexitarian,Chennai
+1212,73,1,350.0,1,New / Occasional,Divya Swaminathan 1312,Flexitarian,Chennai
+1213,116,1,458.1,1,New / Occasional,Ganesh Babu 1313,Pure Veg,Chennai
+1214,156,10,4363.53,0,At Risk / Churning,Meena Natarajan 1314,Flexitarian,Chennai
+1215,70,10,3582.47,1,New / Occasional,Rajesh Mudaliar 1315,Flexitarian,Chennai
+1216,90,3,2368.8,1,New / Occasional,Kavitha Kumar 1316,Flexitarian,Chennai
+1217,44,4,1713.49,1,New / Occasional,Venkatesh Swaminathan 1317,Flexitarian,Chennai
+1218,119,7,3077.75,1,New / Occasional,Nandhini Babu 1318,Flexitarian,Chennai
+1219,41,6,2615.6,1,New / Occasional,Santhosh Natarajan 1319,Flexitarian,Chennai
+1220,27,11,4227.6,1,New / Occasional,Swetha Mudaliar 1320,Flexitarian,Chennai
+1221,87,3,1485.9,1,New / Occasional,Aravind Kumar 1321,Flexitarian,Chennai
+1222,223,1,451.8,0,At Risk / Churning,Priya Swaminathan 1322,Pure Veg,Chennai
+1223,154,2,1125.5,0,At Risk / Churning,Karthik Babu 1323,Flexitarian,Chennai
+1224,76,6,3254.5,1,New / Occasional,Deepa Natarajan 1324,Flexitarian,Chennai
+1225,15,14,8976.3,1,New / Occasional,Siddharth Mudaliar 1325,Flexitarian,Chennai
+1226,42,1,774.0,1,New / Occasional,Bhavana Kumar 1326,Pure Veg,Chennai
+1227,74,3,1142.1,1,New / Occasional,Ramesh Swaminathan 1327,Flexitarian,Chennai
+1228,34,10,5459.5,1,New / Occasional,Lakshmi Babu 1328,Flexitarian,Chennai
+1229,11,2,967.1,1,New / Occasional,Vijay Natarajan 1329,Flexitarian,Chennai
+1230,177,1,313.0,0,At Risk / Churning,Ananya Mudaliar 1330,Pure Veg,Chennai
+1231,296,1,1209.6,0,At Risk / Churning,Suresh Kumar 1331,Pure Veg,Chennai
+1232,8,43,22362.48,3,Steady Regulars,Divya Swaminathan 1332,Flexitarian,Chennai
+1233,8,23,11564.05,1,New / Occasional,Ganesh Babu 1333,Flexitarian,Chennai
+1234,166,2,805.89,0,At Risk / Churning,Meena Natarajan 1334,Flexitarian,Chennai
+1235,9,16,9739.45,1,New / Occasional,Rajesh Mudaliar 1335,Flexitarian,Chennai
+1236,81,4,2415.45,1,New / Occasional,Kavitha Kumar 1336,Flexitarian,Chennai
+1237,6,12,6098.55,1,New / Occasional,Venkatesh Swaminathan 1337,Flexitarian,Chennai
+1238,91,5,2118.4,1,New / Occasional,Nandhini Babu 1338,Pure Veg,Chennai
+1239,107,4,2312.5,1,New / Occasional,Santhosh Natarajan 1339,Pure Veg,Chennai
+1240,80,1,643.5,1,New / Occasional,Swetha Mudaliar 1340,Pure Veg,Chennai
+1241,296,2,728.4,0,At Risk / Churning,Aravind Kumar 1341,Flexitarian,Chennai
+1242,55,8,3636.2,1,New / Occasional,Priya Swaminathan 1342,Flexitarian,Chennai
+1243,264,1,388.8,0,At Risk / Churning,Karthik Babu 1343,Pure Veg,Chennai
+1244,216,4,989.0,0,At Risk / Churning,Deepa Natarajan 1344,Flexitarian,Chennai
+1245,26,23,10779.9,1,New / Occasional,Siddharth Mudaliar 1345,Flexitarian,Chennai
+1246,171,6,3588.27,0,At Risk / Churning,Bhavana Kumar 1346,Flexitarian,Chennai
+1247,67,3,1562.8,1,New / Occasional,Ramesh Swaminathan 1347,Flexitarian,Chennai
+1248,71,8,3845.07,1,New / Occasional,Lakshmi Babu 1348,Flexitarian,Chennai
+1249,67,5,2739.15,1,New / Occasional,Vijay Natarajan 1349,Flexitarian,Chennai
+1250,140,8,4090.11,1,New / Occasional,Ananya Mudaliar 1350,Flexitarian,Chennai
+1251,22,19,9257.78,1,New / Occasional,Suresh Kumar 1351,Flexitarian,Chennai
+1252,3,4,2196.0,1,New / Occasional,Divya Swaminathan 1352,Flexitarian,Chennai
+1253,18,3,805.0,1,New / Occasional,Ganesh Babu 1353,Flexitarian,Chennai
+1254,90,6,2391.8,1,New / Occasional,Meena Natarajan 1354,Flexitarian,Chennai
+1255,9,9,5175.3,1,New / Occasional,Rajesh Mudaliar 1355,Flexitarian,Chennai
+1256,131,4,3417.0,1,New / Occasional,Kavitha Kumar 1356,Pure Veg,Chennai
+1257,265,1,522.0,0,At Risk / Churning,Venkatesh Swaminathan 1357,Pure Veg,Chennai
+1258,10,22,13297.38,1,New / Occasional,Nandhini Babu 1358,Flexitarian,Chennai
+1259,61,5,2032.2,1,New / Occasional,Santhosh Natarajan 1359,Flexitarian,Chennai
+1260,145,6,2131.2,0,At Risk / Churning,Swetha Mudaliar 1360,Flexitarian,Chennai
+1261,62,1,377.0,1,New / Occasional,Aravind Kumar 1361,Pure Veg,Chennai
+1262,84,6,2508.4,1,New / Occasional,Priya Swaminathan 1362,Flexitarian,Chennai
+1263,100,1,576.27,1,New / Occasional,Karthik Babu 1363,Non-Veg Enthusiast,Chennai
+1264,128,1,345.0,0,At Risk / Churning,Deepa Natarajan 1364,Flexitarian,Chennai
+1265,169,3,1539.9,0,At Risk / Churning,Siddharth Mudaliar 1365,Flexitarian,Chennai
+1266,32,3,1004.5,1,New / Occasional,Bhavana Kumar 1366,Flexitarian,Chennai
+1267,3,254,128659.48,2,Loyal High-Spenders,Ramesh Swaminathan 1367,Flexitarian,Chennai
+1268,4,37,18461.16,3,Steady Regulars,Lakshmi Babu 1368,Flexitarian,Chennai
+1269,200,4,2259.4,0,At Risk / Churning,Vijay Natarajan 1369,Flexitarian,Chennai
+1270,34,15,7332.3,1,New / Occasional,Ananya Mudaliar 1370,Flexitarian,Chennai
+1271,140,2,787.65,0,At Risk / Churning,Suresh Kumar 1371,Flexitarian,Chennai
+1272,135,3,1070.3,0,At Risk / Churning,Divya Swaminathan 1372,Flexitarian,Chennai
+1273,89,5,2854.2,1,New / Occasional,Ganesh Babu 1373,Flexitarian,Chennai
+1274,93,9,4351.95,1,New / Occasional,Meena Natarajan 1374,Flexitarian,Chennai
+1275,86,3,1004.57,1,New / Occasional,Rajesh Mudaliar 1375,Flexitarian,Chennai
+1276,174,2,1272.6,0,At Risk / Churning,Kavitha Kumar 1376,Flexitarian,Chennai
+1277,264,2,718.2,0,At Risk / Churning,Venkatesh Swaminathan 1377,Non-Veg Enthusiast,Chennai
+1278,7,14,8332.76,1,New / Occasional,Nandhini Babu 1378,Flexitarian,Chennai
+1279,97,6,3147.08,1,New / Occasional,Santhosh Natarajan 1379,Flexitarian,Chennai
+1280,94,6,3439.6,1,New / Occasional,Swetha Mudaliar 1380,Flexitarian,Chennai
+1281,25,2,2176.2,1,New / Occasional,Aravind Kumar 1381,Pure Veg,Chennai
+1282,95,7,4912.0,1,New / Occasional,Priya Swaminathan 1382,Flexitarian,Chennai
+1283,211,1,210.0,0,At Risk / Churning,Karthik Babu 1383,Non-Veg Enthusiast,Chennai
+1284,140,4,1978.1,0,At Risk / Churning,Deepa Natarajan 1384,Flexitarian,Chennai
+1285,252,1,275.0,0,At Risk / Churning,Siddharth Mudaliar 1385,Pure Veg,Chennai
+1286,9,2,1483.2,1,New / Occasional,Bhavana Kumar 1386,Flexitarian,Chennai
+1287,66,2,809.5,1,New / Occasional,Ramesh Swaminathan 1387,Flexitarian,Chennai
+1288,67,5,2794.74,1,New / Occasional,Lakshmi Babu 1388,Flexitarian,Chennai
+1289,47,5,2467.1,1,New / Occasional,Vijay Natarajan 1389,Flexitarian,Chennai
+1290,14,1,469.8,1,New / Occasional,Ananya Mudaliar 1390,Non-Veg Enthusiast,Chennai
+1291,357,1,310.0,0,At Risk / Churning,Suresh Kumar 1391,Flexitarian,Chennai
+1292,60,2,476.0,1,New / Occasional,Divya Swaminathan 1392,Flexitarian,Chennai
+1293,132,2,1572.5,0,At Risk / Churning,Ganesh Babu 1393,Pure Veg,Chennai
+1294,111,3,1221.9,1,New / Occasional,Meena Natarajan 1394,Pure Veg,Chennai
+1295,54,4,1612.4,1,New / Occasional,Rajesh Mudaliar 1395,Flexitarian,Chennai
+1296,258,3,835.5,0,At Risk / Churning,Kavitha Kumar 1396,Flexitarian,Chennai
+1297,33,2,1614.8,1,New / Occasional,Venkatesh Swaminathan 1397,Flexitarian,Chennai
+1298,4,13,5567.65,1,New / Occasional,Nandhini Babu 1398,Flexitarian,Chennai
+1299,27,3,1609.95,1,New / Occasional,Santhosh Natarajan 1399,Flexitarian,Chennai
+1300,48,2,814.0,1,New / Occasional,Swetha Mudaliar 1400,Flexitarian,Chennai
+1301,13,4,1423.0,1,New / Occasional,Aravind Kumar 1401,Flexitarian,Chennai
+1302,72,4,2868.3,1,New / Occasional,Priya Swaminathan 1402,Flexitarian,Chennai
+1303,55,6,2223.5,1,New / Occasional,Karthik Babu 1403,Flexitarian,Chennai
+1304,43,8,2966.5,1,New / Occasional,Deepa Natarajan 1404,Flexitarian,Chennai
+1305,97,3,1719.5,1,New / Occasional,Siddharth Mudaliar 1405,Pure Veg,Chennai
+1306,66,2,992.7,1,New / Occasional,Bhavana Kumar 1406,Pure Veg,Chennai
+1307,2,5,3259.85,1,New / Occasional,Ramesh Swaminathan 1407,Flexitarian,Chennai
+1308,33,10,4214.0,1,New / Occasional,Lakshmi Babu 1408,Flexitarian,Chennai
+1309,19,8,2922.67,1,New / Occasional,Vijay Natarajan 1409,Flexitarian,Chennai
+1310,5,26,14966.75,3,Steady Regulars,Ananya Mudaliar 1410,Flexitarian,Chennai
+1311,150,3,1319.95,0,At Risk / Churning,Suresh Kumar 1411,Non-Veg Enthusiast,Chennai
+1312,123,1,386.1,1,New / Occasional,Divya Swaminathan 1412,Pure Veg,Chennai
+1313,4,8,2620.33,1,New / Occasional,Ganesh Babu 1413,Flexitarian,Chennai
+1314,69,14,6004.15,1,New / Occasional,Meena Natarajan 1414,Flexitarian,Chennai
+1315,285,1,398.0,0,At Risk / Churning,Rajesh Mudaliar 1415,Pure Veg,Chennai
+1316,5,19,10598.65,1,New / Occasional,Kavitha Kumar 1416,Flexitarian,Chennai
+1317,59,13,5158.45,1,New / Occasional,Venkatesh Swaminathan 1417,Flexitarian,Chennai
+1318,94,2,504.65,1,New / Occasional,Nandhini Babu 1418,Pure Veg,Chennai
+1319,241,2,712.3,0,At Risk / Churning,Santhosh Natarajan 1419,Non-Veg Enthusiast,Chennai
+1320,31,2,478.0,1,New / Occasional,Swetha Mudaliar 1420,Pure Veg,Chennai
+1321,48,2,782.1,1,New / Occasional,Aravind Kumar 1421,Flexitarian,Chennai
+1322,231,2,1382.4,0,At Risk / Churning,Priya Swaminathan 1422,Pure Veg,Chennai
+1323,50,10,5134.45,1,New / Occasional,Karthik Babu 1423,Flexitarian,Chennai
+1324,70,7,3730.7,1,New / Occasional,Deepa Natarajan 1424,Flexitarian,Chennai
+1325,188,4,2427.6,0,At Risk / Churning,Siddharth Mudaliar 1425,Flexitarian,Chennai
+1326,19,7,2689.3,1,New / Occasional,Bhavana Kumar 1426,Flexitarian,Chennai
+1327,108,5,3074.4,1,New / Occasional,Ramesh Swaminathan 1427,Pure Veg,Chennai
+1328,66,5,2463.87,1,New / Occasional,Lakshmi Babu 1428,Flexitarian,Chennai
+1329,250,2,813.45,0,At Risk / Churning,Vijay Natarajan 1429,Flexitarian,Chennai
+1330,275,1,340.0,0,At Risk / Churning,Ananya Mudaliar 1430,Flexitarian,Chennai
+1331,73,5,2679.3,1,New / Occasional,Suresh Kumar 1431,Flexitarian,Chennai
+1332,44,6,2347.67,1,New / Occasional,Divya Swaminathan 1432,Flexitarian,Chennai
+1333,82,5,2391.7,1,New / Occasional,Ganesh Babu 1433,Flexitarian,Chennai
+1334,49,1,475.2,1,New / Occasional,Meena Natarajan 1434,Non-Veg Enthusiast,Chennai
+1335,8,20,8314.5,1,New / Occasional,Rajesh Mudaliar 1435,Flexitarian,Chennai
+1336,221,3,1863.9,0,At Risk / Churning,Kavitha Kumar 1436,Flexitarian,Chennai
+1337,52,6,1838.25,1,New / Occasional,Venkatesh Swaminathan 1437,Flexitarian,Chennai
+1338,123,3,1907.1,1,New / Occasional,Nandhini Babu 1438,Pure Veg,Chennai
+1339,237,3,987.5,0,At Risk / Churning,Santhosh Natarajan 1439,Pure Veg,Chennai
+1340,5,29,17699.88,3,Steady Regulars,Swetha Mudaliar 1440,Flexitarian,Chennai
+1341,9,6,2865.5,1,New / Occasional,Aravind Kumar 1441,Flexitarian,Chennai
+1342,41,12,5543.22,1,New / Occasional,Priya Swaminathan 1442,Flexitarian,Chennai
+1343,29,15,8783.52,1,New / Occasional,Karthik Babu 1443,Flexitarian,Chennai
+1344,190,4,2255.1,0,At Risk / Churning,Deepa Natarajan 1444,Pure Veg,Chennai
+1345,90,4,2626.95,1,New / Occasional,Siddharth Mudaliar 1445,Flexitarian,Chennai
+1346,258,2,955.32,0,At Risk / Churning,Bhavana Kumar 1446,Flexitarian,Chennai
+1347,92,8,3666.51,1,New / Occasional,Ramesh Swaminathan 1447,Flexitarian,Chennai
+1348,29,19,8631.09,1,New / Occasional,Lakshmi Babu 1448,Flexitarian,Chennai
+1349,130,1,535.5,0,At Risk / Churning,Vijay Natarajan 1449,Pure Veg,Chennai
+1350,346,1,346.0,0,At Risk / Churning,Ananya Mudaliar 1450,Flexitarian,Chennai
+1351,17,13,7083.6,1,New / Occasional,Suresh Kumar 1451,Flexitarian,Chennai
+1352,35,10,6455.71,1,New / Occasional,Divya Swaminathan 1452,Flexitarian,Chennai
+1353,70,4,3534.0,1,New / Occasional,Ganesh Babu 1453,Pure Veg,Chennai
+1354,24,9,5093.9,1,New / Occasional,Meena Natarajan 1454,Flexitarian,Chennai
+1355,301,1,477.0,0,At Risk / Churning,Rajesh Mudaliar 1455,Pure Veg,Chennai
+1356,112,3,726.45,1,New / Occasional,Kavitha Kumar 1456,Flexitarian,Chennai
+1357,133,3,1262.75,0,At Risk / Churning,Venkatesh Swaminathan 1457,Pure Veg,Chennai
+1358,38,6,2127.9,1,New / Occasional,Nandhini Babu 1458,Flexitarian,Chennai
+1359,227,2,1296.0,0,At Risk / Churning,Santhosh Natarajan 1459,Pure Veg,Chennai
+1360,22,9,3806.05,1,New / Occasional,Swetha Mudaliar 1460,Flexitarian,Chennai
+1361,4,16,7638.15,1,New / Occasional,Aravind Kumar 1461,Flexitarian,Chennai
+1362,186,1,489.6,0,At Risk / Churning,Priya Swaminathan 1462,Flexitarian,Chennai
+1363,97,2,995.8,1,New / Occasional,Karthik Babu 1463,Flexitarian,Chennai
+1364,64,5,2227.2,1,New / Occasional,Deepa Natarajan 1464,Pure Veg,Chennai
+1365,35,6,2976.2,1,New / Occasional,Siddharth Mudaliar 1465,Flexitarian,Chennai
+1366,56,6,2812.39,1,New / Occasional,Bhavana Kumar 1466,Flexitarian,Chennai
+1367,270,1,333.2,0,At Risk / Churning,Ramesh Swaminathan 1467,Pure Veg,Chennai
+1368,254,1,831.6,0,At Risk / Churning,Lakshmi Babu 1468,Pure Veg,Chennai
+1369,120,3,1230.5,1,New / Occasional,Vijay Natarajan 1469,Pure Veg,Chennai
+1370,17,10,4657.65,1,New / Occasional,Ananya Mudaliar 1470,Flexitarian,Chennai
+1371,4,61,27991.31,3,Steady Regulars,Suresh Kumar 1471,Flexitarian,Chennai
+1372,20,5,3107.6,1,New / Occasional,Divya Swaminathan 1472,Flexitarian,Chennai
+1373,191,2,794.5,0,At Risk / Churning,Ganesh Babu 1473,Pure Veg,Chennai
+1374,15,4,1236.38,1,New / Occasional,Meena Natarajan 1474,Flexitarian,Chennai
+1375,21,7,2989.8,1,New / Occasional,Rajesh Mudaliar 1475,Flexitarian,Chennai
+1376,69,4,1480.2,1,New / Occasional,Kavitha Kumar 1476,Flexitarian,Chennai
+1377,8,67,34717.99,3,Steady Regulars,Venkatesh Swaminathan 1477,Flexitarian,Chennai
+1378,216,2,302.0,0,At Risk / Churning,Nandhini Babu 1478,Flexitarian,Chennai
+1379,58,9,3467.32,1,New / Occasional,Santhosh Natarajan 1479,Flexitarian,Chennai
+1380,2,5,2083.4,1,New / Occasional,Swetha Mudaliar 1480,Flexitarian,Chennai
+1381,51,1,178.0,1,New / Occasional,Aravind Kumar 1481,Non-Veg Enthusiast,Chennai
+1382,46,1,309.0,1,New / Occasional,Priya Swaminathan 1482,Flexitarian,Chennai
+1383,33,13,6278.49,1,New / Occasional,Karthik Babu 1483,Flexitarian,Chennai
+1384,60,3,1663.0,1,New / Occasional,Deepa Natarajan 1484,Pure Veg,Chennai
+1385,233,2,1278.0,0,At Risk / Churning,Siddharth Mudaliar 1485,Pure Veg,Chennai
+1386,84,4,1180.0,1,New / Occasional,Bhavana Kumar 1486,Flexitarian,Chennai
+1387,8,9,5150.9,1,New / Occasional,Ramesh Swaminathan 1487,Flexitarian,Chennai
+1388,313,2,633.0,0,At Risk / Churning,Lakshmi Babu 1488,Flexitarian,Chennai
+1389,40,9,5249.75,1,New / Occasional,Vijay Natarajan 1489,Flexitarian,Chennai
+1390,46,6,1897.91,1,New / Occasional,Ananya Mudaliar 1490,Flexitarian,Chennai
+1391,169,3,3699.38,0,At Risk / Churning,Suresh Kumar 1491,Flexitarian,Chennai
+1392,8,1,125.0,1,New / Occasional,Divya Swaminathan 1492,Pure Veg,Chennai
+1393,136,3,827.13,0,At Risk / Churning,Ganesh Babu 1493,Flexitarian,Chennai
+1394,77,6,3470.35,1,New / Occasional,Meena Natarajan 1494,Flexitarian,Chennai
+1395,6,61,28123.08,3,Steady Regulars,Rajesh Mudaliar 1495,Flexitarian,Chennai
+1396,153,7,2907.5,0,At Risk / Churning,Kavitha Kumar 1496,Flexitarian,Chennai
+1397,28,2,795.2,1,New / Occasional,Venkatesh Swaminathan 1497,Pure Veg,Chennai
+1398,135,2,701.25,0,At Risk / Churning,Nandhini Babu 1498,Flexitarian,Chennai
+1399,106,2,886.0,1,New / Occasional,Santhosh Natarajan 1499,Pure Veg,Chennai
+1400,80,1,362.0,1,New / Occasional,Swetha Mudaliar 1500,Pure Veg,Chennai
+1401,2,4,1581.2,1,New / Occasional,Aravind Kumar 1501,Flexitarian,Chennai
+1402,8,23,10997.65,1,New / Occasional,Priya Swaminathan 1502,Flexitarian,Chennai
+1403,35,6,2169.42,1,New / Occasional,Karthik Babu 1503,Flexitarian,Chennai
+1404,335,1,414.0,0,At Risk / Churning,Deepa Natarajan 1504,Pure Veg,Chennai
+1405,54,3,1083.7,1,New / Occasional,Siddharth Mudaliar 1505,Flexitarian,Chennai
+1406,7,1,317.0,1,New / Occasional,Bhavana Kumar 1506,Pure Veg,Chennai
+1407,22,6,3521.6,1,New / Occasional,Ramesh Swaminathan 1507,Flexitarian,Chennai
+1408,6,6,3488.0,1,New / Occasional,Lakshmi Babu 1508,Flexitarian,Chennai
+1409,257,3,912.0,0,At Risk / Churning,Vijay Natarajan 1509,Flexitarian,Chennai
+1410,4,13,5479.35,1,New / Occasional,Ananya Mudaliar 1510,Flexitarian,Chennai
+1411,33,8,4011.27,1,New / Occasional,Suresh Kumar 1511,Flexitarian,Chennai
+1412,5,16,11095.25,1,New / Occasional,Divya Swaminathan 1512,Flexitarian,Chennai
+1413,27,6,2394.05,1,New / Occasional,Ganesh Babu 1513,Flexitarian,Chennai
+1414,4,3,1622.0,1,New / Occasional,Meena Natarajan 1514,Flexitarian,Chennai
+1415,102,1,119.0,1,New / Occasional,Rajesh Mudaliar 1515,Pure Veg,Chennai
+1416,12,65,25472.68,3,Steady Regulars,Kavitha Kumar 1516,Flexitarian,Chennai
+1417,7,27,14230.61,3,Steady Regulars,Venkatesh Swaminathan 1517,Flexitarian,Chennai
+1418,18,4,1634.6,1,New / Occasional,Nandhini Babu 1518,Flexitarian,Chennai
+1419,32,7,3865.4,1,New / Occasional,Santhosh Natarajan 1519,Flexitarian,Chennai
+1420,21,4,3150.0,1,New / Occasional,Swetha Mudaliar 1520,Flexitarian,Chennai
+1421,32,3,1135.0,1,New / Occasional,Aravind Kumar 1521,Flexitarian,Chennai
+1422,214,1,366.0,0,At Risk / Churning,Priya Swaminathan 1522,Non-Veg Enthusiast,Chennai
+1423,56,8,4492.79,1,New / Occasional,Karthik Babu 1523,Flexitarian,Chennai
+1424,55,9,5159.9,1,New / Occasional,Deepa Natarajan 1524,Flexitarian,Chennai
+1425,7,6,3477.85,1,New / Occasional,Siddharth Mudaliar 1525,Flexitarian,Chennai
+1426,13,5,2247.5,1,New / Occasional,Bhavana Kumar 1526,Flexitarian,Chennai
+1427,295,4,2375.03,0,At Risk / Churning,Ramesh Swaminathan 1527,Flexitarian,Chennai
+1428,26,6,3200.11,1,New / Occasional,Lakshmi Babu 1528,Flexitarian,Chennai
+1429,46,5,2060.75,1,New / Occasional,Vijay Natarajan 1529,Flexitarian,Chennai
+1430,16,16,7192.55,1,New / Occasional,Ananya Mudaliar 1530,Flexitarian,Chennai
+1431,156,1,339.15,0,At Risk / Churning,Suresh Kumar 1531,Pure Veg,Chennai
+1432,326,1,434.7,0,At Risk / Churning,Divya Swaminathan 1532,Pure Veg,Chennai
+1433,345,1,609.3,0,At Risk / Churning,Ganesh Babu 1533,Pure Veg,Chennai
+1434,100,5,2050.37,1,New / Occasional,Meena Natarajan 1534,Flexitarian,Chennai
+1435,10,4,1668.48,1,New / Occasional,Rajesh Mudaliar 1535,Flexitarian,Chennai
+1436,209,1,341.56,0,At Risk / Churning,Kavitha Kumar 1536,Pure Veg,Chennai
+1437,53,15,5489.85,1,New / Occasional,Venkatesh Swaminathan 1537,Flexitarian,Chennai
+1438,108,2,1413.0,1,New / Occasional,Nandhini Babu 1538,Pure Veg,Chennai
+1439,2,60,29035.19,3,Steady Regulars,Santhosh Natarajan 1539,Flexitarian,Chennai
+1440,23,14,5405.1,1,New / Occasional,Swetha Mudaliar 1540,Flexitarian,Chennai
+1441,161,1,397.0,0,At Risk / Churning,Aravind Kumar 1541,Flexitarian,Chennai
+1442,3,23,12551.21,1,New / Occasional,Priya Swaminathan 1542,Flexitarian,Chennai
+1443,166,2,529.0,0,At Risk / Churning,Karthik Babu 1543,Pure Veg,Chennai
+1444,19,11,5794.7,1,New / Occasional,Deepa Natarajan 1544,Flexitarian,Chennai
+1445,59,3,2229.5,1,New / Occasional,Siddharth Mudaliar 1545,Flexitarian,Chennai
+1446,7,12,5596.85,1,New / Occasional,Bhavana Kumar 1546,Flexitarian,Chennai
+1447,5,9,4478.45,1,New / Occasional,Ramesh Swaminathan 1547,Flexitarian,Chennai
+1448,10,7,5746.2,1,New / Occasional,Lakshmi Babu 1548,Flexitarian,Chennai
+1449,92,7,2240.92,1,New / Occasional,Vijay Natarajan 1549,Flexitarian,Chennai
+1450,18,2,831.7,1,New / Occasional,Ananya Mudaliar 1550,Non-Veg Enthusiast,Chennai
+1451,62,1,466.2,1,New / Occasional,Suresh Kumar 1551,Flexitarian,Chennai
+1452,9,1,312.0,1,New / Occasional,Divya Swaminathan 1552,Pure Veg,Chennai
+1453,69,4,1617.4,1,New / Occasional,Ganesh Babu 1553,Flexitarian,Chennai
+1454,229,1,530.1,0,At Risk / Churning,Meena Natarajan 1554,Flexitarian,Chennai
+1455,5,38,19647.16,3,Steady Regulars,Rajesh Mudaliar 1555,Flexitarian,Chennai
+1456,42,6,3458.6,1,New / Occasional,Kavitha Kumar 1556,Flexitarian,Chennai
+1457,22,11,3969.5,1,New / Occasional,Venkatesh Swaminathan 1557,Flexitarian,Chennai
+1458,190,2,1393.2,0,At Risk / Churning,Nandhini Babu 1558,Flexitarian,Chennai
+1459,17,14,5691.9,1,New / Occasional,Santhosh Natarajan 1559,Flexitarian,Chennai
+1460,103,3,1244.3,1,New / Occasional,Swetha Mudaliar 1560,Pure Veg,Chennai
+1461,13,8,5790.84,1,New / Occasional,Aravind Kumar 1561,Flexitarian,Chennai
+1462,56,8,2907.3,1,New / Occasional,Priya Swaminathan 1562,Flexitarian,Chennai
+1463,285,1,1152.0,0,At Risk / Churning,Karthik Babu 1563,Pure Veg,Chennai
+1464,184,3,2214.5,0,At Risk / Churning,Deepa Natarajan 1564,Non-Veg Enthusiast,Chennai
+1465,73,2,865.9,1,New / Occasional,Siddharth Mudaliar 1565,Flexitarian,Chennai
+1466,83,2,809.5,1,New / Occasional,Bhavana Kumar 1566,Pure Veg,Chennai
+1467,307,1,218.0,0,At Risk / Churning,Ramesh Swaminathan 1567,Non-Veg Enthusiast,Chennai
+1468,27,23,10691.56,1,New / Occasional,Lakshmi Babu 1568,Flexitarian,Chennai
+1469,8,4,1045.49,1,New / Occasional,Vijay Natarajan 1569,Flexitarian,Chennai
+1470,12,27,11345.25,1,New / Occasional,Ananya Mudaliar 1570,Flexitarian,Chennai
+1471,198,2,985.5,0,At Risk / Churning,Suresh Kumar 1571,Flexitarian,Chennai
+1472,182,1,647.1,0,At Risk / Churning,Divya Swaminathan 1572,Pure Veg,Chennai
+1473,175,2,1197.0,0,At Risk / Churning,Ganesh Babu 1573,Pure Veg,Chennai
+1474,40,3,1023.47,1,New / Occasional,Meena Natarajan 1574,Flexitarian,Chennai
+1475,299,2,1801.75,0,At Risk / Churning,Rajesh Mudaliar 1575,Flexitarian,Chennai
+1476,332,1,214.0,0,At Risk / Churning,Kavitha Kumar 1576,Pure Veg,Chennai
+1477,60,7,2785.89,1,New / Occasional,Venkatesh Swaminathan 1577,Flexitarian,Chennai
+1478,119,3,891.4,1,New / Occasional,Nandhini Babu 1578,Flexitarian,Chennai
+1479,276,3,1737.1,0,At Risk / Churning,Santhosh Natarajan 1579,Flexitarian,Chennai
+1480,26,9,4771.7,1,New / Occasional,Swetha Mudaliar 1580,Flexitarian,Chennai
+1481,279,1,635.4,0,At Risk / Churning,Aravind Kumar 1581,Flexitarian,Chennai
+1482,13,83,44467.15,3,Steady Regulars,Priya Swaminathan 1582,Flexitarian,Chennai
+1483,28,1,441.0,1,New / Occasional,Karthik Babu 1583,Flexitarian,Chennai
+1484,124,8,3829.3,1,New / Occasional,Deepa Natarajan 1584,Flexitarian,Chennai
+1485,10,48,22764.49,3,Steady Regulars,Siddharth Mudaliar 1585,Flexitarian,Chennai
+1486,57,4,1653.34,1,New / Occasional,Bhavana Kumar 1586,Flexitarian,Chennai
+1487,205,1,360.0,0,At Risk / Churning,Ramesh Swaminathan 1587,Flexitarian,Chennai
+1488,34,2,245.0,1,New / Occasional,Lakshmi Babu 1588,Flexitarian,Chennai
+1489,323,1,495.0,0,At Risk / Churning,Vijay Natarajan 1589,Pure Veg,Chennai
+1490,16,4,1755.5,1,New / Occasional,Ananya Mudaliar 1590,Flexitarian,Chennai
+1491,4,96,47972.62,3,Steady Regulars,Suresh Kumar 1591,Flexitarian,Chennai
+1492,4,10,5772.15,1,New / Occasional,Divya Swaminathan 1592,Flexitarian,Chennai
+1493,250,2,1339.0,0,At Risk / Churning,Ganesh Babu 1593,Pure Veg,Chennai
+1494,310,1,143.0,0,At Risk / Churning,Meena Natarajan 1594,Pure Veg,Chennai
+1495,14,4,2132.8,1,New / Occasional,Rajesh Mudaliar 1595,Flexitarian,Chennai
+1496,206,2,836.7,0,At Risk / Churning,Kavitha Kumar 1596,Flexitarian,Chennai
+1497,64,2,1022.55,1,New / Occasional,Venkatesh Swaminathan 1597,Flexitarian,Chennai
+1498,201,1,1134.0,0,At Risk / Churning,Nandhini Babu 1598,Pure Veg,Chennai
+1499,145,11,5109.55,1,New / Occasional,Santhosh Natarajan 1599,Flexitarian,Chennai
+1500,71,1,303.0,1,New / Occasional,Swetha Mudaliar 1600,Pure Veg,Chennai
+1501,28,4,1955.0,1,New / Occasional,Aravind Kumar 1601,Flexitarian,Chennai
+1502,144,3,825.13,0,At Risk / Churning,Priya Swaminathan 1602,Pure Veg,Chennai
+1503,345,1,396.0,0,At Risk / Churning,Karthik Babu 1603,Pure Veg,Chennai
+1504,45,5,1359.7,1,New / Occasional,Deepa Natarajan 1604,Flexitarian,Chennai
+1505,42,3,746.0,1,New / Occasional,Siddharth Mudaliar 1605,Flexitarian,Chennai
+1506,20,8,3771.9,1,New / Occasional,Bhavana Kumar 1606,Pure Veg,Chennai
+1507,154,2,1050.2,0,At Risk / Churning,Ramesh Swaminathan 1607,Flexitarian,Chennai
+1508,56,2,791.3,1,New / Occasional,Lakshmi Babu 1608,Flexitarian,Chennai
+1509,55,3,1490.1,1,New / Occasional,Vijay Natarajan 1609,Pure Veg,Chennai
+1510,23,1,704.7,1,New / Occasional,Ananya Mudaliar 1610,Pure Veg,Chennai
+1511,149,3,2066.25,0,At Risk / Churning,Suresh Kumar 1611,Flexitarian,Chennai
+1512,143,6,2450.5,0,At Risk / Churning,Divya Swaminathan 1612,Flexitarian,Chennai
+1513,356,1,477.0,0,At Risk / Churning,Ganesh Babu 1613,Flexitarian,Chennai
+1514,268,2,1083.0,0,At Risk / Churning,Meena Natarajan 1614,Non-Veg Enthusiast,Chennai
+1515,5,31,14646.85,3,Steady Regulars,Rajesh Mudaliar 1615,Flexitarian,Chennai
+1516,34,13,7494.63,1,New / Occasional,Kavitha Kumar 1616,Flexitarian,Chennai
+1517,13,20,9810.85,1,New / Occasional,Venkatesh Swaminathan 1617,Flexitarian,Chennai
+1518,12,4,1476.0,1,New / Occasional,Nandhini Babu 1618,Flexitarian,Chennai
+1519,9,3,1155.45,1,New / Occasional,Santhosh Natarajan 1619,Pure Veg,Chennai
+1520,24,5,2680.2,1,New / Occasional,Swetha Mudaliar 1620,Flexitarian,Chennai
+1521,150,3,1217.5,0,At Risk / Churning,Aravind Kumar 1621,Flexitarian,Chennai
+1522,26,13,5391.47,1,New / Occasional,Priya Swaminathan 1622,Flexitarian,Chennai
+1523,330,2,518.0,0,At Risk / Churning,Karthik Babu 1623,Flexitarian,Chennai
+1524,14,4,1659.16,1,New / Occasional,Deepa Natarajan 1624,Pure Veg,Chennai
+1525,137,1,277.35,0,At Risk / Churning,Siddharth Mudaliar 1625,Flexitarian,Chennai
+1526,21,6,3049.16,1,New / Occasional,Bhavana Kumar 1626,Flexitarian,Chennai
+1527,6,3,1360.1,1,New / Occasional,Ramesh Swaminathan 1627,Pure Veg,Chennai
+1528,133,2,607.0,0,At Risk / Churning,Lakshmi Babu 1628,Pure Veg,Chennai
+1529,60,3,1209.4,1,New / Occasional,Vijay Natarajan 1629,Flexitarian,Chennai
+1530,62,3,1705.12,1,New / Occasional,Ananya Mudaliar 1630,Flexitarian,Chennai
+1531,68,9,3791.79,1,New / Occasional,Suresh Kumar 1631,Flexitarian,Chennai
+1532,13,12,5381.0,1,New / Occasional,Divya Swaminathan 1632,Flexitarian,Chennai
+1533,18,28,14668.95,3,Steady Regulars,Ganesh Babu 1633,Flexitarian,Chennai
+1534,81,6,2536.84,1,New / Occasional,Meena Natarajan 1634,Flexitarian,Chennai
+1535,150,3,757.7,0,At Risk / Churning,Rajesh Mudaliar 1635,Pure Veg,Chennai
+1536,200,5,3060.0,0,At Risk / Churning,Kavitha Kumar 1636,Flexitarian,Chennai
+1537,338,2,657.6,0,At Risk / Churning,Venkatesh Swaminathan 1637,Flexitarian,Chennai
+1538,192,3,1560.2,0,At Risk / Churning,Nandhini Babu 1638,Flexitarian,Chennai
+1539,19,8,4280.7,1,New / Occasional,Santhosh Natarajan 1639,Flexitarian,Chennai
+1540,325,1,187.0,0,At Risk / Churning,Swetha Mudaliar 1640,Pure Veg,Chennai
+1541,93,7,3149.0,1,New / Occasional,Aravind Kumar 1641,Flexitarian,Chennai
+1542,43,4,1776.7,1,New / Occasional,Priya Swaminathan 1642,Pure Veg,Chennai
+1543,49,3,1458.0,1,New / Occasional,Karthik Babu 1643,Flexitarian,Chennai
+1544,212,3,2252.0,0,At Risk / Churning,Deepa Natarajan 1644,Flexitarian,Chennai
+1545,14,15,7367.84,1,New / Occasional,Siddharth Mudaliar 1645,Flexitarian,Chennai
+1546,36,2,853.5,1,New / Occasional,Bhavana Kumar 1646,Pure Veg,Chennai
+1547,91,4,3372.0,1,New / Occasional,Ramesh Swaminathan 1647,Flexitarian,Chennai
+1548,100,3,1935.27,1,New / Occasional,Lakshmi Babu 1648,Flexitarian,Chennai
+1549,23,6,2327.2,1,New / Occasional,Vijay Natarajan 1649,Flexitarian,Chennai
+1550,36,5,2146.5,1,New / Occasional,Ananya Mudaliar 1650,Flexitarian,Chennai
+1551,29,6,4013.55,1,New / Occasional,Suresh Kumar 1651,Flexitarian,Chennai
+1552,175,2,682.0,0,At Risk / Churning,Divya Swaminathan 1652,Flexitarian,Chennai
+1553,5,4,1526.4,1,New / Occasional,Ganesh Babu 1653,Pure Veg,Chennai
+1554,364,1,439.2,0,At Risk / Churning,Meena Natarajan 1654,Flexitarian,Chennai
+1555,4,21,9444.65,1,New / Occasional,Rajesh Mudaliar 1655,Flexitarian,Chennai
+1556,29,6,2752.85,1,New / Occasional,Kavitha Kumar 1656,Flexitarian,Chennai
+1557,26,3,1590.76,1,New / Occasional,Venkatesh Swaminathan 1657,Flexitarian,Chennai
+1558,132,1,398.85,0,At Risk / Churning,Nandhini Babu 1658,Flexitarian,Chennai
+1559,278,1,464.4,0,At Risk / Churning,Santhosh Natarajan 1659,Pure Veg,Chennai
+1560,117,5,2653.85,1,New / Occasional,Swetha Mudaliar 1660,Flexitarian,Chennai
+1561,52,9,3962.5,1,New / Occasional,Aravind Kumar 1661,Flexitarian,Chennai
+1562,8,4,1859.65,1,New / Occasional,Priya Swaminathan 1662,Flexitarian,Chennai
+1563,41,2,1363.35,1,New / Occasional,Karthik Babu 1663,Flexitarian,Chennai
+1564,132,2,910.5,0,At Risk / Churning,Deepa Natarajan 1664,Pure Veg,Chennai
+1565,235,2,2415.6,0,At Risk / Churning,Siddharth Mudaliar 1665,Pure Veg,Chennai
+1566,44,7,3696.78,1,New / Occasional,Bhavana Kumar 1666,Flexitarian,Chennai
+1567,118,1,318.0,1,New / Occasional,Ramesh Swaminathan 1667,Pure Veg,Chennai
+1568,351,1,340.0,0,At Risk / Churning,Lakshmi Babu 1668,Pure Veg,Chennai
+1569,2,34,19286.51,3,Steady Regulars,Vijay Natarajan 1669,Flexitarian,Chennai
+1570,70,9,3731.14,1,New / Occasional,Ananya Mudaliar 1670,Flexitarian,Chennai
+1571,103,4,1842.55,1,New / Occasional,Suresh Kumar 1671,Pure Veg,Chennai
+1572,268,1,360.9,0,At Risk / Churning,Divya Swaminathan 1672,Pure Veg,Chennai
+1573,30,3,1926.0,1,New / Occasional,Ganesh Babu 1673,Flexitarian,Chennai
+1574,82,7,3070.49,1,New / Occasional,Meena Natarajan 1674,Pure Veg,Chennai
+1575,102,12,5916.26,1,New / Occasional,Rajesh Mudaliar 1675,Flexitarian,Chennai
+1576,163,2,1980.67,0,At Risk / Churning,Kavitha Kumar 1676,Flexitarian,Chennai
+1577,70,3,1916.15,1,New / Occasional,Venkatesh Swaminathan 1677,Flexitarian,Chennai
+1578,151,2,826.0,0,At Risk / Churning,Nandhini Babu 1678,Pure Veg,Chennai
+1579,7,20,8097.7,1,New / Occasional,Santhosh Natarajan 1679,Flexitarian,Chennai
+1580,9,10,5374.53,1,New / Occasional,Swetha Mudaliar 1680,Flexitarian,Chennai
+1581,32,3,1001.65,1,New / Occasional,Aravind Kumar 1681,Flexitarian,Chennai
+1582,20,37,17277.29,3,Steady Regulars,Priya Swaminathan 1682,Flexitarian,Chennai
+1583,8,3,791.9,1,New / Occasional,Karthik Babu 1683,Flexitarian,Chennai
+1584,27,5,2779.07,1,New / Occasional,Deepa Natarajan 1684,Flexitarian,Chennai
+1585,2,10,4417.1,1,New / Occasional,Siddharth Mudaliar 1685,Flexitarian,Chennai
+1586,25,6,2438.5,1,New / Occasional,Bhavana Kumar 1686,Flexitarian,Chennai
+1587,43,7,2785.05,1,New / Occasional,Ramesh Swaminathan 1687,Flexitarian,Chennai
+1588,143,1,497.25,0,At Risk / Churning,Lakshmi Babu 1688,Pure Veg,Chennai
+1589,199,1,769.5,0,At Risk / Churning,Vijay Natarajan 1689,Pure Veg,Chennai
+1590,7,26,12206.8,1,New / Occasional,Ananya Mudaliar 1690,Flexitarian,Chennai
+1591,82,2,1279.04,1,New / Occasional,Suresh Kumar 1691,Flexitarian,Chennai
+1592,25,2,785.5,1,New / Occasional,Divya Swaminathan 1692,Flexitarian,Chennai
+1593,146,5,2078.7,0,At Risk / Churning,Ganesh Babu 1693,Flexitarian,Chennai
+1594,5,30,15368.23,3,Steady Regulars,Meena Natarajan 1694,Flexitarian,Chennai
+1595,312,2,732.0,0,At Risk / Churning,Rajesh Mudaliar 1695,Flexitarian,Chennai
+1596,287,1,558.0,0,At Risk / Churning,Kavitha Kumar 1696,Pure Veg,Chennai
+1597,38,3,1899.0,1,New / Occasional,Venkatesh Swaminathan 1697,Pure Veg,Chennai
+1598,55,18,8661.52,1,New / Occasional,Nandhini Babu 1698,Flexitarian,Chennai
+1599,340,1,1584.0,0,At Risk / Churning,Santhosh Natarajan 1699,Pure Veg,Chennai
+1600,179,2,665.0,0,At Risk / Churning,Swetha Mudaliar 1700,Flexitarian,Chennai
+1601,19,5,2350.7,1,New / Occasional,Aravind Kumar 1701,Flexitarian,Chennai
+1602,7,8,4165.27,1,New / Occasional,Priya Swaminathan 1702,Flexitarian,Chennai
+1603,35,7,3548.7,1,New / Occasional,Karthik Babu 1703,Flexitarian,Chennai
+1604,10,12,5783.37,1,New / Occasional,Deepa Natarajan 1704,Flexitarian,Chennai
+1605,316,1,255.0,0,At Risk / Churning,Siddharth Mudaliar 1705,Flexitarian,Chennai
+1606,81,5,2779.3,1,New / Occasional,Bhavana Kumar 1706,Flexitarian,Chennai
+1607,56,1,220.0,1,New / Occasional,Ramesh Swaminathan 1707,Pure Veg,Chennai
+1608,25,10,6218.0,1,New / Occasional,Lakshmi Babu 1708,Flexitarian,Chennai
+1609,65,5,1751.3,1,New / Occasional,Vijay Natarajan 1709,Flexitarian,Chennai
+1610,56,6,5573.62,1,New / Occasional,Ananya Mudaliar 1710,Flexitarian,Chennai
+1611,91,2,752.4,1,New / Occasional,Suresh Kumar 1711,Pure Veg,Chennai
+1612,73,3,2547.2,1,New / Occasional,Divya Swaminathan 1712,Flexitarian,Chennai
+1613,17,29,13235.3,3,Steady Regulars,Ganesh Babu 1713,Flexitarian,Chennai
+1614,38,21,10003.44,1,New / Occasional,Meena Natarajan 1714,Flexitarian,Chennai
+1615,248,2,896.6,0,At Risk / Churning,Rajesh Mudaliar 1715,Pure Veg,Chennai
+1616,183,3,871.0,0,At Risk / Churning,Kavitha Kumar 1716,Pure Veg,Chennai
+1617,58,8,2335.75,1,New / Occasional,Venkatesh Swaminathan 1717,Flexitarian,Chennai
+1618,47,8,4210.45,1,New / Occasional,Nandhini Babu 1718,Flexitarian,Chennai
+1619,168,1,426.6,0,At Risk / Churning,Santhosh Natarajan 1719,Flexitarian,Chennai
+1620,108,2,585.0,1,New / Occasional,Swetha Mudaliar 1720,Pure Veg,Chennai
+1621,22,9,4325.8,1,New / Occasional,Aravind Kumar 1721,Flexitarian,Chennai
+1622,17,6,3576.19,1,New / Occasional,Priya Swaminathan 1722,Flexitarian,Chennai
+1623,3,5,2286.1,1,New / Occasional,Karthik Babu 1723,Flexitarian,Chennai
+1624,5,3,917.8,1,New / Occasional,Deepa Natarajan 1724,Flexitarian,Chennai
+1625,119,5,1452.0,1,New / Occasional,Siddharth Mudaliar 1725,Flexitarian,Chennai
+1626,184,1,493.62,0,At Risk / Churning,Bhavana Kumar 1726,Pure Veg,Chennai
+1627,59,3,1861.8,1,New / Occasional,Ramesh Swaminathan 1727,Flexitarian,Chennai
+1628,17,9,5190.4,1,New / Occasional,Lakshmi Babu 1728,Flexitarian,Chennai
+1629,16,10,3075.4,1,New / Occasional,Vijay Natarajan 1729,Flexitarian,Chennai
+1630,32,5,2077.7,1,New / Occasional,Ananya Mudaliar 1730,Flexitarian,Chennai
+1631,61,7,4360.71,1,New / Occasional,Suresh Kumar 1731,Flexitarian,Chennai
+1632,265,1,317.0,0,At Risk / Churning,Divya Swaminathan 1732,Flexitarian,Chennai
+1633,210,2,505.0,0,At Risk / Churning,Ganesh Babu 1733,Pure Veg,Chennai
+1634,81,12,5393.27,1,New / Occasional,Meena Natarajan 1734,Flexitarian,Chennai
+1635,2,54,28713.55,3,Steady Regulars,Rajesh Mudaliar 1735,Flexitarian,Chennai
+1636,169,3,745.78,0,At Risk / Churning,Kavitha Kumar 1736,Flexitarian,Chennai
+1637,26,6,3783.3,1,New / Occasional,Venkatesh Swaminathan 1737,Flexitarian,Chennai
+1638,27,3,919.0,1,New / Occasional,Nandhini Babu 1738,Pure Veg,Chennai
+1639,13,2,1270.5,1,New / Occasional,Santhosh Natarajan 1739,Flexitarian,Chennai
+1640,24,10,5305.62,1,New / Occasional,Swetha Mudaliar 1740,Flexitarian,Chennai
+1641,16,1,549.0,1,New / Occasional,Aravind Kumar 1741,Flexitarian,Chennai
+1642,207,2,633.4,0,At Risk / Churning,Priya Swaminathan 1742,Flexitarian,Chennai
+1643,197,4,1916.9,0,At Risk / Churning,Karthik Babu 1743,Flexitarian,Chennai
+1644,61,3,991.47,1,New / Occasional,Deepa Natarajan 1744,Flexitarian,Chennai
+1645,150,1,775.2,0,At Risk / Churning,Siddharth Mudaliar 1745,Non-Veg Enthusiast,Chennai
+1646,13,7,3468.7,1,New / Occasional,Bhavana Kumar 1746,Flexitarian,Chennai
+1647,307,1,250.0,0,At Risk / Churning,Ramesh Swaminathan 1747,Pure Veg,Chennai
+1648,228,3,1816.2,0,At Risk / Churning,Lakshmi Babu 1748,Flexitarian,Chennai
+1649,262,1,330.0,0,At Risk / Churning,Vijay Natarajan 1749,Flexitarian,Chennai
+1650,5,28,13045.8,3,Steady Regulars,Ananya Mudaliar 1750,Flexitarian,Chennai
+1651,285,1,115.0,0,At Risk / Churning,Suresh Kumar 1751,Non-Veg Enthusiast,Chennai
+1652,192,1,289.0,0,At Risk / Churning,Divya Swaminathan 1752,Pure Veg,Chennai
+1653,159,3,1152.25,0,At Risk / Churning,Ganesh Babu 1753,Flexitarian,Chennai
+1654,168,2,745.2,0,At Risk / Churning,Meena Natarajan 1754,Flexitarian,Chennai
+1655,30,14,6424.86,1,New / Occasional,Rajesh Mudaliar 1755,Flexitarian,Chennai
+1656,2,97,45862.56,3,Steady Regulars,Kavitha Kumar 1756,Flexitarian,Chennai
+1657,13,4,2191.82,1,New / Occasional,Venkatesh Swaminathan 1757,Flexitarian,Chennai
+1658,66,1,587.7,1,New / Occasional,Nandhini Babu 1758,Flexitarian,Chennai
+1659,46,6,3721.95,1,New / Occasional,Santhosh Natarajan 1759,Flexitarian,Chennai
+1660,27,14,5184.4,1,New / Occasional,Swetha Mudaliar 1760,Flexitarian,Chennai
+1661,112,3,644.0,1,New / Occasional,Aravind Kumar 1761,Pure Veg,Chennai
+1662,28,5,1665.95,1,New / Occasional,Priya Swaminathan 1762,Flexitarian,Chennai
+1663,17,6,2706.1,1,New / Occasional,Karthik Babu 1763,Flexitarian,Chennai
+1664,71,1,499.5,1,New / Occasional,Deepa Natarajan 1764,Pure Veg,Chennai
+1665,65,3,1320.2,1,New / Occasional,Siddharth Mudaliar 1765,Flexitarian,Chennai
+1666,78,3,1409.15,1,New / Occasional,Bhavana Kumar 1766,Pure Veg,Chennai
+1667,35,9,4351.95,1,New / Occasional,Ramesh Swaminathan 1767,Flexitarian,Chennai
+1668,86,5,2914.6,1,New / Occasional,Lakshmi Babu 1768,Flexitarian,Chennai
+1669,248,1,441.9,0,At Risk / Churning,Vijay Natarajan 1769,Pure Veg,Chennai
+1670,34,4,1031.0,1,New / Occasional,Ananya Mudaliar 1770,Flexitarian,Chennai
+1671,290,1,675.0,0,At Risk / Churning,Suresh Kumar 1771,Pure Veg,Chennai
+1672,143,1,913.75,0,At Risk / Churning,Divya Swaminathan 1772,Flexitarian,Chennai
+1673,188,4,1690.5,0,At Risk / Churning,Ganesh Babu 1773,Flexitarian,Chennai
+1674,121,1,1368.0,1,New / Occasional,Meena Natarajan 1774,Pure Veg,Chennai
+1675,241,3,970.0,0,At Risk / Churning,Rajesh Mudaliar 1775,Flexitarian,Chennai
+1676,221,3,1533.0,0,At Risk / Churning,Kavitha Kumar 1776,Flexitarian,Chennai
+1677,16,7,4566.76,1,New / Occasional,Venkatesh Swaminathan 1777,Flexitarian,Chennai
+1678,3,4,2649.0,1,New / Occasional,Nandhini Babu 1778,Flexitarian,Chennai
+1679,48,12,4166.26,1,New / Occasional,Santhosh Natarajan 1779,Flexitarian,Chennai
+1680,73,4,2319.35,1,New / Occasional,Swetha Mudaliar 1780,Flexitarian,Chennai
+1681,253,2,2167.47,0,At Risk / Churning,Aravind Kumar 1781,Flexitarian,Chennai
+1682,26,9,5640.23,1,New / Occasional,Priya Swaminathan 1782,Flexitarian,Chennai
+1683,33,6,3604.41,1,New / Occasional,Karthik Babu 1783,Flexitarian,Chennai
+1684,27,6,3178.35,1,New / Occasional,Deepa Natarajan 1784,Flexitarian,Chennai
+1685,19,6,2928.35,1,New / Occasional,Siddharth Mudaliar 1785,Flexitarian,Chennai
+1686,110,1,200.0,1,New / Occasional,Bhavana Kumar 1786,Pure Veg,Chennai
+1687,316,1,432.0,0,At Risk / Churning,Ramesh Swaminathan 1787,Flexitarian,Chennai
+1688,9,4,2585.3,1,New / Occasional,Lakshmi Babu 1788,Flexitarian,Chennai
+1689,148,5,2251.1,0,At Risk / Churning,Vijay Natarajan 1789,Pure Veg,Chennai
+1690,7,3,1368.0,1,New / Occasional,Ananya Mudaliar 1790,Pure Veg,Chennai
+1691,26,3,1546.27,1,New / Occasional,Suresh Kumar 1791,Flexitarian,Chennai
+1692,4,145,66786.26,3,Steady Regulars,Divya Swaminathan 1792,Flexitarian,Chennai
+1693,30,18,7544.38,1,New / Occasional,Ganesh Babu 1793,Flexitarian,Chennai
+1694,15,5,2652.7,1,New / Occasional,Meena Natarajan 1794,Flexitarian,Chennai
+1695,59,3,1236.0,1,New / Occasional,Rajesh Mudaliar 1795,Pure Veg,Chennai
+1696,4,5,1858.0,1,New / Occasional,Kavitha Kumar 1796,Flexitarian,Chennai
+1697,63,5,2484.4,1,New / Occasional,Venkatesh Swaminathan 1797,Pure Veg,Chennai
+1698,147,1,396.1,0,At Risk / Churning,Nandhini Babu 1798,Flexitarian,Chennai
+1699,39,11,4326.3,1,New / Occasional,Santhosh Natarajan 1799,Flexitarian,Chennai
+1700,186,3,1790.4,0,At Risk / Churning,Swetha Mudaliar 1800,Flexitarian,Chennai
+1701,33,4,1632.2,1,New / Occasional,Aravind Kumar 1801,Flexitarian,Chennai
+1702,62,4,3749.9,1,New / Occasional,Priya Swaminathan 1802,Flexitarian,Chennai
+1703,102,3,1097.0,1,New / Occasional,Karthik Babu 1803,Pure Veg,Chennai
+1704,94,2,458.4,1,New / Occasional,Deepa Natarajan 1804,Flexitarian,Chennai
+1705,5,1,1197.9,1,New / Occasional,Siddharth Mudaliar 1805,Flexitarian,Chennai
+1706,111,1,828.0,1,New / Occasional,Bhavana Kumar 1806,Flexitarian,Chennai
+1707,100,5,2616.95,1,New / Occasional,Ramesh Swaminathan 1807,Flexitarian,Chennai
+1708,199,3,878.32,0,At Risk / Churning,Lakshmi Babu 1808,Flexitarian,Chennai
+1709,88,12,6378.6,1,New / Occasional,Vijay Natarajan 1809,Flexitarian,Chennai
+1710,182,2,571.0,0,At Risk / Churning,Ananya Mudaliar 1810,Flexitarian,Chennai
+1711,5,16,7813.87,1,New / Occasional,Suresh Kumar 1811,Flexitarian,Chennai
+1712,57,7,3733.85,1,New / Occasional,Divya Swaminathan 1812,Flexitarian,Chennai
+1713,83,2,704.0,1,New / Occasional,Ganesh Babu 1813,Pure Veg,Chennai
+1714,40,9,5628.0,1,New / Occasional,Meena Natarajan 1814,Flexitarian,Chennai
+1715,60,2,869.8,1,New / Occasional,Rajesh Mudaliar 1815,Flexitarian,Chennai
+1716,4,3,1978.5,1,New / Occasional,Kavitha Kumar 1816,Flexitarian,Chennai
+1717,327,1,348.0,0,At Risk / Churning,Venkatesh Swaminathan 1817,Pure Veg,Chennai
+1718,7,7,2061.3,1,New / Occasional,Nandhini Babu 1818,Flexitarian,Chennai
+1719,77,7,3193.6,1,New / Occasional,Santhosh Natarajan 1819,Flexitarian,Chennai
+1720,262,2,915.3,0,At Risk / Churning,Swetha Mudaliar 1820,Flexitarian,Chennai
+1721,109,7,2234.8,1,New / Occasional,Aravind Kumar 1821,Flexitarian,Chennai
+1722,39,4,2474.82,1,New / Occasional,Priya Swaminathan 1822,Pure Veg,Chennai
+1723,148,3,1590.16,0,At Risk / Churning,Karthik Babu 1823,Flexitarian,Chennai
+1724,119,3,1284.9,1,New / Occasional,Deepa Natarajan 1824,Flexitarian,Chennai
+1725,21,10,4236.93,1,New / Occasional,Siddharth Mudaliar 1825,Flexitarian,Chennai
+1726,167,4,1012.1,0,At Risk / Churning,Bhavana Kumar 1826,Flexitarian,Chennai
+1727,9,21,9876.11,1,New / Occasional,Ramesh Swaminathan 1827,Flexitarian,Chennai
+1728,209,1,562.5,0,At Risk / Churning,Lakshmi Babu 1828,Flexitarian,Chennai
+1729,137,1,1154.3,0,At Risk / Churning,Vijay Natarajan 1829,Pure Veg,Chennai
+1730,51,3,1199.5,1,New / Occasional,Ananya Mudaliar 1830,Flexitarian,Chennai
+1731,57,2,1449.9,1,New / Occasional,Suresh Kumar 1831,Flexitarian,Chennai
+1732,185,3,1288.0,0,At Risk / Churning,Divya Swaminathan 1832,Flexitarian,Chennai
+1733,35,15,5674.35,1,New / Occasional,Ganesh Babu 1833,Flexitarian,Chennai
+1734,143,2,945.4,0,At Risk / Churning,Meena Natarajan 1834,Flexitarian,Chennai
+1735,304,1,350.0,0,At Risk / Churning,Rajesh Mudaliar 1835,Pure Veg,Chennai
+1736,7,10,3662.13,1,New / Occasional,Kavitha Kumar 1836,Flexitarian,Chennai
+1737,12,2,960.3,1,New / Occasional,Venkatesh Swaminathan 1837,Pure Veg,Chennai
+1738,40,12,6166.7,1,New / Occasional,Nandhini Babu 1838,Flexitarian,Chennai
+1739,100,2,1021.6,1,New / Occasional,Santhosh Natarajan 1839,Flexitarian,Chennai
+1740,4,20,10629.42,1,New / Occasional,Swetha Mudaliar 1840,Flexitarian,Chennai
+1741,14,2,746.0,1,New / Occasional,Aravind Kumar 1841,Pure Veg,Chennai
+1742,163,6,2129.15,0,At Risk / Churning,Priya Swaminathan 1842,Flexitarian,Chennai
+1743,206,3,2936.1,0,At Risk / Churning,Karthik Babu 1843,Flexitarian,Chennai
+1744,157,4,1389.55,0,At Risk / Churning,Deepa Natarajan 1844,Flexitarian,Chennai
+1745,39,17,7253.6,1,New / Occasional,Siddharth Mudaliar 1845,Flexitarian,Chennai
+1746,195,1,385.2,0,At Risk / Churning,Bhavana Kumar 1846,Pure Veg,Chennai
+1747,256,1,558.0,0,At Risk / Churning,Ramesh Swaminathan 1847,Flexitarian,Chennai
+1748,3,35,18643.74,3,Steady Regulars,Lakshmi Babu 1848,Flexitarian,Chennai
+1749,42,4,1865.5,1,New / Occasional,Vijay Natarajan 1849,Flexitarian,Chennai
+1750,14,17,9393.31,1,New / Occasional,Ananya Mudaliar 1850,Flexitarian,Chennai
+1751,146,4,4467.48,0,At Risk / Churning,Suresh Kumar 1851,Flexitarian,Chennai
+1752,18,2,1335.89,1,New / Occasional,Divya Swaminathan 1852,Flexitarian,Chennai
+1753,103,3,550.0,1,New / Occasional,Ganesh Babu 1853,Flexitarian,Chennai
+1754,24,45,24003.48,3,Steady Regulars,Meena Natarajan 1854,Flexitarian,Chennai
+1755,165,3,1048.4,0,At Risk / Churning,Rajesh Mudaliar 1855,Flexitarian,Chennai
+1756,21,5,3439.5,1,New / Occasional,Kavitha Kumar 1856,Flexitarian,Chennai
+1757,140,2,671.3,0,At Risk / Churning,Venkatesh Swaminathan 1857,Pure Veg,Chennai
+1758,73,1,340.0,1,New / Occasional,Nandhini Babu 1858,Pure Veg,Chennai
+1759,57,4,3298.12,1,New / Occasional,Santhosh Natarajan 1859,Flexitarian,Chennai
+1760,15,25,13926.45,3,Steady Regulars,Swetha Mudaliar 1860,Flexitarian,Chennai
+1761,83,1,307.0,1,New / Occasional,Aravind Kumar 1861,Pure Veg,Chennai
+1762,36,2,867.6,1,New / Occasional,Priya Swaminathan 1862,Flexitarian,Chennai
+1763,97,2,942.65,1,New / Occasional,Karthik Babu 1863,Pure Veg,Chennai
+1764,15,2,530.0,1,New / Occasional,Deepa Natarajan 1864,Flexitarian,Chennai
+1765,59,13,5614.7,1,New / Occasional,Siddharth Mudaliar 1865,Flexitarian,Chennai
+1766,4,4,2410.6,1,New / Occasional,Bhavana Kumar 1866,Flexitarian,Chennai
+1767,180,3,1501.7,0,At Risk / Churning,Ramesh Swaminathan 1867,Pure Veg,Chennai
+1768,114,2,785.9,1,New / Occasional,Lakshmi Babu 1868,Pure Veg,Chennai
+1769,44,8,3945.5,1,New / Occasional,Vijay Natarajan 1869,Flexitarian,Chennai
+1770,35,4,1995.6,1,New / Occasional,Ananya Mudaliar 1870,Flexitarian,Chennai
+1771,295,1,538.62,0,At Risk / Churning,Suresh Kumar 1871,Flexitarian,Chennai
+1772,45,6,3647.81,1,New / Occasional,Divya Swaminathan 1872,Flexitarian,Chennai
+1773,19,5,2397.8,1,New / Occasional,Ganesh Babu 1873,Flexitarian,Chennai
+1774,170,1,316.0,0,At Risk / Churning,Meena Natarajan 1874,Pure Veg,Chennai
+1775,95,1,215.3,1,New / Occasional,Rajesh Mudaliar 1875,Pure Veg,Chennai
+1776,36,2,1078.2,1,New / Occasional,Kavitha Kumar 1876,Pure Veg,Chennai
+1777,241,1,270.0,0,At Risk / Churning,Venkatesh Swaminathan 1877,Pure Veg,Chennai
+1778,24,23,13895.52,1,New / Occasional,Nandhini Babu 1878,Flexitarian,Chennai
+1779,25,10,5424.97,1,New / Occasional,Santhosh Natarajan 1879,Flexitarian,Chennai
+1780,2,8,3450.3,1,New / Occasional,Swetha Mudaliar 1880,Flexitarian,Chennai
+1781,194,3,1706.5,0,At Risk / Churning,Aravind Kumar 1881,Flexitarian,Chennai
+1782,298,1,102.0,0,At Risk / Churning,Priya Swaminathan 1882,Pure Veg,Chennai
+1783,89,4,1684.0,1,New / Occasional,Karthik Babu 1883,Flexitarian,Chennai
+1784,60,3,1741.7,1,New / Occasional,Deepa Natarajan 1884,Flexitarian,Chennai
+1785,31,3,1899.0,1,New / Occasional,Siddharth Mudaliar 1885,Flexitarian,Chennai
+1786,84,8,3868.55,1,New / Occasional,Bhavana Kumar 1886,Flexitarian,Chennai
+1787,127,9,4404.46,1,New / Occasional,Ramesh Swaminathan 1887,Flexitarian,Chennai
+1788,118,6,2612.7,1,New / Occasional,Lakshmi Babu 1888,Pure Veg,Chennai
+1789,63,3,1172.45,1,New / Occasional,Vijay Natarajan 1889,Pure Veg,Chennai
+1790,125,1,580.5,1,New / Occasional,Ananya Mudaliar 1890,Pure Veg,Chennai
+1791,30,5,1806.6,1,New / Occasional,Suresh Kumar 1891,Flexitarian,Chennai
+1792,39,3,1663.75,1,New / Occasional,Divya Swaminathan 1892,Flexitarian,Chennai
+1793,257,1,1636.75,0,At Risk / Churning,Ganesh Babu 1893,Flexitarian,Chennai
+1794,178,1,759.6,0,At Risk / Churning,Meena Natarajan 1894,Flexitarian,Chennai
+1795,23,16,6921.05,1,New / Occasional,Rajesh Mudaliar 1895,Flexitarian,Chennai
+1796,12,16,7005.5,1,New / Occasional,Kavitha Kumar 1896,Flexitarian,Chennai
+1797,2,7,3639.85,1,New / Occasional,Venkatesh Swaminathan 1897,Pure Veg,Chennai
+1798,6,1,738.0,1,New / Occasional,Nandhini Babu 1898,Pure Veg,Chennai
+1799,197,1,330.0,0,At Risk / Churning,Santhosh Natarajan 1899,Flexitarian,Chennai
+1800,2,39,18493.74,3,Steady Regulars,Swetha Mudaliar 1900,Flexitarian,Chennai
+1801,4,10,4577.96,1,New / Occasional,Aravind Kumar 1901,Flexitarian,Chennai
+1802,278,1,317.0,0,At Risk / Churning,Priya Swaminathan 1902,Pure Veg,Chennai
+1803,127,1,165.0,1,New / Occasional,Karthik Babu 1903,Pure Veg,Chennai
+1804,16,3,1114.0,1,New / Occasional,Deepa Natarajan 1904,Pure Veg,Chennai
+1805,52,10,4059.32,1,New / Occasional,Siddharth Mudaliar 1905,Flexitarian,Chennai
+1806,68,2,582.0,1,New / Occasional,Bhavana Kumar 1906,Pure Veg,Chennai
+1807,234,3,1298.0,0,At Risk / Churning,Ramesh Swaminathan 1907,Pure Veg,Chennai
+1808,11,6,3274.08,1,New / Occasional,Lakshmi Babu 1908,Flexitarian,Chennai
+1809,19,4,1627.0,1,New / Occasional,Vijay Natarajan 1909,Flexitarian,Chennai
+1810,165,3,945.0,0,At Risk / Churning,Ananya Mudaliar 1910,Pure Veg,Chennai
+1811,33,6,2776.54,1,New / Occasional,Suresh Kumar 1911,Flexitarian,Chennai
+1812,15,26,14073.7,3,Steady Regulars,Divya Swaminathan 1912,Flexitarian,Chennai
+1813,3,3,1406.6,1,New / Occasional,Ganesh Babu 1913,Non-Veg Enthusiast,Chennai
+1814,108,3,1415.8,1,New / Occasional,Meena Natarajan 1914,Flexitarian,Chennai
+1815,241,2,872.1,0,At Risk / Churning,Rajesh Mudaliar 1915,Flexitarian,Chennai
+1816,93,7,2962.65,1,New / Occasional,Kavitha Kumar 1916,Flexitarian,Chennai
+1817,212,2,488.0,0,At Risk / Churning,Venkatesh Swaminathan 1917,Flexitarian,Chennai
+1818,24,6,2044.55,1,New / Occasional,Nandhini Babu 1918,Pure Veg,Chennai
+1819,43,10,4419.66,1,New / Occasional,Santhosh Natarajan 1919,Flexitarian,Chennai
+1820,34,1,300.0,1,New / Occasional,Swetha Mudaliar 1920,Pure Veg,Chennai
+1821,39,13,5716.7,1,New / Occasional,Aravind Kumar 1921,Flexitarian,Chennai
+1822,68,5,2612.8,1,New / Occasional,Priya Swaminathan 1922,Flexitarian,Chennai
+1823,226,2,700.85,0,At Risk / Churning,Karthik Babu 1923,Non-Veg Enthusiast,Chennai
+1824,144,5,3220.47,0,At Risk / Churning,Deepa Natarajan 1924,Flexitarian,Chennai
+1825,109,4,3199.39,1,New / Occasional,Siddharth Mudaliar 1925,Pure Veg,Chennai
+1826,38,5,1620.22,1,New / Occasional,Bhavana Kumar 1926,Flexitarian,Chennai
+1827,8,14,4347.65,1,New / Occasional,Ramesh Swaminathan 1927,Flexitarian,Chennai
+1828,39,2,494.12,1,New / Occasional,Lakshmi Babu 1928,Flexitarian,Chennai
+1829,21,48,23583.18,3,Steady Regulars,Vijay Natarajan 1929,Flexitarian,Chennai
+1830,183,1,255.0,0,At Risk / Churning,Ananya Mudaliar 1930,Pure Veg,Chennai
+1831,355,1,146.0,0,At Risk / Churning,Suresh Kumar 1931,Pure Veg,Chennai
+1832,22,13,8410.08,1,New / Occasional,Divya Swaminathan 1932,Flexitarian,Chennai
+1833,109,10,3696.75,1,New / Occasional,Ganesh Babu 1933,Flexitarian,Chennai
+1834,56,2,469.0,1,New / Occasional,Meena Natarajan 1934,Pure Veg,Chennai
+1835,2,4,1416.55,1,New / Occasional,Rajesh Mudaliar 1935,Flexitarian,Chennai
+1836,11,1,756.0,1,New / Occasional,Kavitha Kumar 1936,Pure Veg,Chennai
+1837,37,7,4833.3,1,New / Occasional,Venkatesh Swaminathan 1937,Flexitarian,Chennai
+1838,12,14,6834.35,1,New / Occasional,Nandhini Babu 1938,Flexitarian,Chennai
+1839,98,3,2106.75,1,New / Occasional,Santhosh Natarajan 1939,Flexitarian,Chennai
+1840,4,23,12837.6,1,New / Occasional,Swetha Mudaliar 1940,Flexitarian,Chennai
+1841,53,7,1966.34,1,New / Occasional,Aravind Kumar 1941,Flexitarian,Chennai
+1842,2,46,25652.88,3,Steady Regulars,Priya Swaminathan 1942,Flexitarian,Chennai
+1843,123,6,2687.3,1,New / Occasional,Karthik Babu 1943,Flexitarian,Chennai
+1844,40,4,2915.6,1,New / Occasional,Deepa Natarajan 1944,Flexitarian,Chennai
+1845,7,4,3397.52,1,New / Occasional,Siddharth Mudaliar 1945,Flexitarian,Chennai
+1846,81,12,5852.15,1,New / Occasional,Bhavana Kumar 1946,Flexitarian,Chennai
+1847,62,1,305.0,1,New / Occasional,Ramesh Swaminathan 1947,Pure Veg,Chennai
+1848,25,3,629.0,1,New / Occasional,Lakshmi Babu 1948,Flexitarian,Chennai
+1849,145,2,866.35,0,At Risk / Churning,Vijay Natarajan 1949,Flexitarian,Chennai
+1850,15,5,2349.8,1,New / Occasional,Ananya Mudaliar 1950,Flexitarian,Chennai
+1851,62,1,540.0,1,New / Occasional,Suresh Kumar 1951,Pure Veg,Chennai
+1852,54,3,1443.2,1,New / Occasional,Divya Swaminathan 1952,Flexitarian,Chennai
+1853,55,13,6382.7,1,New / Occasional,Ganesh Babu 1953,Flexitarian,Chennai
+1854,24,2,695.5,1,New / Occasional,Meena Natarajan 1954,Flexitarian,Chennai
+1855,43,7,3763.9,1,New / Occasional,Rajesh Mudaliar 1955,Flexitarian,Chennai
+1856,250,1,320.0,0,At Risk / Churning,Kavitha Kumar 1956,Pure Veg,Chennai
+1857,25,12,5711.4,1,New / Occasional,Venkatesh Swaminathan 1957,Flexitarian,Chennai
+1858,10,6,2860.2,1,New / Occasional,Nandhini Babu 1958,Flexitarian,Chennai
+1859,134,2,583.5,0,At Risk / Churning,Santhosh Natarajan 1959,Pure Veg,Chennai
+1860,10,4,3250.8,1,New / Occasional,Swetha Mudaliar 1960,Flexitarian,Chennai
+1861,21,4,1501.9,1,New / Occasional,Aravind Kumar 1961,Flexitarian,Chennai
+1862,97,3,1945.0,1,New / Occasional,Priya Swaminathan 1962,Flexitarian,Chennai
+1863,309,1,290.0,0,At Risk / Churning,Karthik Babu 1963,Pure Veg,Chennai
+1864,15,12,6693.0,1,New / Occasional,Deepa Natarajan 1964,Flexitarian,Chennai
+1865,155,2,1513.25,0,At Risk / Churning,Siddharth Mudaliar 1965,Pure Veg,Chennai
+1866,203,2,696.0,0,At Risk / Churning,Bhavana Kumar 1966,Flexitarian,Chennai
+1867,46,4,1850.05,1,New / Occasional,Ramesh Swaminathan 1967,Flexitarian,Chennai
+1868,27,8,3141.4,1,New / Occasional,Lakshmi Babu 1968,Flexitarian,Chennai
+1869,12,1,119.0,1,New / Occasional,Vijay Natarajan 1969,Pure Veg,Chennai
+1870,308,1,213.0,0,At Risk / Churning,Ananya Mudaliar 1970,Pure Veg,Chennai
+1871,328,2,1050.3,0,At Risk / Churning,Suresh Kumar 1971,Flexitarian,Chennai
+1872,95,2,703.5,1,New / Occasional,Divya Swaminathan 1972,Non-Veg Enthusiast,Chennai
+1873,184,2,1357.2,0,At Risk / Churning,Ganesh Babu 1973,Flexitarian,Chennai
+1874,59,1,99.0,1,New / Occasional,Meena Natarajan 1974,Pure Veg,Chennai
+1875,31,6,2873.25,1,New / Occasional,Rajesh Mudaliar 1975,Flexitarian,Chennai
+1876,147,3,1429.5,0,At Risk / Churning,Kavitha Kumar 1976,Flexitarian,Chennai
+1877,36,7,2946.55,1,New / Occasional,Venkatesh Swaminathan 1977,Flexitarian,Chennai
+1878,12,11,4149.3,1,New / Occasional,Nandhini Babu 1978,Flexitarian,Chennai
+1879,49,4,1588.52,1,New / Occasional,Santhosh Natarajan 1979,Flexitarian,Chennai
+1880,15,35,14966.4,3,Steady Regulars,Swetha Mudaliar 1980,Flexitarian,Chennai
+1881,236,2,1476.0,0,At Risk / Churning,Aravind Kumar 1981,Flexitarian,Chennai
+1882,340,1,223.0,0,At Risk / Churning,Priya Swaminathan 1982,Pure Veg,Chennai
+1883,62,6,2308.6,1,New / Occasional,Karthik Babu 1983,Flexitarian,Chennai
+1884,63,1,1404.0,1,New / Occasional,Deepa Natarajan 1984,Pure Veg,Chennai
+1885,2,7,4305.95,1,New / Occasional,Siddharth Mudaliar 1985,Flexitarian,Chennai
+1886,109,1,1089.0,1,New / Occasional,Bhavana Kumar 1986,Pure Veg,Chennai
+1887,3,9,2808.0,1,New / Occasional,Ramesh Swaminathan 1987,Flexitarian,Chennai
+1888,105,2,757.0,1,New / Occasional,Lakshmi Babu 1988,Flexitarian,Chennai
+1889,40,9,3537.0,1,New / Occasional,Vijay Natarajan 1989,Flexitarian,Chennai
+1890,90,3,1346.03,1,New / Occasional,Ananya Mudaliar 1990,Flexitarian,Chennai
+1891,70,7,2614.0,1,New / Occasional,Suresh Kumar 1991,Flexitarian,Chennai
+1892,256,2,759.65,0,At Risk / Churning,Divya Swaminathan 1992,Flexitarian,Chennai
+1893,73,2,1212.72,1,New / Occasional,Ganesh Babu 1993,Flexitarian,Chennai
+1894,22,3,1025.4,1,New / Occasional,Meena Natarajan 1994,Pure Veg,Chennai
+1895,142,2,898.0,0,At Risk / Churning,Rajesh Mudaliar 1995,Flexitarian,Chennai
+1896,30,6,2403.14,1,New / Occasional,Kavitha Kumar 1996,Flexitarian,Chennai
+1897,13,16,8155.17,1,New / Occasional,Venkatesh Swaminathan 1997,Flexitarian,Chennai
+1898,4,10,4196.6,1,New / Occasional,Nandhini Babu 1998,Flexitarian,Chennai
+1899,120,6,3842.37,1,New / Occasional,Santhosh Natarajan 1999,Flexitarian,Chennai
+1900,61,4,2162.6,1,New / Occasional,Swetha Mudaliar 2000,Pure Veg,Chennai
+1901,7,10,4471.6,1,New / Occasional,Aravind Kumar 2001,Flexitarian,Chennai
+1902,20,4,2347.58,1,New / Occasional,Priya Swaminathan 2002,Flexitarian,Chennai
+1903,7,16,8473.07,1,New / Occasional,Karthik Babu 2003,Flexitarian,Chennai
+1904,28,3,2164.0,1,New / Occasional,Deepa Natarajan 2004,Pure Veg,Chennai
+1905,357,1,318.0,0,At Risk / Churning,Siddharth Mudaliar 2005,Pure Veg,Chennai
+1906,18,1,208.0,1,New / Occasional,Bhavana Kumar 2006,Flexitarian,Chennai
+1907,76,4,977.37,1,New / Occasional,Ramesh Swaminathan 2007,Flexitarian,Chennai
+1908,56,3,1532.29,1,New / Occasional,Lakshmi Babu 2008,Flexitarian,Chennai
+1909,52,8,5148.8,1,New / Occasional,Vijay Natarajan 2009,Flexitarian,Chennai
+1910,70,5,1953.1,1,New / Occasional,Ananya Mudaliar 2010,Flexitarian,Chennai
+1911,54,3,683.3,1,New / Occasional,Suresh Kumar 2011,Pure Veg,Chennai
+1912,9,33,15189.4,3,Steady Regulars,Divya Swaminathan 2012,Flexitarian,Chennai
+1913,70,5,2917.35,1,New / Occasional,Ganesh Babu 2013,Pure Veg,Chennai
+1914,231,1,693.9,0,At Risk / Churning,Meena Natarajan 2014,Pure Veg,Chennai
+1915,71,5,1738.5,1,New / Occasional,Rajesh Mudaliar 2015,Flexitarian,Chennai
+1916,71,15,7882.19,1,New / Occasional,Kavitha Kumar 2016,Flexitarian,Chennai
+1917,32,2,879.0,1,New / Occasional,Venkatesh Swaminathan 2017,Pure Veg,Chennai
+1918,20,13,5877.82,1,New / Occasional,Nandhini Babu 2018,Flexitarian,Chennai
+1919,53,3,2502.0,1,New / Occasional,Santhosh Natarajan 2019,Flexitarian,Chennai
+1920,11,15,7122.55,1,New / Occasional,Swetha Mudaliar 2020,Flexitarian,Chennai
+1921,104,7,4155.8,1,New / Occasional,Aravind Kumar 2021,Flexitarian,Chennai
+1922,2,8,3672.05,1,New / Occasional,Priya Swaminathan 2022,Flexitarian,Chennai
+1923,101,1,612.0,1,New / Occasional,Karthik Babu 2023,Flexitarian,Chennai
+1924,23,23,7324.17,1,New / Occasional,Deepa Natarajan 2024,Flexitarian,Chennai
+1925,13,6,2314.94,1,New / Occasional,Siddharth Mudaliar 2025,Flexitarian,Chennai
+1926,272,2,846.0,0,At Risk / Churning,Bhavana Kumar 2026,Flexitarian,Chennai
+1927,44,11,5698.19,1,New / Occasional,Ramesh Swaminathan 2027,Flexitarian,Chennai
+1928,280,1,377.0,0,At Risk / Churning,Lakshmi Babu 2028,Flexitarian,Chennai
+1929,49,11,4812.3,1,New / Occasional,Vijay Natarajan 2029,Flexitarian,Chennai
+1930,42,3,2330.5,1,New / Occasional,Ananya Mudaliar 2030,Flexitarian,Chennai
+1931,245,4,2210.0,0,At Risk / Churning,Suresh Kumar 2031,Flexitarian,Chennai
+1932,291,2,2277.39,0,At Risk / Churning,Divya Swaminathan 2032,Flexitarian,Chennai
+1933,55,3,1854.5,1,New / Occasional,Ganesh Babu 2033,Pure Veg,Chennai
+1934,297,2,680.0,0,At Risk / Churning,Meena Natarajan 2034,Pure Veg,Chennai
+1935,21,3,686.4,1,New / Occasional,Rajesh Mudaliar 2035,Pure Veg,Chennai
+1936,24,2,946.7,1,New / Occasional,Kavitha Kumar 2036,Flexitarian,Chennai
+1937,10,6,3180.4,1,New / Occasional,Venkatesh Swaminathan 2037,Flexitarian,Chennai
+1938,52,3,1440.9,1,New / Occasional,Nandhini Babu 2038,Pure Veg,Chennai
+1939,22,3,3877.06,1,New / Occasional,Santhosh Natarajan 2039,Flexitarian,Chennai
+1940,25,8,3124.1,1,New / Occasional,Swetha Mudaliar 2040,Flexitarian,Chennai
+1941,26,16,7368.19,1,New / Occasional,Aravind Kumar 2041,Flexitarian,Chennai
+1942,35,10,4900.69,1,New / Occasional,Priya Swaminathan 2042,Flexitarian,Chennai
+1943,40,8,4262.0,1,New / Occasional,Karthik Babu 2043,Flexitarian,Chennai
+1944,14,4,1843.6,1,New / Occasional,Deepa Natarajan 2044,Flexitarian,Chennai
+1945,26,11,8819.9,1,New / Occasional,Siddharth Mudaliar 2045,Flexitarian,Chennai
+1946,45,1,305.0,1,New / Occasional,Bhavana Kumar 2046,Flexitarian,Chennai
+1947,140,1,228.9,0,At Risk / Churning,Ramesh Swaminathan 2047,Pure Veg,Chennai
+1948,9,9,4236.7,1,New / Occasional,Lakshmi Babu 2048,Flexitarian,Chennai
+1949,2,4,1455.5,1,New / Occasional,Vijay Natarajan 2049,Flexitarian,Chennai
+1950,3,81,39367.73,3,Steady Regulars,Ananya Mudaliar 2050,Flexitarian,Chennai
+1951,62,5,2353.95,1,New / Occasional,Suresh Kumar 2051,Pure Veg,Chennai
+1952,106,1,409.5,1,New / Occasional,Divya Swaminathan 2052,Flexitarian,Chennai
+1953,10,6,3250.0,1,New / Occasional,Ganesh Babu 2053,Flexitarian,Chennai
+1954,141,1,245.05,0,At Risk / Churning,Meena Natarajan 2054,Pure Veg,Chennai
+1955,129,1,360.0,0,At Risk / Churning,Rajesh Mudaliar 2055,Pure Veg,Chennai
+1956,79,1,649.8,1,New / Occasional,Kavitha Kumar 2056,Flexitarian,Chennai
+1957,28,11,4984.41,1,New / Occasional,Venkatesh Swaminathan 2057,Flexitarian,Chennai
+1958,73,4,1717.82,1,New / Occasional,Nandhini Babu 2058,Pure Veg,Chennai
+1959,28,10,3677.28,1,New / Occasional,Santhosh Natarajan 2059,Flexitarian,Chennai
+1960,49,14,7170.75,1,New / Occasional,Swetha Mudaliar 2060,Flexitarian,Chennai
+1961,51,4,1549.0,1,New / Occasional,Aravind Kumar 2061,Flexitarian,Chennai
+1962,20,6,2563.95,1,New / Occasional,Priya Swaminathan 2062,Flexitarian,Chennai
+1963,103,3,2486.9,1,New / Occasional,Karthik Babu 2063,Pure Veg,Chennai
+1964,287,1,344.0,0,At Risk / Churning,Deepa Natarajan 2064,Flexitarian,Chennai
+1965,93,3,1435.25,1,New / Occasional,Siddharth Mudaliar 2065,Flexitarian,Chennai
+1966,68,7,3471.96,1,New / Occasional,Bhavana Kumar 2066,Flexitarian,Chennai
+1967,68,3,911.9,1,New / Occasional,Ramesh Swaminathan 2067,Pure Veg,Chennai
+1968,36,16,9088.61,1,New / Occasional,Lakshmi Babu 2068,Flexitarian,Chennai
+1969,50,4,1531.96,1,New / Occasional,Vijay Natarajan 2069,Pure Veg,Chennai
+1970,174,3,2116.5,0,At Risk / Churning,Ananya Mudaliar 2070,Flexitarian,Chennai
+1971,20,7,3479.65,1,New / Occasional,Suresh Kumar 2071,Flexitarian,Chennai
+1972,45,1,423.0,1,New / Occasional,Divya Swaminathan 2072,Flexitarian,Chennai
+1973,139,4,1443.8,0,At Risk / Churning,Ganesh Babu 2073,Flexitarian,Chennai
+1974,51,5,2777.12,1,New / Occasional,Meena Natarajan 2074,Flexitarian,Chennai
+1975,2,3,1799.3,1,New / Occasional,Rajesh Mudaliar 2075,Flexitarian,Chennai
+1976,93,4,1970.45,1,New / Occasional,Kavitha Kumar 2076,Flexitarian,Chennai
+1977,53,7,2207.7,1,New / Occasional,Venkatesh Swaminathan 2077,Flexitarian,Chennai
+1978,6,19,13333.13,1,New / Occasional,Nandhini Babu 2078,Flexitarian,Chennai
+1979,336,1,662.4,0,At Risk / Churning,Santhosh Natarajan 2079,Pure Veg,Chennai
+1980,108,3,1004.0,1,New / Occasional,Swetha Mudaliar 2080,Flexitarian,Chennai
+1981,15,5,1941.4,1,New / Occasional,Aravind Kumar 2081,Flexitarian,Chennai
+1982,7,6,2787.5,1,New / Occasional,Priya Swaminathan 2082,Flexitarian,Chennai
+1983,118,2,1553.4,1,New / Occasional,Karthik Babu 2083,Flexitarian,Chennai
+1984,69,2,1652.42,1,New / Occasional,Deepa Natarajan 2084,Flexitarian,Chennai
+1985,127,2,1647.9,1,New / Occasional,Siddharth Mudaliar 2085,Flexitarian,Chennai
+1986,85,1,549.0,1,New / Occasional,Bhavana Kumar 2086,Flexitarian,Chennai
+1987,5,4,2393.25,1,New / Occasional,Ramesh Swaminathan 2087,Flexitarian,Chennai
+1988,4,32,14935.22,3,Steady Regulars,Lakshmi Babu 2088,Flexitarian,Chennai
+1989,274,2,1284.5,0,At Risk / Churning,Vijay Natarajan 2089,Flexitarian,Chennai
+1990,147,3,1157.5,0,At Risk / Churning,Ananya Mudaliar 2090,Flexitarian,Chennai
+1991,200,1,390.0,0,At Risk / Churning,Suresh Kumar 2091,Flexitarian,Chennai
+1992,69,6,2316.74,1,New / Occasional,Divya Swaminathan 2092,Flexitarian,Chennai
+1993,77,1,612.0,1,New / Occasional,Ganesh Babu 2093,Flexitarian,Chennai
+1994,42,2,658.5,1,New / Occasional,Meena Natarajan 2094,Flexitarian,Chennai
+1995,5,6,2926.5,1,New / Occasional,Rajesh Mudaliar 2095,Flexitarian,Chennai
+1996,271,1,195.75,0,At Risk / Churning,Kavitha Kumar 2096,Pure Veg,Chennai
+1997,261,1,265.0,0,At Risk / Churning,Venkatesh Swaminathan 2097,Pure Veg,Chennai
+1998,218,1,361.0,0,At Risk / Churning,Nandhini Babu 2098,Pure Veg,Chennai
+1999,6,7,2917.5,1,New / Occasional,Santhosh Natarajan 2099,Flexitarian,Chennai
+2000,152,1,172.8,0,At Risk / Churning,Swetha Mudaliar 2100,Pure Veg,Chennai
+2001,226,4,1791.4,0,At Risk / Churning,Aravind Kumar 2101,Flexitarian,Chennai
+2002,265,3,2302.5,0,At Risk / Churning,Priya Swaminathan 2102,Flexitarian,Chennai
+2003,31,14,8015.6,1,New / Occasional,Karthik Babu 2103,Flexitarian,Chennai
+2004,2,3,1271.0,1,New / Occasional,Deepa Natarajan 2104,Pure Veg,Chennai
+2005,42,5,2612.0,1,New / Occasional,Siddharth Mudaliar 2105,Pure Veg,Chennai
+2006,77,3,1172.5,1,New / Occasional,Bhavana Kumar 2106,Pure Veg,Chennai
+2007,13,4,1545.65,1,New / Occasional,Ramesh Swaminathan 2107,Flexitarian,Chennai
+2008,44,3,860.9,1,New / Occasional,Lakshmi Babu 2108,Pure Veg,Chennai
+2009,5,14,7037.6,1,New / Occasional,Vijay Natarajan 2109,Flexitarian,Chennai
+2010,109,3,972.0,1,New / Occasional,Ananya Mudaliar 2110,Flexitarian,Chennai
+2011,15,6,2569.4,1,New / Occasional,Suresh Kumar 2111,Flexitarian,Chennai
+2012,9,59,25401.62,3,Steady Regulars,Divya Swaminathan 2112,Flexitarian,Chennai
+2013,233,1,374.0,0,At Risk / Churning,Ganesh Babu 2113,Flexitarian,Chennai
+2014,324,1,697.5,0,At Risk / Churning,Meena Natarajan 2114,Flexitarian,Chennai
+2015,26,5,2467.3,1,New / Occasional,Rajesh Mudaliar 2115,Flexitarian,Chennai
+2016,156,2,1260.66,0,At Risk / Churning,Kavitha Kumar 2116,Flexitarian,Chennai
+2017,36,16,6363.0,1,New / Occasional,Venkatesh Swaminathan 2117,Flexitarian,Chennai
+2018,87,4,1780.1,1,New / Occasional,Nandhini Babu 2118,Flexitarian,Chennai
+2019,61,3,1553.26,1,New / Occasional,Santhosh Natarajan 2119,Flexitarian,Chennai
+2020,65,7,4952.2,1,New / Occasional,Swetha Mudaliar 2120,Flexitarian,Chennai
+2021,40,25,12999.23,1,New / Occasional,Aravind Kumar 2121,Flexitarian,Chennai
+2022,2,9,3167.41,1,New / Occasional,Priya Swaminathan 2122,Flexitarian,Chennai
+2023,88,2,1441.76,1,New / Occasional,Karthik Babu 2123,Pure Veg,Chennai
+2024,69,6,3667.9,1,New / Occasional,Deepa Natarajan 2124,Flexitarian,Chennai
+2025,101,3,1021.15,1,New / Occasional,Siddharth Mudaliar 2125,Flexitarian,Chennai
+2026,22,5,2554.5,1,New / Occasional,Bhavana Kumar 2126,Flexitarian,Chennai
+2027,75,6,2933.9,1,New / Occasional,Ramesh Swaminathan 2127,Flexitarian,Chennai
+2028,232,1,400.0,0,At Risk / Churning,Lakshmi Babu 2128,Pure Veg,Chennai
+2029,46,6,3862.8,1,New / Occasional,Vijay Natarajan 2129,Flexitarian,Chennai
+2030,73,3,943.92,1,New / Occasional,Ananya Mudaliar 2130,Pure Veg,Chennai
+2031,26,3,1572.3,1,New / Occasional,Suresh Kumar 2131,Flexitarian,Chennai
+2032,169,1,450.0,0,At Risk / Churning,Divya Swaminathan 2132,Pure Veg,Chennai
+2033,121,3,1219.5,1,New / Occasional,Ganesh Babu 2133,Flexitarian,Chennai
+2034,60,8,3270.9,1,New / Occasional,Meena Natarajan 2134,Flexitarian,Chennai
+2035,149,1,73.22,0,At Risk / Churning,Rajesh Mudaliar 2135,Non-Veg Enthusiast,Chennai
+2036,344,1,280.0,0,At Risk / Churning,Kavitha Kumar 2136,Pure Veg,Chennai
+2037,113,2,402.0,1,New / Occasional,Venkatesh Swaminathan 2137,Pure Veg,Chennai
+2038,8,22,10716.29,1,New / Occasional,Nandhini Babu 2138,Flexitarian,Chennai
+2039,22,3,2606.15,1,New / Occasional,Santhosh Natarajan 2139,Flexitarian,Chennai
+2040,45,5,3439.1,1,New / Occasional,Swetha Mudaliar 2140,Pure Veg,Chennai
+2041,103,3,502.0,1,New / Occasional,Aravind Kumar 2141,Flexitarian,Chennai
+2042,29,3,2194.05,1,New / Occasional,Priya Swaminathan 2142,Flexitarian,Chennai
+2043,193,2,506.0,0,At Risk / Churning,Karthik Babu 2143,Flexitarian,Chennai
+2044,28,12,6193.8,1,New / Occasional,Deepa Natarajan 2144,Flexitarian,Chennai
+2045,47,5,1610.94,1,New / Occasional,Siddharth Mudaliar 2145,Pure Veg,Chennai
+2046,13,11,6956.88,1,New / Occasional,Bhavana Kumar 2146,Flexitarian,Chennai
+2047,92,9,4764.62,1,New / Occasional,Ramesh Swaminathan 2147,Flexitarian,Chennai
+2048,98,13,5814.75,1,New / Occasional,Lakshmi Babu 2148,Flexitarian,Chennai
+2049,77,1,450.0,1,New / Occasional,Vijay Natarajan 2149,Pure Veg,Chennai
+2050,13,5,1743.2,1,New / Occasional,Ananya Mudaliar 2150,Flexitarian,Chennai
+2051,46,4,1828.6,1,New / Occasional,Suresh Kumar 2151,Flexitarian,Chennai
+2052,161,1,330.0,0,At Risk / Churning,Divya Swaminathan 2152,Pure Veg,Chennai
+2053,221,3,717.0,0,At Risk / Churning,Ganesh Babu 2153,Flexitarian,Chennai
+2054,18,8,3977.7,1,New / Occasional,Meena Natarajan 2154,Flexitarian,Chennai
+2055,190,1,824.4,0,At Risk / Churning,Rajesh Mudaliar 2155,Flexitarian,Chennai
+2056,20,7,4753.14,1,New / Occasional,Kavitha Kumar 2156,Flexitarian,Chennai
+2057,113,2,1005.3,1,New / Occasional,Venkatesh Swaminathan 2157,Flexitarian,Chennai
+2058,38,4,1452.7,1,New / Occasional,Nandhini Babu 2158,Flexitarian,Chennai
+2059,21,11,5141.1,1,New / Occasional,Santhosh Natarajan 2159,Flexitarian,Chennai
+2060,21,6,2866.5,1,New / Occasional,Swetha Mudaliar 2160,Flexitarian,Chennai
+2061,150,4,1368.8,0,At Risk / Churning,Aravind Kumar 2161,Flexitarian,Chennai
+2062,204,1,423.0,0,At Risk / Churning,Priya Swaminathan 2162,Pure Veg,Chennai
+2063,3,5,1252.93,1,New / Occasional,Karthik Babu 2163,Flexitarian,Chennai
+2064,37,1,504.9,1,New / Occasional,Deepa Natarajan 2164,Pure Veg,Chennai
+2065,2,8,3270.4,1,New / Occasional,Siddharth Mudaliar 2165,Flexitarian,Chennai
+2066,12,4,2024.23,1,New / Occasional,Bhavana Kumar 2166,Flexitarian,Chennai
+2067,74,8,4931.25,1,New / Occasional,Ramesh Swaminathan 2167,Flexitarian,Chennai
+2068,6,12,5559.67,1,New / Occasional,Lakshmi Babu 2168,Flexitarian,Chennai
+2069,21,8,2735.89,1,New / Occasional,Vijay Natarajan 2169,Flexitarian,Chennai
+2070,28,16,7310.2,1,New / Occasional,Ananya Mudaliar 2170,Flexitarian,Chennai
+2071,203,3,2346.3,0,At Risk / Churning,Suresh Kumar 2171,Flexitarian,Chennai
+2072,19,3,988.0,1,New / Occasional,Divya Swaminathan 2172,Pure Veg,Chennai
+2073,73,3,1528.7,1,New / Occasional,Ganesh Babu 2173,Flexitarian,Chennai
+2074,25,3,1535.67,1,New / Occasional,Meena Natarajan 2174,Flexitarian,Chennai
+2075,87,4,2913.75,1,New / Occasional,Rajesh Mudaliar 2175,Flexitarian,Chennai
+2076,70,9,4960.55,1,New / Occasional,Kavitha Kumar 2176,Flexitarian,Chennai
+2077,170,2,710.0,0,At Risk / Churning,Venkatesh Swaminathan 2177,Pure Veg,Chennai
+2078,265,1,569.7,0,At Risk / Churning,Nandhini Babu 2178,Flexitarian,Chennai
+2079,60,4,1708.8,1,New / Occasional,Santhosh Natarajan 2179,Flexitarian,Chennai
+2080,171,1,630.0,0,At Risk / Churning,Swetha Mudaliar 2180,Pure Veg,Chennai
+2081,22,13,7893.84,1,New / Occasional,Aravind Kumar 2181,Flexitarian,Chennai
+2082,64,1,459.0,1,New / Occasional,Priya Swaminathan 2182,Flexitarian,Chennai
+2083,160,8,2952.06,0,At Risk / Churning,Karthik Babu 2183,Flexitarian,Chennai
+2084,28,4,1980.0,1,New / Occasional,Deepa Natarajan 2184,Flexitarian,Chennai
+2085,114,5,2978.6,1,New / Occasional,Siddharth Mudaliar 2185,Flexitarian,Chennai
+2086,192,1,134.0,0,At Risk / Churning,Bhavana Kumar 2186,Pure Veg,Chennai
+2087,302,1,310.0,0,At Risk / Churning,Ramesh Swaminathan 2187,Pure Veg,Chennai
+2088,66,3,957.4,1,New / Occasional,Lakshmi Babu 2188,Flexitarian,Chennai
+2089,48,8,3694.15,1,New / Occasional,Vijay Natarajan 2189,Flexitarian,Chennai
+2090,68,5,4205.0,1,New / Occasional,Ananya Mudaliar 2190,Flexitarian,Chennai
+2091,81,2,538.0,1,New / Occasional,Suresh Kumar 2191,Flexitarian,Chennai
+2092,8,50,22933.59,3,Steady Regulars,Divya Swaminathan 2192,Flexitarian,Chennai
+2093,33,4,1621.89,1,New / Occasional,Ganesh Babu 2193,Flexitarian,Chennai
+2094,51,4,1523.1,1,New / Occasional,Meena Natarajan 2194,Flexitarian,Chennai
+2095,283,2,1300.5,0,At Risk / Churning,Rajesh Mudaliar 2195,Flexitarian,Chennai
+2096,161,3,1424.27,0,At Risk / Churning,Kavitha Kumar 2196,Pure Veg,Chennai
+2097,86,1,296.0,1,New / Occasional,Venkatesh Swaminathan 2197,Flexitarian,Chennai
+2098,2,20,9987.92,1,New / Occasional,Nandhini Babu 2198,Flexitarian,Chennai
+2099,11,2,692.0,1,New / Occasional,Santhosh Natarajan 2199,Pure Veg,Chennai
+2100,84,1,214.32,1,New / Occasional,Swetha Mudaliar 2200,Non-Veg Enthusiast,Chennai
+2101,200,2,874.7,0,At Risk / Churning,Aravind Kumar 2201,Flexitarian,Chennai
+2102,125,3,818.05,1,New / Occasional,Priya Swaminathan 2202,Pure Veg,Chennai
+2103,221,1,270.0,0,At Risk / Churning,Karthik Babu 2203,Pure Veg,Chennai
+2104,22,6,4338.17,1,New / Occasional,Deepa Natarajan 2204,Flexitarian,Chennai
+2105,161,4,1453.28,0,At Risk / Churning,Siddharth Mudaliar 2205,Flexitarian,Chennai
+2106,158,1,404.6,0,At Risk / Churning,Bhavana Kumar 2206,Flexitarian,Chennai
+2107,2,14,7657.49,1,New / Occasional,Ramesh Swaminathan 2207,Flexitarian,Chennai
+2108,150,2,809.35,0,At Risk / Churning,Lakshmi Babu 2208,Pure Veg,Chennai
+2109,20,22,8834.53,1,New / Occasional,Vijay Natarajan 2209,Flexitarian,Chennai
+2110,6,3,2106.0,1,New / Occasional,Ananya Mudaliar 2210,Flexitarian,Chennai
+2111,9,10,4948.9,1,New / Occasional,Suresh Kumar 2211,Flexitarian,Chennai
+2112,74,5,1503.2,1,New / Occasional,Divya Swaminathan 2212,Flexitarian,Chennai
+2113,14,10,4909.45,1,New / Occasional,Ganesh Babu 2213,Flexitarian,Chennai
+2114,2,45,20692.78,3,Steady Regulars,Meena Natarajan 2214,Flexitarian,Chennai
+2115,3,31,14336.19,3,Steady Regulars,Rajesh Mudaliar 2215,Flexitarian,Chennai
+2116,219,3,2943.31,0,At Risk / Churning,Kavitha Kumar 2216,Flexitarian,Chennai
+2117,298,2,1103.4,0,At Risk / Churning,Venkatesh Swaminathan 2217,Pure Veg,Chennai
+2118,49,6,3424.75,1,New / Occasional,Nandhini Babu 2218,Flexitarian,Chennai
+2119,356,1,319.0,0,At Risk / Churning,Santhosh Natarajan 2219,Pure Veg,Chennai
+2120,17,4,1656.84,1,New / Occasional,Swetha Mudaliar 2220,Flexitarian,Chennai
+2121,324,1,508.5,0,At Risk / Churning,Aravind Kumar 2221,Pure Veg,Chennai
+2122,111,4,1266.2,1,New / Occasional,Priya Swaminathan 2222,Flexitarian,Chennai
+2123,9,8,4264.1,1,New / Occasional,Karthik Babu 2223,Pure Veg,Chennai
+2124,157,1,357.0,0,At Risk / Churning,Deepa Natarajan 2224,Pure Veg,Chennai
+2125,29,3,1375.62,1,New / Occasional,Siddharth Mudaliar 2225,Flexitarian,Chennai
+2126,179,2,714.0,0,At Risk / Churning,Bhavana Kumar 2226,Flexitarian,Chennai
+2127,33,4,1145.4,1,New / Occasional,Ramesh Swaminathan 2227,Flexitarian,Chennai
+2128,33,27,14010.61,3,Steady Regulars,Lakshmi Babu 2228,Flexitarian,Chennai
+2129,41,5,2695.6,1,New / Occasional,Vijay Natarajan 2229,Flexitarian,Chennai
+2130,249,2,900.9,0,At Risk / Churning,Ananya Mudaliar 2230,Pure Veg,Chennai
+2131,228,3,1560.6,0,At Risk / Churning,Suresh Kumar 2231,Flexitarian,Chennai
+2132,197,1,868.5,0,At Risk / Churning,Divya Swaminathan 2232,Pure Veg,Chennai
+2133,183,3,1461.5,0,At Risk / Churning,Ganesh Babu 2233,Flexitarian,Chennai
+2134,64,4,1785.1,1,New / Occasional,Meena Natarajan 2234,Flexitarian,Chennai
+2135,187,4,2373.6,0,At Risk / Churning,Rajesh Mudaliar 2235,Flexitarian,Chennai
+2136,233,2,1251.9,0,At Risk / Churning,Kavitha Kumar 2236,Flexitarian,Chennai
+2137,7,68,30958.23,3,Steady Regulars,Venkatesh Swaminathan 2237,Flexitarian,Chennai
+2138,64,15,8274.97,1,New / Occasional,Nandhini Babu 2238,Flexitarian,Chennai
+2139,41,5,2187.5,1,New / Occasional,Santhosh Natarajan 2239,Flexitarian,Chennai
+2140,68,4,1360.2,1,New / Occasional,Swetha Mudaliar 2240,Flexitarian,Chennai
+2141,42,5,2674.21,1,New / Occasional,Aravind Kumar 2241,Flexitarian,Chennai
+2142,84,1,380.0,1,New / Occasional,Priya Swaminathan 2242,Pure Veg,Chennai
+2143,362,1,519.3,0,At Risk / Churning,Karthik Babu 2243,Pure Veg,Chennai
+2144,229,2,1349.1,0,At Risk / Churning,Deepa Natarajan 2244,Flexitarian,Chennai
+2145,111,2,1453.5,1,New / Occasional,Siddharth Mudaliar 2245,Flexitarian,Chennai
+2146,313,1,348.0,0,At Risk / Churning,Bhavana Kumar 2246,Non-Veg Enthusiast,Chennai
+2147,4,29,14648.37,3,Steady Regulars,Ramesh Swaminathan 2247,Flexitarian,Chennai
+2148,19,15,7021.56,1,New / Occasional,Lakshmi Babu 2248,Flexitarian,Chennai
+2149,25,4,1936.98,1,New / Occasional,Vijay Natarajan 2249,Flexitarian,Chennai
+2150,74,2,1301.62,1,New / Occasional,Ananya Mudaliar 2250,Flexitarian,Chennai
+2151,11,10,8144.94,1,New / Occasional,Suresh Kumar 2251,Flexitarian,Chennai
+2152,301,2,830.0,0,At Risk / Churning,Divya Swaminathan 2252,Flexitarian,Chennai
+2153,92,11,5302.35,1,New / Occasional,Ganesh Babu 2253,Flexitarian,Chennai
+2154,41,7,5178.44,1,New / Occasional,Meena Natarajan 2254,Flexitarian,Chennai
+2155,21,13,6470.64,1,New / Occasional,Rajesh Mudaliar 2255,Flexitarian,Chennai
+2156,10,18,8531.25,1,New / Occasional,Kavitha Kumar 2256,Flexitarian,Chennai
+2157,245,3,1229.5,0,At Risk / Churning,Venkatesh Swaminathan 2257,Flexitarian,Chennai
+2158,24,39,20208.1,3,Steady Regulars,Nandhini Babu 2258,Flexitarian,Chennai
+2159,280,2,1257.3,0,At Risk / Churning,Santhosh Natarajan 2259,Pure Veg,Chennai
+2160,6,10,5573.4,1,New / Occasional,Swetha Mudaliar 2260,Flexitarian,Chennai
+2161,70,9,3794.5,1,New / Occasional,Aravind Kumar 2261,Flexitarian,Chennai
+2162,230,3,2041.71,0,At Risk / Churning,Priya Swaminathan 2262,Flexitarian,Chennai
+2163,347,1,375.0,0,At Risk / Churning,Karthik Babu 2263,Flexitarian,Chennai
+2164,64,1,300.0,1,New / Occasional,Deepa Natarajan 2264,Pure Veg,Chennai
+2165,2,3,2742.33,1,New / Occasional,Siddharth Mudaliar 2265,Flexitarian,Chennai
+2166,224,4,2111.51,0,At Risk / Churning,Bhavana Kumar 2266,Flexitarian,Chennai
+2167,10,3,1785.57,1,New / Occasional,Ramesh Swaminathan 2267,Flexitarian,Chennai
+2168,51,3,1816.7,1,New / Occasional,Lakshmi Babu 2268,Flexitarian,Chennai
+2169,6,15,8763.2,1,New / Occasional,Vijay Natarajan 2269,Flexitarian,Chennai
+2170,6,38,20358.5,3,Steady Regulars,Ananya Mudaliar 2270,Flexitarian,Chennai

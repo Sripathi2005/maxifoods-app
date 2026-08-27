@@ -1,0 +1,1041 @@
+{
+  "kpis": {
+    "total_orders": 16187,
+    "total_customers": 2170,
+    "total_restaurants": 15,
+    "total_revenue": 7862735.55,
+    "avg_order_value": 485.74,
+    "overall_veg_pct": 61.6,
+    "avg_delivery_time": 32.5,
+    "avg_rating": 4.4
+  },
+  "monthly_veg_trend": [
+    {
+      "month_year": "2025-01",
+      "total_orders": 1379,
+      "veg_orders": 850,
+      "veg_pct": 61.6
+    },
+    {
+      "month_year": "2025-02",
+      "total_orders": 1245,
+      "veg_orders": 746,
+      "veg_pct": 59.9
+    },
+    {
+      "month_year": "2025-03",
+      "total_orders": 1379,
+      "veg_orders": 856,
+      "veg_pct": 62.1
+    },
+    {
+      "month_year": "2025-04",
+      "total_orders": 1334,
+      "veg_orders": 838,
+      "veg_pct": 62.8
+    },
+    {
+      "month_year": "2025-05",
+      "total_orders": 1378,
+      "veg_orders": 840,
+      "veg_pct": 61.0
+    },
+    {
+      "month_year": "2025-06",
+      "total_orders": 1334,
+      "veg_orders": 822,
+      "veg_pct": 61.6
+    },
+    {
+      "month_year": "2025-07",
+      "total_orders": 1379,
+      "veg_orders": 867,
+      "veg_pct": 62.9
+    },
+    {
+      "month_year": "2025-08",
+      "total_orders": 1378,
+      "veg_orders": 850,
+      "veg_pct": 61.7
+    },
+    {
+      "month_year": "2025-09",
+      "total_orders": 1334,
+      "veg_orders": 834,
+      "veg_pct": 62.5
+    },
+    {
+      "month_year": "2025-10",
+      "total_orders": 1378,
+      "veg_orders": 824,
+      "veg_pct": 59.8
+    },
+    {
+      "month_year": "2025-11",
+      "total_orders": 1334,
+      "veg_orders": 821,
+      "veg_pct": 61.5
+    },
+    {
+      "month_year": "2025-12",
+      "total_orders": 1335,
+      "veg_orders": 829,
+      "veg_pct": 62.1
+    }
+  ],
+  "season_veg_trend": [
+    {
+      "veg_season_tag": "Chaitra Navratri",
+      "total_orders": 400,
+      "veg_orders": 245,
+      "veg_pct": 61.3
+    },
+    {
+      "veg_season_tag": "Regular",
+      "total_orders": 14009,
+      "veg_orders": 8664,
+      "veg_pct": 61.8
+    },
+    {
+      "veg_season_tag": "Sharad Navratri",
+      "total_orders": 444,
+      "veg_orders": 260,
+      "veg_pct": 58.6
+    },
+    {
+      "veg_season_tag": "Shravan",
+      "total_orders": 1334,
+      "veg_orders": 808,
+      "veg_pct": 60.6
+    }
+  ],
+  "diet_profile_season_trend": [
+    {
+      "diet_profile": "Flexitarian",
+      "season_bucket": "Regular",
+      "total_orders": 13066,
+      "veg_orders": 7772,
+      "veg_pct": 59.5
+    },
+    {
+      "diet_profile": "Flexitarian",
+      "season_bucket": "Veg Season",
+      "total_orders": 2018,
+      "veg_orders": 1165,
+      "veg_pct": 57.7
+    },
+    {
+      "diet_profile": "Non-Veg Enthusiast",
+      "season_bucket": "Regular",
+      "total_orders": 56,
+      "veg_orders": 5,
+      "veg_pct": 8.9
+    },
+    {
+      "diet_profile": "Non-Veg Enthusiast",
+      "season_bucket": "Veg Season",
+      "total_orders": 12,
+      "veg_orders": 0,
+      "veg_pct": 0.0
+    },
+    {
+      "diet_profile": "Pure Veg",
+      "season_bucket": "Regular",
+      "total_orders": 887,
+      "veg_orders": 887,
+      "veg_pct": 100.0
+    },
+    {
+      "diet_profile": "Pure Veg",
+      "season_bucket": "Veg Season",
+      "total_orders": 148,
+      "veg_orders": 148,
+      "veg_pct": 100.0
+    }
+  ],
+  "top_overall_items": [
+    {
+      "item_name": "Curd Rice",
+      "quantity": 197
+    },
+    {
+      "item_name": "Banana Lassi",
+      "quantity": 186
+    },
+    {
+      "item_name": "Mango Lassi",
+      "quantity": 157
+    },
+    {
+      "item_name": "Pineapple Juice",
+      "quantity": 156
+    },
+    {
+      "item_name": "Sweet Lassi",
+      "quantity": 142
+    },
+    {
+      "item_name": "Sambar Rice",
+      "quantity": 141
+    },
+    {
+      "item_name": "Chocolate Ice Cream",
+      "quantity": 138
+    },
+    {
+      "item_name": "Steamed Rice",
+      "quantity": 130
+    },
+    {
+      "item_name": "Apple Juice",
+      "quantity": 126
+    },
+    {
+      "item_name": "Grape Juice",
+      "quantity": 125
+    }
+  ],
+  "top_items_by_month": [
+    {
+      "month_name": "April",
+      "item_name": "Pineapple Juice",
+      "quantity": 19
+    },
+    {
+      "month_name": "April",
+      "item_name": "Banana Lassi",
+      "quantity": 18
+    },
+    {
+      "month_name": "April",
+      "item_name": "Sambar Rice",
+      "quantity": 16
+    },
+    {
+      "month_name": "April",
+      "item_name": "Curd Rice",
+      "quantity": 15
+    },
+    {
+      "month_name": "April",
+      "item_name": "Apple Juice",
+      "quantity": 13
+    },
+    {
+      "month_name": "August",
+      "item_name": "Mutton Sweet Corn Soup",
+      "quantity": 22
+    },
+    {
+      "month_name": "August",
+      "item_name": "Mango Lassi",
+      "quantity": 20
+    },
+    {
+      "month_name": "August",
+      "item_name": "Sambar Rice",
+      "quantity": 19
+    },
+    {
+      "month_name": "August",
+      "item_name": "Banana Lassi",
+      "quantity": 18
+    },
+    {
+      "month_name": "August",
+      "item_name": "Grape Juice",
+      "quantity": 18
+    },
+    {
+      "month_name": "December",
+      "item_name": "Pineapple Juice",
+      "quantity": 22
+    },
+    {
+      "month_name": "December",
+      "item_name": "Banana Lassi",
+      "quantity": 17
+    },
+    {
+      "month_name": "December",
+      "item_name": "Sweet Lassi",
+      "quantity": 17
+    },
+    {
+      "month_name": "December",
+      "item_name": "Cold Coffee",
+      "quantity": 15
+    },
+    {
+      "month_name": "December",
+      "item_name": "Orange Juice",
+      "quantity": 15
+    },
+    {
+      "month_name": "February",
+      "item_name": "Sweet Lassi",
+      "quantity": 17
+    },
+    {
+      "month_name": "February",
+      "item_name": "Banana Lassi",
+      "quantity": 16
+    },
+    {
+      "month_name": "February",
+      "item_name": "Curd Rice",
+      "quantity": 14
+    },
+    {
+      "month_name": "February",
+      "item_name": "Roasted Papad",
+      "quantity": 14
+    },
+    {
+      "month_name": "February",
+      "item_name": "Masala Papad",
+      "quantity": 12
+    },
+    {
+      "month_name": "January",
+      "item_name": "Apple Juice",
+      "quantity": 16
+    },
+    {
+      "month_name": "January",
+      "item_name": "Curd Rice",
+      "quantity": 16
+    },
+    {
+      "month_name": "January",
+      "item_name": "Banana Lassi",
+      "quantity": 15
+    },
+    {
+      "month_name": "January",
+      "item_name": "Sambar Rice",
+      "quantity": 15
+    },
+    {
+      "month_name": "January",
+      "item_name": "Chocolate Milkshake",
+      "quantity": 14
+    },
+    {
+      "month_name": "July",
+      "item_name": "Mango Lassi",
+      "quantity": 21
+    },
+    {
+      "month_name": "July",
+      "item_name": "Chocolate Ice Cream",
+      "quantity": 16
+    },
+    {
+      "month_name": "July",
+      "item_name": "Curd Rice",
+      "quantity": 16
+    },
+    {
+      "month_name": "July",
+      "item_name": "Grape Juice",
+      "quantity": 16
+    },
+    {
+      "month_name": "July",
+      "item_name": "Apple Juice",
+      "quantity": 15
+    },
+    {
+      "month_name": "June",
+      "item_name": "Mango Lassi",
+      "quantity": 18
+    },
+    {
+      "month_name": "June",
+      "item_name": "Chocolate Ice Cream",
+      "quantity": 16
+    },
+    {
+      "month_name": "June",
+      "item_name": "Watermelon Juice",
+      "quantity": 16
+    },
+    {
+      "month_name": "June",
+      "item_name": "Steamed Rice",
+      "quantity": 14
+    },
+    {
+      "month_name": "June",
+      "item_name": "Curd Rice",
+      "quantity": 13
+    },
+    {
+      "month_name": "March",
+      "item_name": "Banana Lassi",
+      "quantity": 19
+    },
+    {
+      "month_name": "March",
+      "item_name": "Orange Juice",
+      "quantity": 17
+    },
+    {
+      "month_name": "March",
+      "item_name": "Curd [250 Ml]",
+      "quantity": 16
+    },
+    {
+      "month_name": "March",
+      "item_name": "Pineapple Juice",
+      "quantity": 16
+    },
+    {
+      "month_name": "March",
+      "item_name": "Strawberry Milkshake",
+      "quantity": 16
+    },
+    {
+      "month_name": "May",
+      "item_name": "Curd Rice",
+      "quantity": 23
+    },
+    {
+      "month_name": "May",
+      "item_name": "Banana Lassi",
+      "quantity": 19
+    },
+    {
+      "month_name": "May",
+      "item_name": "Roasted Papad",
+      "quantity": 16
+    },
+    {
+      "month_name": "May",
+      "item_name": "Steamed Rice",
+      "quantity": 16
+    },
+    {
+      "month_name": "May",
+      "item_name": "Rose Milk",
+      "quantity": 15
+    },
+    {
+      "month_name": "November",
+      "item_name": "Curd Rice",
+      "quantity": 21
+    },
+    {
+      "month_name": "November",
+      "item_name": "Watermelon Juice",
+      "quantity": 17
+    },
+    {
+      "month_name": "November",
+      "item_name": "Sweet Lime Juice",
+      "quantity": 16
+    },
+    {
+      "month_name": "November",
+      "item_name": "Banana Lassi",
+      "quantity": 14
+    },
+    {
+      "month_name": "November",
+      "item_name": "Pomegranate Juice",
+      "quantity": 13
+    },
+    {
+      "month_name": "October",
+      "item_name": "Curd Rice",
+      "quantity": 19
+    },
+    {
+      "month_name": "October",
+      "item_name": "Mango Milkshake",
+      "quantity": 18
+    },
+    {
+      "month_name": "October",
+      "item_name": "Mango Lassi",
+      "quantity": 16
+    },
+    {
+      "month_name": "October",
+      "item_name": "Banana Lassi",
+      "quantity": 14
+    },
+    {
+      "month_name": "October",
+      "item_name": "Butterscotch Ice Cream",
+      "quantity": 14
+    },
+    {
+      "month_name": "September",
+      "item_name": "Curd Rice",
+      "quantity": 18
+    },
+    {
+      "month_name": "September",
+      "item_name": "Pineapple Juice",
+      "quantity": 16
+    },
+    {
+      "month_name": "September",
+      "item_name": "Grape Juice",
+      "quantity": 15
+    },
+    {
+      "month_name": "September",
+      "item_name": "Mango Lassi",
+      "quantity": 15
+    },
+    {
+      "month_name": "September",
+      "item_name": "Butter Naan",
+      "quantity": 13
+    }
+  ],
+  "top_veg_season_items": [
+    {
+      "item_name": "Grape Juice",
+      "quantity": 29
+    },
+    {
+      "item_name": "Curd Rice",
+      "quantity": 28
+    },
+    {
+      "item_name": "Pomegranate Juice",
+      "quantity": 28
+    },
+    {
+      "item_name": "Mango Lassi",
+      "quantity": 25
+    },
+    {
+      "item_name": "Sambar Rice",
+      "quantity": 23
+    },
+    {
+      "item_name": "Banana Lassi",
+      "quantity": 21
+    },
+    {
+      "item_name": "Apple Juice",
+      "quantity": 20
+    },
+    {
+      "item_name": "Strawberry Lassi",
+      "quantity": 19
+    },
+    {
+      "item_name": "Pineapple Juice",
+      "quantity": 18
+    },
+    {
+      "item_name": "Chocolate Ice Cream",
+      "quantity": 18
+    }
+  ],
+  "top_items_by_weekday": [
+    {
+      "weekday": "Friday",
+      "item_name": "Sambar Rice",
+      "quantity": 30
+    },
+    {
+      "weekday": "Friday",
+      "item_name": "Pineapple Juice",
+      "quantity": 28
+    },
+    {
+      "weekday": "Friday",
+      "item_name": "Strawberry Lassi",
+      "quantity": 25
+    },
+    {
+      "weekday": "Monday",
+      "item_name": "Curd Rice",
+      "quantity": 31
+    },
+    {
+      "weekday": "Monday",
+      "item_name": "Banana Lassi",
+      "quantity": 25
+    },
+    {
+      "weekday": "Monday",
+      "item_name": "Pineapple Juice",
+      "quantity": 21
+    },
+    {
+      "weekday": "Saturday",
+      "item_name": "Banana Lassi",
+      "quantity": 33
+    },
+    {
+      "weekday": "Saturday",
+      "item_name": "Curd Rice",
+      "quantity": 26
+    },
+    {
+      "weekday": "Saturday",
+      "item_name": "Mango Lassi",
+      "quantity": 25
+    },
+    {
+      "weekday": "Sunday",
+      "item_name": "Chocolate Ice Cream",
+      "quantity": 32
+    },
+    {
+      "weekday": "Sunday",
+      "item_name": "Banana Lassi",
+      "quantity": 29
+    },
+    {
+      "weekday": "Sunday",
+      "item_name": "Sweet Lassi",
+      "quantity": 28
+    },
+    {
+      "weekday": "Thursday",
+      "item_name": "French Fries",
+      "quantity": 28
+    },
+    {
+      "weekday": "Thursday",
+      "item_name": "Curd Rice",
+      "quantity": 27
+    },
+    {
+      "weekday": "Thursday",
+      "item_name": "Chocolate Ice Cream",
+      "quantity": 24
+    },
+    {
+      "weekday": "Tuesday",
+      "item_name": "Mango Lassi",
+      "quantity": 32
+    },
+    {
+      "weekday": "Tuesday",
+      "item_name": "Curd Rice",
+      "quantity": 29
+    },
+    {
+      "weekday": "Tuesday",
+      "item_name": "Banana Lassi",
+      "quantity": 28
+    },
+    {
+      "weekday": "Wednesday",
+      "item_name": "Curd Rice",
+      "quantity": 37
+    },
+    {
+      "weekday": "Wednesday",
+      "item_name": "Banana Lassi",
+      "quantity": 28
+    },
+    {
+      "weekday": "Wednesday",
+      "item_name": "Mango Lassi",
+      "quantity": 25
+    }
+  ],
+  "cuisine_perf": [
+    {
+      "primary_cuisine": "South Indian",
+      "final_amount": 1768695.1
+    },
+    {
+      "primary_cuisine": "North Indian",
+      "final_amount": 1514093.65
+    },
+    {
+      "primary_cuisine": "Chinese",
+      "final_amount": 1189560.25
+    },
+    {
+      "primary_cuisine": "Bakery",
+      "final_amount": 721200.75
+    },
+    {
+      "primary_cuisine": "Biryani",
+      "final_amount": 615504.1
+    },
+    {
+      "primary_cuisine": "Beverages",
+      "final_amount": 506699.75
+    },
+    {
+      "primary_cuisine": "Arabian",
+      "final_amount": 425482.6
+    },
+    {
+      "primary_cuisine": "Juices",
+      "final_amount": 421359.15
+    },
+    {
+      "primary_cuisine": "Indian",
+      "final_amount": 370538.25
+    },
+    {
+      "primary_cuisine": "Desserts",
+      "final_amount": 329601.95
+    }
+  ],
+  "city_perf": [
+    {
+      "city": "Chennai",
+      "final_amount": 7862735.55
+    }
+  ],
+  "time_slot_perf": [
+    {
+      "time_slot": "Afternoon",
+      "orders": 5439
+    },
+    {
+      "time_slot": "Evening",
+      "orders": 5336
+    },
+    {
+      "time_slot": "Morning",
+      "orders": 3222
+    },
+    {
+      "time_slot": "Night",
+      "orders": 2190
+    }
+  ],
+  "segment_summary": [
+    {
+      "segment": "At Risk / Churning",
+      "customers": 575,
+      "avg_recency": 222.4,
+      "avg_frequency": 2.0,
+      "avg_monetary": 945.5
+    },
+    {
+      "segment": "Loyal High-Spenders",
+      "customers": 2,
+      "avg_recency": 2.5,
+      "avg_frequency": 300.0,
+      "avg_monetary": 146053.1
+    },
+    {
+      "segment": "New / Occasional",
+      "customers": 1492,
+      "avg_recency": 46.5,
+      "avg_frequency": 6.5,
+      "avg_monetary": 3169.3
+    },
+    {
+      "segment": "Steady Regulars",
+      "customers": 101,
+      "avg_recency": 8.8,
+      "avg_frequency": 46.6,
+      "avg_monetary": 22756.4
+    }
+  ],
+  "discount_impact": [
+    {
+      "has_discount": false,
+      "orders": 6145,
+      "avg_order_value": 273.36,
+      "avg_items": 2.01
+    },
+    {
+      "has_discount": true,
+      "orders": 10042,
+      "avg_order_value": 615.71,
+      "avg_items": 3.29
+    }
+  ],
+  "market_basket_rules": [
+    {
+      "antecedents": "Extra Mayonnaise",
+      "consequents": "Pista Milk Shake",
+      "support": 0.001,
+      "confidence": 0.128,
+      "lift": 40.481
+    },
+    {
+      "antecedents": "Pista Milk Shake",
+      "consequents": "Extra Mayonnaise",
+      "support": 0.001,
+      "confidence": 0.179,
+      "lift": 40.481
+    },
+    {
+      "antecedents": "Spl. Kolambu (1 Bowl)",
+      "consequents": "Fresh Lemon Juice Sweet",
+      "support": 0.0,
+      "confidence": 0.133,
+      "lift": 36.838
+    },
+    {
+      "antecedents": "Fresh Lemon Juice Sweet",
+      "consequents": "Spl. Kolambu (1 Bowl)",
+      "support": 0.0,
+      "confidence": 0.125,
+      "lift": 36.838
+    },
+    {
+      "antecedents": "Crispy Paneer [barbeque Sauce Dress]",
+      "consequents": "Limca",
+      "support": 0.0,
+      "confidence": 0.111,
+      "lift": 35.083
+    },
+    {
+      "antecedents": "Limca",
+      "consequents": "Crispy Paneer [barbeque Sauce Dress]",
+      "support": 0.0,
+      "confidence": 0.143,
+      "lift": 35.083
+    },
+    {
+      "antecedents": "Grape",
+      "consequents": "Lemon Mint Mojito",
+      "support": 0.0,
+      "confidence": 0.1,
+      "lift": 32.744
+    },
+    {
+      "antecedents": "Lemon Mint Mojito",
+      "consequents": "Grape",
+      "support": 0.0,
+      "confidence": 0.148,
+      "lift": 32.744
+    },
+    {
+      "antecedents": "Extra Buttermilk",
+      "consequents": "Tea",
+      "support": 0.0,
+      "confidence": 0.097,
+      "lift": 31.688
+    },
+    {
+      "antecedents": "Tea",
+      "consequents": "Extra Buttermilk",
+      "support": 0.0,
+      "confidence": 0.111,
+      "lift": 31.688
+    },
+    {
+      "antecedents": "Butterscoth Shake",
+      "consequents": "Strawberry Shake",
+      "support": 0.001,
+      "confidence": 0.133,
+      "lift": 31.021
+    },
+    {
+      "antecedents": "Strawberry Shake",
+      "consequents": "Butterscoth Shake",
+      "support": 0.001,
+      "confidence": 0.158,
+      "lift": 31.021
+    },
+    {
+      "antecedents": "Malai Kofta (sweet Gravy) Small",
+      "consequents": "Spl. Kolambu (1 Bowl)",
+      "support": 0.0,
+      "confidence": 0.103,
+      "lift": 30.486
+    },
+    {
+      "antecedents": "Spl. Kolambu (1 Bowl)",
+      "consequents": "Malai Kofta (sweet Gravy) Small",
+      "support": 0.0,
+      "confidence": 0.1,
+      "lift": 30.486
+    },
+    {
+      "antecedents": "Poriyal (1 Bowl)",
+      "consequents": "Mineral Water (1 Ltr)",
+      "support": 0.0,
+      "confidence": 0.103,
+      "lift": 30.226
+    },
+    {
+      "antecedents": "Mineral Water (1 Ltr)",
+      "consequents": "Poriyal (1 Bowl)",
+      "support": 0.0,
+      "confidence": 0.133,
+      "lift": 30.226
+    },
+    {
+      "antecedents": "Apple",
+      "consequents": "Badam Milk",
+      "support": 0.0,
+      "confidence": 0.129,
+      "lift": 30.02
+    },
+    {
+      "antecedents": "Badam Milk",
+      "consequents": "Apple",
+      "support": 0.0,
+      "confidence": 0.105,
+      "lift": 30.02
+    },
+    {
+      "antecedents": "Arabian Falooda",
+      "consequents": "Dates Milk Shake",
+      "support": 0.0,
+      "confidence": 0.103,
+      "lift": 29.251
+    },
+    {
+      "antecedents": "Dates Milk Shake",
+      "consequents": "Arabian Falooda",
+      "support": 0.0,
+      "confidence": 0.129,
+      "lift": 29.251
+    },
+    {
+      "antecedents": "Green Apple Ice Tea",
+      "consequents": "Mac & Cheese Fries",
+      "support": 0.0,
+      "confidence": 0.111,
+      "lift": 28.892
+    },
+    {
+      "antecedents": "Mac & Cheese Fries",
+      "consequents": "Green Apple Ice Tea",
+      "support": 0.0,
+      "confidence": 0.118,
+      "lift": 28.892
+    },
+    {
+      "antecedents": "Kachumber Salad",
+      "consequents": "Butter Scotch Delight",
+      "support": 0.0,
+      "confidence": 0.107,
+      "lift": 27.86
+    },
+    {
+      "antecedents": "Butter Scotch Delight",
+      "consequents": "Kachumber Salad",
+      "support": 0.0,
+      "confidence": 0.088,
+      "lift": 27.86
+    },
+    {
+      "antecedents": "Piri Piri Fries",
+      "consequents": "Hell",
+      "support": 0.0,
+      "confidence": 0.094,
+      "lift": 27.628
+    },
+    {
+      "antecedents": "Sambar (1 Bowl)",
+      "consequents": "Sappota (chikoo) Juice",
+      "support": 0.0,
+      "confidence": 0.094,
+      "lift": 27.628
+    },
+    {
+      "antecedents": "Sappota (chikoo) Juice",
+      "consequents": "Sambar (1 Bowl)",
+      "support": 0.0,
+      "confidence": 0.1,
+      "lift": 27.628
+    },
+    {
+      "antecedents": "Hell",
+      "consequents": "Piri Piri Fries",
+      "support": 0.0,
+      "confidence": 0.1,
+      "lift": 27.628
+    },
+    {
+      "antecedents": "Mango Shake",
+      "consequents": "Pomogranate",
+      "support": 0.0,
+      "confidence": 0.121,
+      "lift": 27.478
+    },
+    {
+      "antecedents": "Pomogranate",
+      "consequents": "Mango Shake",
+      "support": 0.0,
+      "confidence": 0.103,
+      "lift": 27.478
+    },
+    {
+      "antecedents": "Fresh Lemon Juice Salt",
+      "consequents": "Mineral Water (1 Ltr)",
+      "support": 0.0,
+      "confidence": 0.093,
+      "lift": 27.414
+    },
+    {
+      "antecedents": "Mineral Water (1 Ltr)",
+      "consequents": "Fresh Lemon Juice Salt",
+      "support": 0.0,
+      "confidence": 0.133,
+      "lift": 27.414
+    },
+    {
+      "antecedents": "Banana Milkshake",
+      "consequents": "Pineapple Milkshake",
+      "support": 0.0,
+      "confidence": 0.091,
+      "lift": 26.791
+    },
+    {
+      "antecedents": "Pineapple Milkshake",
+      "consequents": "Banana Milkshake",
+      "support": 0.0,
+      "confidence": 0.1,
+      "lift": 26.791
+    },
+    {
+      "antecedents": "Pepper Chicken Salad",
+      "consequents": "Vanilla Milk Shake",
+      "support": 0.0,
+      "confidence": 0.097,
+      "lift": 26.737
+    },
+    {
+      "antecedents": "Vanilla Milk Shake",
+      "consequents": "Pepper Chicken Salad",
+      "support": 0.0,
+      "confidence": 0.094,
+      "lift": 26.737
+    },
+    {
+      "antecedents": "Water Bottle 500ml",
+      "consequents": "Kung Fu Veg [sweet And Salt]",
+      "support": 0.0,
+      "confidence": 0.081,
+      "lift": 26.55
+    },
+    {
+      "antecedents": "Kung Fu Veg [sweet And Salt]",
+      "consequents": "Water Bottle 500ml",
+      "support": 0.0,
+      "confidence": 0.111,
+      "lift": 26.55
+    },
+    {
+      "antecedents": "French Fries Small",
+      "consequents": "Sweet Seeyam (2 Pcs)",
+      "support": 0.0,
+      "confidence": 0.083,
+      "lift": 26.313
+    },
+    {
+      "antecedents": "Green Apple Ice Tea",
+      "consequents": "Orange Tang",
+      "support": 0.0,
+      "confidence": 0.083,
+      "lift": 26.313
+    }
+  ]
+}

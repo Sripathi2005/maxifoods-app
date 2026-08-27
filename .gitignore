@@ -1,0 +1,20 @@
+# Large raw data files (>100MB)
+data/swiggy_chennai_data.csv
+*.csv.gz
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+env/
+venv/
+ENV/
+.env
+
+# Database / IDE
+*.sqlite3
+.vscode/
+.idea/
+.ds_store
+

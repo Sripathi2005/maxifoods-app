@@ -1,0 +1,11 @@
+restaurant_id,restaurant_name,city,primary_cuisine,avg_rating,total_ratings,cost_for_two,current_offer
+1,Geetham Veg Restaurant (T Nagar),Chennai (T Nagar),South Indian,4.2,6438,400,30% OFF up to Rs.120 for new users
+2,Zaitoon (Adyar),Chennai (Adyar),North Indian,4.3,2112,500,FLAT 20% OFF up to Rs.100
+3,Savoury Sea Shell (Nungambakkam),Chennai (Nungambakkam),Arabian,4.3,1404,400,FLAT Rs.75 OFF above Rs.399
+4,Perambur Sri Srinivasa Sweets and Snacks (Porur),Chennai (Porur),South Indian,4.4,7274,300,Free delivery on orders above Rs.149
+5,Pandia's Avenue (George Town),Chennai (George Town),Chettinad,3.8,3453,500,Buy 1 Get 1 on select Starters
+6,Bhatinda Xpress (OMR Perungudi),Chennai (OMR Perungudi),North Indian,3.8,3206,800,FLAT 15% OFF up to Rs.60
+7,FOODinBOX (Annanagar),Chennai (Annanagar),North Indian,4.1,3028,350,50% OFF up to Rs.80 on orders above Rs.199
+8,ONLY BIRIYANI (Velachery),Chennai (Velachery),Biryani Specialist,4.0,2343,300,FLAT 20% OFF up to Rs.100
+9,Grill House (Nungambakkam),Chennai (Nungambakkam),North Indian,3.9,7233,300,FLAT Rs.75 OFF above Rs.399
+10,Hotel Delma (Iyyapanthangal),Chennai (Iyyapanthangal),Arabian,4.1,2039,500,30% OFF up to Rs.120 for new users

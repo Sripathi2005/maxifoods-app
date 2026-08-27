@@ -1,0 +1,16 @@
+restaurant_id,restaurant_name,city,primary_cuisine,avg_rating,total_ratings,cost_for_two,current_offer
+1,Sangeetha Veg Restaurant,Chennai (Poonamallee),South Indian,4.4,1000,300,30% OFF up to Rs.120 for new users
+2,Victuals,Chennai (Poonamallee),Beverages,3.8,50,250,FLAT 20% OFF up to Rs.100
+3,Taj Restaurant,Chennai (Poonamallee),North Indian,3.9,500,400,FLAT Rs.75 OFF above Rs.399
+4,THE NEW BOX,Chennai (Purasawalkam),Chinese,3.9,100,300,Free delivery on orders above Rs.149
+5,Royal Sandwich,Chennai (Guindy),Juices,4.4,50,200,Buy 1 Get 1 on select Starters
+6,PARFAIT CAKES N BAKES,Chennai (Annanagar),Bakery,3.8,20,300,FLAT 15% OFF up to Rs.60
+7,BUHARI,Chennai (Mylapore),Biryani,4.0,1000,400,50% OFF up to Rs.80 on orders above Rs.199
+8,Masaledaar Desi Rasoi,Chennai (Egmore),North Indian,4.3,100,700,FLAT 20% OFF up to Rs.100
+9,Guest Hotel,Chennai (Purasawalkam),South Indian,4.3,1000,250,FLAT Rs.75 OFF above Rs.399
+10,Hotel Shiva Sagar,Chennai (Purasawalkam),North Indian,4.3,100,350,30% OFF up to Rs.120 for new users
+11,Liza Restaurant (Halal),Chennai (Purasawalkam),Arabian,4.2,100,400,30% OFF up to Rs.120 for new users
+12,Karaikkudi Chettinadu,Chennai (Poonamallee),South Indian,3.5,100,200,FLAT 20% OFF up to Rs.100
+13,Lassi Coruscoa,Chennai (Mogappair),Desserts,3.8,20,200,FLAT Rs.75 OFF above Rs.399
+14,Hotel Raaj Bhaavan,Chennai (Nungambakkam),South Indian,4.4,100,400,Free delivery on orders above Rs.149
+15,LAKSHMI RESTAURANT,Chennai (Poonamallee),Indian,3.7,50,350,Buy 1 Get 1 on select Starters

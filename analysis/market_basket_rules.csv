@@ -1,0 +1,41 @@
+antecedents,consequents,support,confidence,lift
+Extra Mayonnaise,Pista Milk Shake,0.001,0.128,40.481
+Pista Milk Shake,Extra Mayonnaise,0.001,0.179,40.481
+Spl. Kolambu (1 Bowl),Fresh Lemon Juice Sweet,0.0,0.133,36.838
+Fresh Lemon Juice Sweet,Spl. Kolambu (1 Bowl),0.0,0.125,36.838
+Crispy Paneer [barbeque Sauce Dress],Limca,0.0,0.111,35.083
+Limca,Crispy Paneer [barbeque Sauce Dress],0.0,0.143,35.083
+Grape,Lemon Mint Mojito,0.0,0.1,32.744
+Lemon Mint Mojito,Grape,0.0,0.148,32.744
+Extra Buttermilk,Tea,0.0,0.097,31.688
+Tea,Extra Buttermilk,0.0,0.111,31.688
+Butterscoth Shake,Strawberry Shake,0.001,0.133,31.021
+Strawberry Shake,Butterscoth Shake,0.001,0.158,31.021
+Malai Kofta (sweet Gravy) Small,Spl. Kolambu (1 Bowl),0.0,0.103,30.486
+Spl. Kolambu (1 Bowl),Malai Kofta (sweet Gravy) Small,0.0,0.1,30.486
+Poriyal (1 Bowl),Mineral Water (1 Ltr),0.0,0.103,30.226
+Mineral Water (1 Ltr),Poriyal (1 Bowl),0.0,0.133,30.226
+Apple,Badam Milk,0.0,0.129,30.02
+Badam Milk,Apple,0.0,0.105,30.02
+Arabian Falooda,Dates Milk Shake,0.0,0.103,29.251
+Dates Milk Shake,Arabian Falooda,0.0,0.129,29.251
+Green Apple Ice Tea,Mac & Cheese Fries,0.0,0.111,28.892
+Mac & Cheese Fries,Green Apple Ice Tea,0.0,0.118,28.892
+Kachumber Salad,Butter Scotch Delight,0.0,0.107,27.86
+Butter Scotch Delight,Kachumber Salad,0.0,0.088,27.86
+Piri Piri Fries,Hell,0.0,0.094,27.628
+Sambar (1 Bowl),Sappota (chikoo) Juice,0.0,0.094,27.628
+Sappota (chikoo) Juice,Sambar (1 Bowl),0.0,0.1,27.628
+Hell,Piri Piri Fries,0.0,0.1,27.628
+Mango Shake,Pomogranate,0.0,0.121,27.478
+Pomogranate,Mango Shake,0.0,0.103,27.478
+Fresh Lemon Juice Salt,Mineral Water (1 Ltr),0.0,0.093,27.414
+Mineral Water (1 Ltr),Fresh Lemon Juice Salt,0.0,0.133,27.414
+Banana Milkshake,Pineapple Milkshake,0.0,0.091,26.791
+Pineapple Milkshake,Banana Milkshake,0.0,0.1,26.791
+Pepper Chicken Salad,Vanilla Milk Shake,0.0,0.097,26.737
+Vanilla Milk Shake,Pepper Chicken Salad,0.0,0.094,26.737
+Water Bottle 500ml,Kung Fu Veg [sweet And Salt],0.0,0.081,26.55
+Kung Fu Veg [sweet And Salt],Water Bottle 500ml,0.0,0.111,26.55
+French Fries Small,Sweet Seeyam (2 Pcs),0.0,0.083,26.313
+Green Apple Ice Tea,Orange Tang,0.0,0.083,26.313

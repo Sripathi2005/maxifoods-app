@@ -29,5 +29,5 @@ COPY knime_etl_pipeline_2.png /app/knime_etl_pipeline_2.png
 # Expose port 8000
 EXPOSE 8000
 
-# Start command
-CMD ["uvicorn", "backend.app.main:app", "--host", "0.0.0.0", "--port", "8000"]
+# Run database seed first, then start FastAPI server
+CMD python -m backend.app.seed && uvicorn backend.app.main:app --host 0.0.0.0 --port 8000
